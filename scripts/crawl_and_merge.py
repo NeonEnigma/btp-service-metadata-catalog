@@ -1,57 +1,48 @@
 #!/usr/bin/env python3
 """
-Crawl a GitHub repo folder recursively and merge ALL files into ONE catalog file.
+Crawl GitHub repo folder recursively and build a SMALL catalog.
 
-Target (as requested):
-  https://github.com/SAP-samples/btp-service-metadata/tree/main/v1/developer
-
-What it does:
-- Recursively lists every file under v1/developer via GitHub Contents API
-- Downloads each file (raw download_url)
-- Stores everything into ONE JSON file: catalog.json
-  (path + sha + size + raw_url + text content if it's text; otherwise notes it's binary)
+Target:
+  SAP-samples/btp-service-metadata (main) /v1/developer
 
 Output:
   ./catalog.json
 
-Optional (recommended):
-  export GITHUB_TOKEN="ghp_..."  # higher rate limit
+Stored per entry:
+  - name
+  - displayName
+  - description
+  - link (prefers Discovery Center, else Documentation, else html_url)
+  - deprecated (aggregated over servicePlans + optional root flags)
+  - deprecationMessage (best-effort)
+  - deprecationDate (best-effort)
+  - raw_url, html_url, path, sha  (for traceability)
+
+Optional:
+  export GITHUB_TOKEN=...  (higher rate limit)
 
 Run:
   pip install requests
-  python crawl_and_merge.py
+  python crawl_small_catalog.py
 """
 
 from __future__ import annotations
 
-import base64
 import json
-import mimetypes
 import os
 import sys
 import time
-from dataclasses import dataclass
 from pathlib import Path
-from typing import Any, Dict, List, Optional
+from typing import Any, Dict, List, Optional, Tuple
 
 import requests
 
-# ---- Config (edit if needed) -------------------------------------------------
 OWNER = "SAP-samples"
 REPO = "btp-service-metadata"
 BRANCH = "main"
 START_PATH = "v1/developer"
 
 OUT_FILE = Path("catalog.json")
-
-# Safety limits
-MAX_BYTES_PER_FILE = 2_000_000      # 2 MB max content per file stored
-MAX_FILES = 50_000                 # sanity cap
-
-# Treat these as text by default (plus mime-type based check)
-TEXT_EXTS = {".json", ".yaml", ".yml", ".md", ".txt", ".csv", ".xml"}
-
-# -----------------------------------------------------------------------------
 
 GITHUB_API = "https://api.github.com"
 SESSION = requests.Session()
@@ -60,7 +51,7 @@ SESSION = requests.Session()
 def gh_headers() -> Dict[str, str]:
     h = {
         "Accept": "application/vnd.github+json",
-        "User-Agent": "crawler-merge-bot/1.0",
+        "User-Agent": "btp-metadata-small-catalog/1.0",
     }
     token = os.getenv("GITHUB_TOKEN")
     if token:
@@ -71,11 +62,11 @@ def gh_headers() -> Dict[str, str]:
 def api_get(url: str, params: Optional[dict] = None) -> requests.Response:
     resp = SESSION.get(url, headers=gh_headers(), params=params, timeout=30)
 
-    # Rate limit handling
+    # Simple rate limit handling
     if resp.status_code == 403 and resp.headers.get("X-RateLimit-Remaining") == "0":
         reset_ts = int(resp.headers.get("X-RateLimit-Reset", "0"))
         sleep_for = max(1, reset_ts - int(time.time()) + 2)
-        print(f"[rate-limit] Sleeping {sleep_for}s until reset...", file=sys.stderr)
+        print(f"[rate-limit] sleeping {sleep_for}s ...", file=sys.stderr)
         time.sleep(sleep_for)
         resp = SESSION.get(url, headers=gh_headers(), params=params, timeout=30)
 
@@ -87,10 +78,7 @@ def contents_url(path: str) -> str:
     return f"{GITHUB_API}/repos/{OWNER}/{REPO}/contents/{path}"
 
 
-def get_repo_head_sha() -> Optional[str]:
-    """
-    Resolve the branch head commit SHA for metadata (useful for reproducibility).
-    """
+def get_branch_head_sha() -> Optional[str]:
     url = f"{GITHUB_API}/repos/{OWNER}/{REPO}/git/refs/heads/{BRANCH}"
     try:
         data = api_get(url).json()
@@ -100,75 +88,166 @@ def get_repo_head_sha() -> Optional[str]:
 
 
 def list_dir(path: str) -> List[Dict[str, Any]]:
-    url = contents_url(path)
-    data = api_get(url, params={"ref": BRANCH}).json()
+    data = api_get(contents_url(path), params={"ref": BRANCH}).json()
     if not isinstance(data, list):
-        raise RuntimeError(f"Expected list from contents API for dir '{path}', got {type(data)}")
+        raise RuntimeError(f"Expected list for dir '{path}', got {type(data)}")
     return data
 
 
-def is_probably_text(path: str, content_type: Optional[str]) -> bool:
-    ext = Path(path).suffix.lower()
-    if ext in TEXT_EXTS:
-        return True
-    if content_type:
-        ct = content_type.split(";")[0].strip().lower()
-        if ct.startswith("text/"):
-            return True
-        if ct in {"application/json", "application/xml", "application/yaml", "application/x-yaml"}:
-            return True
-    # fallback: guess by extension/mime
-    mt, _ = mimetypes.guess_type(path)
-    return (mt or "").startswith("text/")
-
-
-def download_raw(url: str) -> requests.Response:
-    # Raw GitHub URLs usually don't need auth; keep UA header only
-    resp = SESSION.get(url, headers={"User-Agent": "crawler-merge-bot/1.0"}, timeout=60)
-    resp.raise_for_status()
-    return resp
-
-
-def crawl_paths(start_path: str) -> List[Dict[str, Any]]:
-    """
-    Recursively collect file items (as returned by GitHub Contents API) under start_path.
-    """
-    results: List[Dict[str, Any]] = []
-
+def crawl_file_items(start_path: str) -> List[Dict[str, Any]]:
+    files: List[Dict[str, Any]] = []
     stack = [start_path]
+
     while stack:
         p = stack.pop()
-        items = list_dir(p)
-
-        for item in items:
-            itype = item.get("type")
-            ipath = item.get("path")
-            if not ipath:
-                continue
-
-            if itype == "dir":
-                stack.append(ipath)
-            elif itype == "file":
-                results.append(item)
-                if len(results) > MAX_FILES:
-                    raise RuntimeError(f"Too many files (> {MAX_FILES}). Aborting for safety.")
+        for item in list_dir(p):
+            t = item.get("type")
+            if t == "dir":
+                stack.append(item["path"])
+            elif t == "file":
+                files.append(item)
             else:
                 # symlink/submodule/etc.
-                print(f"[skip] {itype}: {ipath}", file=sys.stderr)
+                pass
 
-    return results
+    return files
+
+
+def download_text(url: str) -> str:
+    # raw URLs are public; keep UA header only
+    resp = SESSION.get(url, headers={"User-Agent": "btp-metadata-small-catalog/1.0"}, timeout=60)
+    resp.raise_for_status()
+    return resp.text
+
+
+def pick_best_link(service_obj: Dict[str, Any], fallback_html_url: str) -> str:
+    """
+    Prefer Discovery Center link, then Documentation, else fallback html_url.
+    """
+    links = service_obj.get("links") or []
+    if isinstance(links, list):
+        # 1) Discovery Center
+        for l in links:
+            if not isinstance(l, dict):
+                continue
+            if (l.get("classification") or "").lower() == "discovery center" and l.get("value"):
+                return str(l["value"])
+        # 2) Documentation
+        for l in links:
+            if not isinstance(l, dict):
+                continue
+            if (l.get("classification") or "").lower() == "documentation" and l.get("value"):
+                return str(l["value"])
+        # 3) Anything with value
+        for l in links:
+            if isinstance(l, dict) and l.get("value"):
+                return str(l["value"])
+    return fallback_html_url
+
+
+def aggregate_deprecation(service_obj: Dict[str, Any]) -> Tuple[bool, Optional[str], Optional[str]]:
+    """
+    Deprecation signals can live in different places. We aggregate best-effort:
+    - servicePlans[].deprecated
+    - servicePlans[].deprecationMessage / deprecationDate
+    - root-level deprecated fields (if any, uncommon)
+    """
+    deprecated = False
+    msg: Optional[str] = None
+    date: Optional[str] = None
+
+    # Root-level (rare)
+    for k in ("deprecated", "isDeprecated"):
+        if isinstance(service_obj.get(k), bool) and service_obj.get(k):
+            deprecated = True
+
+    for k in ("deprecationMessage", "deprecatedMessage"):
+        v = service_obj.get(k)
+        if isinstance(v, str) and v.strip():
+            msg = v.strip()
+
+    for k in ("deprecationDate", "deprecatedDate"):
+        v = service_obj.get(k)
+        if isinstance(v, str) and v.strip():
+            date = v.strip()
+
+    # Service plan level (common)
+    plans = service_obj.get("servicePlans") or []
+    if isinstance(plans, list):
+        for p in plans:
+            if not isinstance(p, dict):
+                continue
+            if p.get("deprecated") is True:
+                deprecated = True
+                if not msg and isinstance(p.get("deprecationMessage"), str) and p["deprecationMessage"].strip():
+                    msg = p["deprecationMessage"].strip()
+                if not date and isinstance(p.get("deprecationDate"), str) and p["deprecationDate"].strip():
+                    date = p["deprecationDate"].strip()
+
+    return deprecated, msg, date
 
 
 def main() -> None:
-    print(f"[start] {OWNER}/{REPO}@{BRANCH}:{START_PATH}")
-    head_sha = get_repo_head_sha()
-    if head_sha:
-        print(f"[info] source head sha: {head_sha}")
+    head_sha = get_branch_head_sha()
 
-    files = crawl_paths(START_PATH)
-    print(f"[found] {len(files)} files")
+    print(f"[crawl] {OWNER}/{REPO}@{BRANCH}:{START_PATH}", file=sys.stderr)
+    files = crawl_file_items(START_PATH)
+    print(f"[found] {len(files)} files", file=sys.stderr)
 
-    catalog: Dict[str, Any] = {
+    entries: List[Dict[str, Any]] = []
+    errors = 0
+
+    for i, f in enumerate(files, start=1):
+        path = f.get("path", "")
+        raw_url = f.get("download_url")
+        html_url = f.get("html_url")
+        sha = f.get("sha")
+
+        # Only process JSON files (developer folder seems to be json)
+        if not path.endswith(".json"):
+            continue
+        if not raw_url or not html_url:
+            continue
+
+        try:
+            content = download_text(raw_url)
+            service_obj = json.loads(content)
+
+            # Extract minimal fields
+            name = service_obj.get("name") or Path(path).stem
+            display_name = service_obj.get("displayName")
+            description = service_obj.get("description")
+
+            # Build "service link"
+            link = pick_best_link(service_obj, html_url)
+
+            # Deprecation
+            deprecated, deprecation_message, deprecation_date = aggregate_deprecation(service_obj)
+
+            entry: Dict[str, Any] = {
+                "name": name,
+                "displayName": display_name,
+                "description": description,
+                "link": link,
+                "deprecated": deprecated,
+                "deprecationMessage": deprecation_message,
+                "deprecationDate": deprecation_date,
+                # traceability
+                "path": path,
+                "sha": sha,
+                "raw_url": raw_url,
+                "html_url": html_url,
+            }
+            entries.append(entry)
+
+        except Exception as e:
+            errors += 1
+            print(f"[error] {path}: {e}", file=sys.stderr)
+
+        if i % 50 == 0:
+            print(f"[progress] {i}/{len(files)}", file=sys.stderr)
+
+    catalog = {
         "generated_at_utc": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
         "source": {
             "owner": OWNER,
@@ -177,59 +256,13 @@ def main() -> None:
             "start_path": START_PATH,
             "head_sha": head_sha,
         },
-        "entries": [],
+        "count": len(entries),
+        "errors": errors,
+        "services": entries,
     }
 
-    for idx, f in enumerate(files, start=1):
-        path = f["path"]
-        raw_url = f.get("download_url")
-        sha = f.get("sha")
-        declared_size = f.get("size", 0)
-        html_url = f.get("html_url")
-
-        if not raw_url:
-            print(f"[warn] no download_url for {path} (skipping)", file=sys.stderr)
-            continue
-
-        try:
-            resp = download_raw(raw_url)
-            data = resp.content
-            ct = resp.headers.get("Content-Type")
-
-            entry: Dict[str, Any] = {
-                "path": path,
-                "sha": sha,
-                "declared_size": declared_size,
-                "downloaded_size": len(data),
-                "raw_url": raw_url,
-                "html_url": html_url,
-                "content_type": ct,
-            }
-
-            if len(data) > MAX_BYTES_PER_FILE:
-                entry["content"] = f"<<SKIPPED: too large ({len(data)} bytes) >>"
-            else:
-                if is_probably_text(path, ct):
-                    # decode best-effort
-                    try:
-                        entry["content"] = data.decode("utf-8")
-                    except UnicodeDecodeError:
-                        entry["content"] = data.decode("utf-8", errors="replace")
-                else:
-                    # store small binaries as base64 so it's truly "everything in one file"
-                    # (if you prefer to omit binaries, replace this with a note)
-                    entry["content_base64"] = base64.b64encode(data).decode("ascii")
-
-            catalog["entries"].append(entry)
-
-            if idx % 25 == 0 or idx == len(files):
-                print(f"[progress] {idx}/{len(files)}", file=sys.stderr)
-
-        except Exception as e:
-            print(f"[error] {path}: {e}", file=sys.stderr)
-
     OUT_FILE.write_text(json.dumps(catalog, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"[done] wrote {OUT_FILE} with {len(catalog['entries'])} entries")
+    print(f"[done] wrote {OUT_FILE} with {len(entries)} services (errors: {errors})", file=sys.stderr)
 
 
 if __name__ == "__main__":
