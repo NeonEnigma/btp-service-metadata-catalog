@@ -6,7 +6,8 @@ Target:
   SAP-samples/btp-service-metadata (main) /v1/developer
 
 Output:
-  ./catalog.json
+  - Writes ./catalog.json (debug/trace)
+  - Prints JSON to stdout in the shape: {"text": "<CATALOG_AS_STRING>"}
 
 Stored per entry:
   - name
@@ -261,7 +262,19 @@ def main() -> None:
         "services": entries,
     }
 
+    # Optional: keep writing a file for debugging/traceability
     OUT_FILE.write_text(json.dumps(catalog, ensure_ascii=False, indent=2), encoding="utf-8")
+
+    # REQUIRED by your action output schema: return property "text" as a STRING
+    payload = {
+        "text": json.dumps(catalog, ensure_ascii=False)  # compact string
+        # If you prefer pretty string (bigger):
+        # "text": json.dumps(catalog, ensure_ascii=False, indent=2)
+    }
+
+    # Many runners take stdout as the action result:
+    print(json.dumps(payload, ensure_ascii=False))
+
     print(f"[done] wrote {OUT_FILE} with {len(entries)} services (errors: {errors})", file=sys.stderr)
 
 
