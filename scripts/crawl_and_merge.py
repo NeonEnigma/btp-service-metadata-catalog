@@ -9,15 +9,10 @@ Output:
   - Writes ./catalog.json (debug/trace)
   - Prints JSON to stdout in the shape: {"text": "<CATALOG_AS_STRING>"}
 
-Stored per entry:
-  - name
-  - displayName
-  - description
-  - link (prefers Discovery Center, else Documentation, else html_url)
-  - deprecated (aggregated over servicePlans + optional root flags)
-  - deprecationMessage (best-effort)
-  - deprecationDate (best-effort)
-  - raw_url, html_url, path, sha  (for traceability)
+Change requested:
+  Per service entry, collapse selected fields into ONE string field "metadata":
+    metadata = JSON string of { "name", "description", "deprecated", "link" }
+  (No duplicates: only one metadata key per entry, plus traceability fields.)
 
 Optional:
   export GITHUB_TOKEN=...  (higher rate limit)
@@ -214,26 +209,28 @@ def main() -> None:
             content = download_text(raw_url)
             service_obj = json.loads(content)
 
-            # Extract minimal fields
+            # Minimal fields
             name = service_obj.get("name") or Path(path).stem
-            display_name = service_obj.get("displayName")
             description = service_obj.get("description")
 
             # Build "service link"
             link = pick_best_link(service_obj, html_url)
 
-            # Deprecation
-            deprecated, deprecation_message, deprecation_date = aggregate_deprecation(service_obj)
+            # Deprecation (bool)
+            deprecated, _deprecation_message, _deprecation_date = aggregate_deprecation(service_obj)
+
+            # Pack required fields into ONE string field "metadata"
+            metadata_obj = {
+                "name": name,
+                "description": description,
+                "deprecated": deprecated,
+                "link": link,
+            }
+            metadata_str = json.dumps(metadata_obj, ensure_ascii=False)
 
             entry: Dict[str, Any] = {
-                "name": name,
-                "displayName": display_name,
-                "description": description,
-                "link": link,
-                "deprecated": deprecated,
-                "deprecationMessage": deprecation_message,
-                "deprecationDate": deprecation_date,
-                # traceability
+                "metadata": metadata_str,
+                # traceability (kept separate; remove if you truly want ONLY metadata)
                 "path": path,
                 "sha": sha,
                 "raw_url": raw_url,
@@ -265,16 +262,14 @@ def main() -> None:
     # Optional: keep writing a file for debugging/traceability
     OUT_FILE.write_text(json.dumps(catalog, ensure_ascii=False, indent=2), encoding="utf-8")
 
-    # REQUIRED by your action output schema: return property "text" as a STRING
+    # REQUIRED: return property "text" as a STRING
     payload = {
         "text": json.dumps(catalog, ensure_ascii=False)  # compact string
         # If you prefer pretty string (bigger):
         # "text": json.dumps(catalog, ensure_ascii=False, indent=2)
     }
 
-    # Many runners take stdout as the action result:
     print(json.dumps(payload, ensure_ascii=False))
-
     print(f"[done] wrote {OUT_FILE} with {len(entries)} services (errors: {errors})", file=sys.stderr)
 
 
