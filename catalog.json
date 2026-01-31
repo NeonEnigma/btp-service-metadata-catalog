@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-01-31T05:40:07Z",
+  "generated_at_utc": "2026-01-31T06:41:05Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "bb8208f3449ec31ba75f4f5a412d786fe809050b"
+    "head_sha": "53b536cbd078550761580c0c417568a1061fc76a"
   },
   "count": 589,
   "errors": 0,
@@ -830,16 +830,16 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/cpservices-admin-service.json"
     },
     {
-      "metadata": "{\"name\": \"cpservices-pricing\", \"description\": \"Pricing service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/pricing-service\"}",
+      "metadata": "{\"name\": \"cpservices-pricing\", \"description\": \"Pricing service\", \"deprecated\": false, \"link\": \"https://help.sap.com/doc/755a95a78fd948cdac64cb2e36f7834c/Production/en-US/loio49cd543c5590462ca1c2c0a7403d404b.pdf\"}",
       "path": "v1/developer/cpservices-pricing.json",
-      "sha": "5dcdd82b898c15f96b1a22c3836a3f5ac5e400ff",
+      "sha": "de1d5064a372f8d95b0d84761d37a8e3eb2fc66c",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/cpservices-pricing.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/cpservices-pricing.json"
     },
     {
       "metadata": "{\"name\": \"cpservices-product-configuration\", \"description\": \"Variant Configuration\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/sap-variant-configuration-and-pricing\"}",
       "path": "v1/developer/cpservices-product-configuration.json",
-      "sha": "9384a443db8ff45f6c3a346406a820077057cae8",
+      "sha": "b77264be35486b8d6be62d18b87bb2d514ac3b6c",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/cpservices-product-configuration.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/cpservices-product-configuration.json"
     },
@@ -3000,9 +3000,9 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/ppservice-administration-trial.json"
     },
     {
-      "metadata": "{\"name\": \"ppservice-administration\", \"description\": \"Promotion Pricing, Administration\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/administration\"}",
+      "metadata": "{\"name\": \"ppservice-administration\", \"description\": \"Promotion Pricing, Administration\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/OPP/1b3fc438ec4d41b4b28f06f6b1575166/7fbba5bb121f4a469c1ca245f6e24f7f.html\"}",
       "path": "v1/developer/ppservice-administration.json",
-      "sha": "7b10620aae81fc34255604666b237ebcf6426105",
+      "sha": "bb4b8af4e48511951ab00d7daec03bb49c5c3c6f",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/ppservice-administration.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/ppservice-administration.json"
     },
@@ -3014,9 +3014,9 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/ppservice-calc-trial.json"
     },
     {
-      "metadata": "{\"name\": \"ppservice-calc\", \"description\": \"Promotion Pricing, Calculation\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/calculation\"}",
+      "metadata": "{\"name\": \"ppservice-calc\", \"description\": \"Promotion Pricing, Calculation\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/OPP/1b3fc438ec4d41b4b28f06f6b1575166/7fbba5bb121f4a469c1ca245f6e24f7f.html\"}",
       "path": "v1/developer/ppservice-calc.json",
-      "sha": "43c4b241d474d3a622df1d988c66d9212f46e926",
+      "sha": "cdf2d70a06ca1d1f50b99776a21976aa694300f2",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/ppservice-calc.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/ppservice-calc.json"
     },
@@ -3042,9 +3042,9 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/ppservice-inbound-trial.json"
     },
     {
-      "metadata": "{\"name\": \"ppservice-inbound\", \"description\": \"Promotion Pricing, Data Upload\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/data-upload\"}",
+      "metadata": "{\"name\": \"ppservice-inbound\", \"description\": \"Promotion Pricing, Data Upload\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/OPP/7c87270e23c64c2aa922ce297a6df23d/cf812463f24242afa95965263a7ee944.html\"}",
       "path": "v1/developer/ppservice-inbound.json",
-      "sha": "3aee9f38a9768bd69c3dfd524326636fe9c2c3a3",
+      "sha": "e676143329b0a9efe6a755ea537e65c90b82ca1b",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/ppservice-inbound.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/ppservice-inbound.json"
     },
@@ -3056,9 +3056,9 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/ppservice-odata-trial.json"
     },
     {
-      "metadata": "{\"name\": \"ppservice-odata\", \"description\": \"Promotion Pricing, Data Access\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/data-access\"}",
+      "metadata": "{\"name\": \"ppservice-odata\", \"description\": \"Promotion Pricing, Data Access\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/OPP/1b3fc438ec4d41b4b28f06f6b1575166/7fbba5bb121f4a469c1ca245f6e24f7f.html\"}",
       "path": "v1/developer/ppservice-odata.json",
-      "sha": "fdbcf83d780b873b006745f45a48b030aaeb5aec",
+      "sha": "0cc5b9fc69b22fe202a05c4b64f3fe4f9be6d466",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/ppservice-odata.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/ppservice-odata.json"
     },
