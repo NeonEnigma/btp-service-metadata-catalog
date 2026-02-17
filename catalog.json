@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-17T04:53:13Z",
+  "generated_at_utc": "2026-02-17T05:58:06Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
@@ -7,8 +7,8 @@
     "start_path": "v1/developer",
     "head_sha": "53b536cbd078550761580c0c417568a1061fc76a"
   },
-  "count": 589,
-  "errors": 0,
+  "count": 588,
+  "errors": 1,
   "services": [
     {
       "metadata": "{\"name\": \"3dvisualization\", \"description\": \"SAP 3D Visual Enterprise, Cloud Edition\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/CP_3D_Visualization/Cloud/en-US\"}",
@@ -2459,13 +2459,6 @@
       "sha": "36a32ee263cf1b3f3c50718d324452578aaac82e",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/manage-problem-solving-processes-prod.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/manage-problem-solving-processes-prod.json"
-    },
-    {
-      "metadata": "{\"name\": \"Manage-Problem-Solving-Processes-qlty\", \"description\": \"SAP Quality Issue Resolution Quality\", \"deprecated\": false, \"link\": \"https://help.sap.com/qir\"}",
-      "path": "v1/developer/manage-problem-solving-processes-qlty.json",
-      "sha": "c088967309f1dbd882f0a592393165d87f141137",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/manage-problem-solving-processes-qlty.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/manage-problem-solving-processes-qlty.json"
     },
     {
       "metadata": "{\"name\": \"market-rates-byor\", \"description\": \"Market Rates, Bring Your Own Rates\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/market-rates-bring-your-own-rates\"}",
