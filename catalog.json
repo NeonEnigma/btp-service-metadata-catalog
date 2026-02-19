@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-18T23:32:19Z",
+  "generated_at_utc": "2026-02-19T02:13:33Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
@@ -7,8 +7,8 @@
     "start_path": "v1/developer",
     "head_sha": "53b536cbd078550761580c0c417568a1061fc76a"
   },
-  "count": 586,
-  "errors": 3,
+  "count": 589,
+  "errors": 0,
   "services": [
     {
       "metadata": "{\"name\": \"3dvisualization\", \"description\": \"SAP 3D Visual Enterprise, Cloud Edition\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/CP_3D_Visualization/Cloud/en-US\"}",
@@ -72,6 +72,13 @@
       "sha": "56dfcd5c46d04c69842a818aa7bf92a2959b113a",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/adsrestapi.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/adsrestapi.json"
+    },
+    {
+      "metadata": "{\"name\": \"advanced-solution-bundling\", \"description\": \"SAP Advanced Solution Bundling\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_ADVANCED_SOLUTION_BUNDLING\"}",
+      "path": "v1/developer/advanced-solution-bundling.json",
+      "sha": "914743313facb0b486e6ac3bfca3f5fa1e062ace",
+      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/advanced-solution-bundling.json",
+      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/advanced-solution-bundling.json"
     },
     {
       "metadata": "{\"name\": \"aem-validation-service\", \"description\": \"Advanced event mesh for SAP Integration Suite is a complete event streaming, event management, and monitoring platform that incorporates best practices, expertise, and technology for event-driven architecture (EDA) on a single platform.\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/advanced-event-mesh\"}",
@@ -1173,6 +1180,13 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/document-translation.json"
     },
     {
+      "metadata": "{\"name\": \"dq-services\", \"description\": \"Data Quality Services\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/protected/index.html#/serviceCatalog/data-quality-services?commercialModel=payg&tab=feature&region=all\"}",
+      "path": "v1/developer/dq-services.json",
+      "sha": "7248475166e89d8abc2f99d119a356c95a24bbd3",
+      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/dq-services.json",
+      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/dq-services.json"
+    },
+    {
       "metadata": "{\"name\": \"dqmmicroui\", \"description\": \"Data Quality Services UI\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/protected/index.html#/serviceCatalog/data-quality-services?commercialModel=payg&tab=feature&region=all\"}",
       "path": "v1/developer/dqmmicroui.json",
       "sha": "4a9314105adc8d8f9e58ff0fb3723681f83a88ac",
@@ -1591,6 +1605,13 @@
       "sha": "15e6e1ddc19808677813ce3ee1754cc17107c192",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/failure-mode-analytics.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/failure-mode-analytics.json"
+    },
+    {
+      "metadata": "{\"name\": \"farming\", \"description\": \"SAP Intelligent Agriculture\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_INTELLIGENT_AGRICULTURE\"}",
+      "path": "v1/developer/farming.json",
+      "sha": "61336e065f74e5207c86ced2c003e6342c6b45f9",
+      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/farming.json",
+      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/farming.json"
     },
     {
       "metadata": "{\"name\": \"feature-flags-dashboard\", \"description\": \"Feature Flags Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/feature-flags-service\"}",
