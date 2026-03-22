@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-03-22T05:55:20Z",
+  "generated_at_utc": "2026-03-22T06:54:14Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "d18a80ef53bb9040b289d35aff33097a2dac38d0"
+    "head_sha": "6cba9c1e02fe83776db853ef4e3d98569f627500"
   },
   "count": 599,
   "errors": 0,
@@ -1056,7 +1056,7 @@
     {
       "metadata": "{\"name\": \"data-privacy-integration-service\", \"description\": \"Data Privacy Integration\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/data-privacy-integration\"}",
       "path": "v1/developer/data-privacy-integration-service.json",
-      "sha": "5ab1bb0ac5b98adec6e836e4ad48504b0b7c8b30",
+      "sha": "9bcbb73e8e88e0df723e74acb6235b8f3a512c6d",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/data-privacy-integration-service.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/data-privacy-integration-service.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "8b9bf9223baf01cbebe31f3c8f182be24b561aca",
+      "sha": "8506612d5585064edadfaa550a4f964de08195f2",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -3331,7 +3331,7 @@
     {
       "metadata": "{\"name\": \"redis-cache\", \"description\": \"Redis, Hyperscaler Option\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/redis-hyperscaler-option\"}",
       "path": "v1/developer/redis-cache.json",
-      "sha": "fe5fa4a655cb47f072399565de51ef99aa4d07b6",
+      "sha": "0b26a378d2dd64a844e3e6623be489cfdef8beda",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/redis-cache.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/redis-cache.json"
     },
