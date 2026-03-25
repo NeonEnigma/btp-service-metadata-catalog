@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-03-25T06:02:22Z",
+  "generated_at_utc": "2026-03-25T07:53:13Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "3c745ccfb47edcee58fd8c338987068335c6994d"
+    "head_sha": "467a2ced788519ee652f6ef15914b3f02a876923"
   },
   "count": 599,
   "errors": 0,
@@ -209,7 +209,7 @@
     {
       "metadata": "{\"name\": \"apimanagement-apiportal\", \"description\": \"API Management, API portal\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/BTP/66d066d903c2473f81ec33acfe2ccdb4/e765066197904519a730c3bca40f28b0.html\"}",
       "path": "v1/developer/apimanagement-apiportal.json",
-      "sha": "f35420d8496ac4a9803f46b2fc3916bdf9e942b8",
+      "sha": "b93dd030d7e2acc110624e9217b5c0303305f360",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/apimanagement-apiportal.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/apimanagement-apiportal.json"
     },
@@ -223,7 +223,7 @@
     {
       "metadata": "{\"name\": \"apimanagement-devportal\", \"description\": \"API Management, developer portal\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/BTP/66d066d903c2473f81ec33acfe2ccdb4/e765066197904519a730c3bca40f28b0.html\"}",
       "path": "v1/developer/apimanagement-devportal.json",
-      "sha": "8d2a8ae9c9fdb69945ac470d139b0a2c3656b677",
+      "sha": "3a601e17c14a86d4d866615577a8882bb88bc6b0",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/apimanagement-devportal.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/apimanagement-devportal.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "cf95436e77203d9a46cde3e4b17950886084ce1b",
+      "sha": "cc33c387c2db03123fe4b4b0a433efc9bf82df57",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
