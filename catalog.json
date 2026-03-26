@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-26T10:09:26Z",
+  "generated_at_utc": "2026-03-26T11:52:00Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
@@ -7,8 +7,8 @@
     "start_path": "v1/developer",
     "head_sha": "2f4add81dfec75519c914f32d86a385ca444347b"
   },
-  "count": 589,
-  "errors": 10,
+  "count": 599,
+  "errors": 0,
   "services": [
     {
       "metadata": "{\"name\": \"3dvisualization\", \"description\": \"SAP 3D Visual Enterprise, Cloud Edition\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/CP_3D_Visualization/Cloud/en-US\"}",
@@ -438,11 +438,25 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/brh.json"
     },
     {
+      "metadata": "{\"name\": \"broker-reconciliation-cm\", \"description\": \"SAP Broker Reconciliation for Commodity Derivatives\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_BROKER_RECONCILIATION_FOR_COMMODITY_DERIVATIVES/SHIP/en-US\"}",
+      "path": "v1/developer/broker-reconciliation-cm.json",
+      "sha": "ee607b18e5a7d04810ab2ae380ce69ab082e5165",
+      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/broker-reconciliation-cm.json",
+      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/broker-reconciliation-cm.json"
+    },
+    {
       "metadata": "{\"name\": \"broker-reconciliation-integration-service\", \"description\": \"SAP Broker Reconciliation for Commodity Derivatives\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_BROKER_RECONCILIATION_FOR_COMMODITY_DERIVATIVES/7bfca8961b5a47999d733b7c8ea446f6/6f3d9131905547c79152aa0bb949dafa.html\"}",
       "path": "v1/developer/broker-reconciliation-integration-service.json",
       "sha": "18b4cbab2ce8a377e9b367d3b61386c89a5f205c",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/broker-reconciliation-integration-service.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/broker-reconciliation-integration-service.json"
+    },
+    {
+      "metadata": "{\"name\": \"broker-reconciliation\", \"description\": \"SAP Broker Reconciliation for Commodity Derivatives\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_BROKER_RECONCILIATION_FOR_COMMODITY_DERIVATIVES/SHIP/en-US\"}",
+      "path": "v1/developer/broker-reconciliation.json",
+      "sha": "7c2bb15f0693d30f01c07f8c7a8f6fd86f8b66d5",
+      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/broker-reconciliation.json",
+      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/broker-reconciliation.json"
     },
     {
       "metadata": "{\"name\": \"build-code\", \"description\": \"SAP Build Code\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/build_code\"}",
@@ -3357,11 +3371,25 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/responsibility-management-service-beta.json"
     },
     {
+      "metadata": "{\"name\": \"responsibilitymanagement-application\", \"description\": \"As we move toward an intelligent enterprise, intelligent systems need to determine agents who are responsible for business processes and objects, and automatically notify them. It is essential to define and manage these responsibilities for various contexts and retrieve responsible agents who can respond to tasks and activities.\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/RESPONSIBILITY_MANAGEMENT_SCP/SHIP/en-US\"}",
+      "path": "v1/developer/responsibilitymanagement-application.json",
+      "sha": "a42ff5919f6cb860843584d13d7a858b485517b5",
+      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/responsibilitymanagement-application.json",
+      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/responsibilitymanagement-application.json"
+    },
+    {
       "metadata": "{\"name\": \"responsibilitymanagement-service\", \"description\": \"As we move toward an intelligent enterprise, intelligent systems need to determine agents who are responsible for business processes and objects, and automatically notify them. It is essential to define and manage these responsibilities for various contexts and retrieve responsible agents who can respond to tasks and activities.\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/responsibility-management-service\"}",
       "path": "v1/developer/responsibilitymanagement-service.json",
       "sha": "60d86d22157619d12eb116d875fa884a4221d496",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/responsibilitymanagement-service.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/responsibilitymanagement-service.json"
+    },
+    {
+      "metadata": "{\"name\": \"restart-c4re\", \"description\": \"Employees can book a workspace for coming to the office and Real Estate Managers can restrict capacities to steer office ramp up.\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_CLOUD_FOR_REAL_ESTATE\"}",
+      "path": "v1/developer/restart-c4re.json",
+      "sha": "7d4186bd505fe25112751664f780916c0948d9c7",
+      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/restart-c4re.json",
+      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/restart-c4re.json"
     },
     {
       "metadata": "{\"name\": \"retention-manager-app\", \"description\": \"Data Retention Manager\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-data-retention-manager\"}",
@@ -3462,6 +3490,13 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sap-calm.json"
     },
     {
+      "metadata": "{\"name\": \"sap-cash-application-integration\", \"description\": \"SAP Cash Application for Testing\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_CASH_APPLICATION\"}",
+      "path": "v1/developer/sap-cash-application-integration.json",
+      "sha": "ef24094e9ac559835cdd1e193a0fc932a34462b9",
+      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sap-cash-application-integration.json",
+      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sap-cash-application-integration.json"
+    },
+    {
       "metadata": "{\"name\": \"sap-cash-application-production\", \"description\": \"SAP Cash Application\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_CASH_APPLICATION\"}",
       "path": "v1/developer/sap-cash-application-production.json",
       "sha": "fb7a928f7412a1c06f214b5e939e1cb866e0367e",
@@ -3518,6 +3553,20 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sap-consulting-capability.json"
     },
     {
+      "metadata": "{\"name\": \"sap-document-information-extraction\", \"description\": \"SAP Document AI\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-document-ai\"}",
+      "path": "v1/developer/sap-document-information-extraction.json",
+      "sha": "b52f9e51c60877f58d4de22013aadd4c38b0add6",
+      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sap-document-information-extraction.json",
+      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sap-document-information-extraction.json"
+    },
+    {
+      "metadata": "{\"name\": \"sap-graph\", \"description\": \"SAP Graph\", \"deprecated\": false, \"link\": \"https://api.sap.com/graph\"}",
+      "path": "v1/developer/sap-graph.json",
+      "sha": "ac40abcc0487bd89d741e8930115fd0ef6e2bf6c",
+      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sap-graph.json",
+      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sap-graph.json"
+    },
+    {
       "metadata": "{\"name\": \"sap-greentoken-api\", \"description\": \"SAP Green Token\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/greentoken\"}",
       "path": "v1/developer/sap-greentoken-api.json",
       "sha": "3a23f06067e9e0369d508b0e1a42058f7a60cfaa",
@@ -3565,6 +3614,13 @@
       "sha": "3ba63a6bc36be825e4279b7b1043b0aa6be6b8f0",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sap-loyalty-broker.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sap-loyalty-broker.json"
+    },
+    {
+      "metadata": "{\"name\": \"sap-loyalty\", \"description\": \"Delivers integrated loyalty programs with core marketing capabilities and commerce capabilities across multiple channels.<br/><br/>With SAP Loyalty Marketing, you can:<br/><br/>&bull; Create special experiences for your best customers. Manage elite tiers and points to deliver rewards to privileged customers.<br/>&bull; Go beyond loyalty. Convert customers to lifetime brand advocates.<br/>&bull; Easily set up loyalty programs, tiers, business rules, and manage loyalty members.\", \"deprecated\": false, \"link\": \"https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sap-loyalty.json\"}",
+      "path": "v1/developer/sap-loyalty.json",
+      "sha": "a7c1c49b71d3f9a6779c3d31a1a9d968d3d65ab1",
+      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sap-loyalty.json",
+      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sap-loyalty.json"
     },
     {
       "metadata": "{\"name\": \"SAP-Maintenance-Assistant\", \"description\": \"SAP Maintenance Assistant\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_MAINTENANCE_ASSISTANT\"}",
@@ -3616,6 +3672,13 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sap-sf-askhr-prod.json"
     },
     {
+      "metadata": "{\"name\": \"sap-smartbusiness-service\", \"description\": \"Smart Business Service\", \"deprecated\": false, \"link\": \"https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sap-smartbusiness-service.json\"}",
+      "path": "v1/developer/sap-smartbusiness-service.json",
+      "sha": "0aab10d135a4a727070eea5f85c861dec38cb578",
+      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sap-smartbusiness-service.json",
+      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sap-smartbusiness-service.json"
+    },
+    {
       "metadata": "{\"name\": \"sap-translation-hub\", \"description\": \"SAP Translation Hub\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-translation-hub\"}",
       "path": "v1/developer/sap-translation-hub.json",
       "sha": "2802c7d4b2d95f7c30b8438044aee487b814121d",
@@ -3642,6 +3705,13 @@
       "sha": "bfb078321e4034cd6afbfa6a82aa34882bcb1a1c",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sapappstudiotrial.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sapappstudiotrial.json"
+    },
+    {
+      "metadata": "{\"name\": \"SAPCloudALM\", \"description\": \"SAP Cloud ALM\", \"deprecated\": false, \"link\": \"https://support.sap.com/en/alm/sap-cloud-alm.html\"}",
+      "path": "v1/developer/sapcloudalm.json",
+      "sha": "ba6cc8e92422bf67d220d253fa326e497c6f33fc",
+      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sapcloudalm.json",
+      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sapcloudalm.json"
     },
     {
       "metadata": "{\"name\": \"SAPCloudALMAPIs\", \"description\": \"SAP Cloud ALM API\", \"deprecated\": false, \"link\": \"https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sapcloudalmapis.json\"}",
