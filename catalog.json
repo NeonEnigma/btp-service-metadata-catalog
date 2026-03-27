@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-03-27T05:07:49Z",
+  "generated_at_utc": "2026-03-27T07:09:27Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "2f4add81dfec75519c914f32d86a385ca444347b"
+    "head_sha": "07d97be314b88322840e458a0d5bce340b71106f"
   },
   "count": 599,
   "errors": 0,
@@ -223,7 +223,7 @@
     {
       "metadata": "{\"name\": \"apimanagement-devportal\", \"description\": \"API Management, developer portal\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/BTP/66d066d903c2473f81ec33acfe2ccdb4/e765066197904519a730c3bca40f28b0.html\"}",
       "path": "v1/developer/apimanagement-devportal.json",
-      "sha": "3a601e17c14a86d4d866615577a8882bb88bc6b0",
+      "sha": "6877e51b49460531b31a89c5bcd113a284db38b0",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/apimanagement-devportal.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/apimanagement-devportal.json"
     },
@@ -734,7 +734,7 @@
     {
       "metadata": "{\"name\": \"cloudfoundry\", \"description\": \"Cloud Foundry Environment\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/cloud-foundry-runtime\"}",
       "path": "v1/developer/cloudfoundry.json",
-      "sha": "fc15776fdefc26cfab628987d90aa2372e3d5856",
+      "sha": "bc42cdc344417ae2244575b9fc8e4f04d18bf9fb",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/cloudfoundry.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/cloudfoundry.json"
     },
@@ -1112,7 +1112,7 @@
     {
       "metadata": "{\"name\": \"di-api\", \"description\": \"Data Space Integration API Access\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/integration-suite?region=all&tab=service_plan\"}",
       "path": "v1/developer/di-api.json",
-      "sha": "5f23f08b8a793cec1878087fbe9c4c217e86224b",
+      "sha": "2e4194380bd855e8f0970cc4d9f9d64f39141ade",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/di-api.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/di-api.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "cc33c387c2db03123fe4b4b0a433efc9bf82df57",
+      "sha": "f29410d569801608da1c7b31286b76ff170e9531",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -2015,7 +2015,7 @@
     {
       "metadata": "{\"name\": \"integration-assessment\", \"description\": \"Integration Assessment\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/integration-suite/sap-integration-suite/310067e3e49342ddbe5a90c8f33a1910.html\"}",
       "path": "v1/developer/integration-assessment.json",
-      "sha": "53b388fea6b7e76c723ccb8f0c57fc20ce3c2d0e",
+      "sha": "c11f784a6f3e6de884bcbbed8bda9aba396c9deb",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/integration-assessment.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/integration-assessment.json"
     },
@@ -2036,7 +2036,7 @@
     {
       "metadata": "{\"name\": \"integrationsuite\", \"description\": \"Integration Suite\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/integration-suite\"}",
       "path": "v1/developer/integrationsuite.json",
-      "sha": "f6cbaee5ff2ab8afb5274c4ec97ed9413b299022",
+      "sha": "226a974134331b8535e90880dee2c3d4a9261c0e",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/integrationsuite.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/integrationsuite.json"
     },
@@ -2204,7 +2204,7 @@
     {
       "metadata": "{\"name\": \"it-rt\", \"description\": \"Provides access to the integration flow endpoints and public APIs of the Cloud Integration capability of Integration Suite. You need this service instance only if you want to execute the integration flows or access Cloud Integration resources via APIs.\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_INTEGRATION_SUITE/51ab953548be4459bfe8539ecaeee98d/19af5e205fe14af6a4f8a9fd80d4dc92.html\"}",
       "path": "v1/developer/it-rt.json",
-      "sha": "b7b4e7821b4330a74251683f1e03b9565829c64a",
+      "sha": "98310975d193dd67686a61d044d492b9c0d97d08",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/it-rt.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/it-rt.json"
     },
@@ -3037,7 +3037,7 @@
     {
       "metadata": "{\"name\": \"postgresql-db\", \"description\": \"PostgreSQL on SAP BTP, hyperscaler option provides a managed relational database service, based on native PostgreSQL offerings from cloud providers AWS, Microsoft Azure, Google Cloud Platform and Alicloud.\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/postgresql-hyperscaler-option\"}",
       "path": "v1/developer/postgresql-db.json",
-      "sha": "60fa32d80a7c0c00c12e240e864d02baed7acfcf",
+      "sha": "d7cc94ed3077b89dbb2f45e501ba1651577b33ab",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/postgresql-db.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/postgresql-db.json"
     },
@@ -3968,7 +3968,7 @@
     {
       "metadata": "{\"name\": \"sports-one\", \"description\": \"SAP Sports One\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_SPORTS_ONE/Latest/en-US\"}",
       "path": "v1/developer/sports-one.json",
-      "sha": "fc0bf5981b630c9cd55d7c22f185d5d4e8b58762",
+      "sha": "9e65b586410b5e60ba14d5d95c48fb8ab41cd3c4",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sports-one.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sports-one.json"
     },
