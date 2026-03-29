@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-03-29T05:11:53Z",
+  "generated_at_utc": "2026-03-29T07:06:27Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "01977b942e3541c07345ab70d42d8e00a3652575"
+    "head_sha": "3e1c8fdcbad2146721586f77e93623f0df8f8f83"
   },
   "count": 599,
   "errors": 0,
@@ -1112,7 +1112,7 @@
     {
       "metadata": "{\"name\": \"di-api\", \"description\": \"Data Space Integration API Access\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/integration-suite?region=all&tab=service_plan\"}",
       "path": "v1/developer/di-api.json",
-      "sha": "2e4194380bd855e8f0970cc4d9f9d64f39141ade",
+      "sha": "eef061c27dd937f10c148c84a359d833cc8e6f52",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/di-api.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/di-api.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "6ee1470c496dd0d96fa7944cd1e45a12e60c8469",
+      "sha": "74658e63edf3a440d77f87c0795c7c3915cfa75c",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
