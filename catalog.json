@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-03-30T05:26:18Z",
+  "generated_at_utc": "2026-03-30T07:45:23Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "3e1c8fdcbad2146721586f77e93623f0df8f8f83"
+    "head_sha": "6a9bca731ec7a076a681f97075fb00be44561158"
   },
   "count": 599,
   "errors": 0,
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "74658e63edf3a440d77f87c0795c7c3915cfa75c",
+      "sha": "f29410d569801608da1c7b31286b76ff170e9531",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -2162,7 +2162,7 @@
     {
       "metadata": "{\"name\": \"irm-api-service\", \"description\": \"SAP Intelligent Returns Management\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/returns\"}",
       "path": "v1/developer/irm-api-service.json",
-      "sha": "b704b559a827b631b3de3d68e9a5eaf3ff9e5270",
+      "sha": "cc53954e94ff508306ddff9141af8d9e4cff0818",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/irm-api-service.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/irm-api-service.json"
     },
