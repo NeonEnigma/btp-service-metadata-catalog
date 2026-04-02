@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-04-02T05:04:25Z",
+  "generated_at_utc": "2026-04-02T07:14:44Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "fe585991eda2783b4a63dd7be9eb3f2e74ea5598"
+    "head_sha": "ef11cda6c765a4f395dc85ecd74866f7762ff036"
   },
   "count": 599,
   "errors": 0,
@@ -34,7 +34,7 @@
     {
       "metadata": "{\"name\": \"abap\", \"description\": \"ABAP environment\", \"deprecated\": true, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/abap-environment\"}",
       "path": "v1/developer/abap.json",
-      "sha": "ca1dd57e4c89e623bce90d7e90c51352a433b3e3",
+      "sha": "ec50fe9dc7450179d4c934c5aae99ac583f0cba9",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/abap.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/abap.json"
     },
@@ -118,14 +118,14 @@
     {
       "metadata": "{\"name\": \"ai-launchpad\", \"description\": \"SAP AI Launchpad\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-ai-launchpad\"}",
       "path": "v1/developer/ai-launchpad.json",
-      "sha": "72624491c2201d07fc4cebd6676ebdca0ad30f38",
+      "sha": "15f58584a5fb7102b8708fe60b6df485d824af00",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/ai-launchpad.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/ai-launchpad.json"
     },
     {
       "metadata": "{\"name\": \"aicore\", \"description\": \"SAP AI Core\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/sap-ai-core\"}",
       "path": "v1/developer/aicore.json",
-      "sha": "9785f5b04de1875abb05e1bf9ce62d6a74ff9b18",
+      "sha": "15710137a249560797218de2fab095bd5143d833",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/aicore.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/aicore.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "3af8bb3f80dee881bb8b67f96141108230e13f92",
+      "sha": "b8e39928fd02eb930266ffdc5bfc72362d7cea09",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -2239,7 +2239,7 @@
     {
       "metadata": "{\"name\": \"kymaruntime\", \"description\": \"Kyma Runtime\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/kyma-runtime\"}",
       "path": "v1/developer/kymaruntime.json",
-      "sha": "d6a2a74201592b3affb622cdc83ebf6f99c8e8f4",
+      "sha": "93f8a559bd20386ac958d465f65de77365854c4d",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/kymaruntime.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/kymaruntime.json"
     },
