@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-04-03T05:06:39Z",
+  "generated_at_utc": "2026-04-03T07:11:40Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "ef11cda6c765a4f395dc85ecd74866f7762ff036"
+    "head_sha": "68ef6379af16d77518cd52d3ee71d4d9ac9b67aa"
   },
   "count": 599,
   "errors": 0,
@@ -34,7 +34,7 @@
     {
       "metadata": "{\"name\": \"abap\", \"description\": \"ABAP environment\", \"deprecated\": true, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/abap-environment\"}",
       "path": "v1/developer/abap.json",
-      "sha": "ec50fe9dc7450179d4c934c5aae99ac583f0cba9",
+      "sha": "fef30880931155cf8ac0c748b1c4a4c9f6464b21",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/abap.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/abap.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "b8e39928fd02eb930266ffdc5bfc72362d7cea09",
+      "sha": "10cf2c2a01962f761672ebc13c6b5b29ca5daf04",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -4071,9 +4071,9 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/uas.json"
     },
     {
-      "metadata": "{\"name\": \"ui5-flexibility-keyuser\", \"description\": \"The UI5 flexibility service for key users lets you provide UI adaptation capabilites for your UI5 applications on Cloud Foundry. Users of your applications can change the user interface of your applications in an upgrade-safe and modification-free way, without affecting any other customer.\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/ui5-flexibility-for-key-users\"}",
+      "metadata": "{\"name\": \"ui5-flexibility-keyuser\", \"description\": \"The UI5 flexibility service for key users lets you provide UI adaptation capabilites for your UI5 applications on Cloud Foundry. Users of your applications can change the user interface of your applications in an upgrade-safe and modification-free way, without affecting any other customer.\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/ui-flexibility-service\"}",
       "path": "v1/developer/ui5-flexibility-keyuser.json",
-      "sha": "d2c4cabbf0d3874ed19c7267ad2f44a7bf43ea9f",
+      "sha": "e05156842a5da2e741b2800647b985ef95476b0c",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/ui5-flexibility-keyuser.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/ui5-flexibility-keyuser.json"
     },
