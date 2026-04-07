@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-04-07T05:10:43Z",
+  "generated_at_utc": "2026-04-07T07:19:23Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "118a7e2d63bdd2cb169b72e1bdcda83ad0aa6662"
+    "head_sha": "fe656d110aa04007f96718ffd11fd500895d3f47"
   },
   "count": 599,
   "errors": 0,
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "f29410d569801608da1c7b31286b76ff170e9531",
+      "sha": "b2902c09f42a6a1ec9a0a5dca7f03c3fe5096d69",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
