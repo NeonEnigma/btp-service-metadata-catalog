@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": "2026-04-15T05:25:52Z",
+  "generated_at_utc": "2026-04-15T07:48:38Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "31f1544195a55f24823c00ca3cd26abf40464ddc"
+    "head_sha": "bb85293b47db5a157fe66d8ddee8cb3ec2cb745c"
   },
-  "count": 599,
+  "count": 600,
   "errors": 0,
   "services": [
     {
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "9e38b8e6c53c73b0b4fe6f79ddf869a1b0034613",
+      "sha": "77567e7ebbc7c8867c073d1826d4a317b8191ec9",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -2036,7 +2036,7 @@
     {
       "metadata": "{\"name\": \"integrationsuite\", \"description\": \"Integration Suite\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/integration-suite\"}",
       "path": "v1/developer/integrationsuite.json",
-      "sha": "ea846691450c61fd50bd5617e821916cb61bc574",
+      "sha": "bf9abfe994276de589c3e97dd3286954387ff701",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/integrationsuite.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/integrationsuite.json"
     },
@@ -2473,6 +2473,13 @@
       "sha": "0e4ea59f14ee7cce6e25c3ddd5c4e624fa06ff4b",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/maco-e2em-prod.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/maco-e2em-prod.json"
+    },
+    {
+      "metadata": "{\"name\": \"maco-mmt-css-ctest\", \"description\": \"SAP Market Communication for Utilities provides a cloud-based solution for the holistic management of communication processes in the German energy market, tightly integrated with SAP for Utilities.\", \"deprecated\": false, \"link\": \"http://help.sap.com/maco\"}",
+      "path": "v1/developer/maco-mmt-css-ctest.json",
+      "sha": "1455ca41d98112359c5e548add589cccbe18469f",
+      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/maco-mmt-css-ctest.json",
+      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/maco-mmt-css-ctest.json"
     },
     {
       "metadata": "{\"name\": \"maco-production\", \"description\": \"SAP Market Communication for Utilities\", \"deprecated\": false, \"link\": \"https://help.sap.com/maco\"}",
