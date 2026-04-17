@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-04-17T05:30:04Z",
+  "generated_at_utc": "2026-04-17T07:48:46Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "bb85293b47db5a157fe66d8ddee8cb3ec2cb745c"
+    "head_sha": "896b7f156edd9777d2843fd408547284e89e27bb"
   },
   "count": 600,
   "errors": 0,
@@ -734,7 +734,7 @@
     {
       "metadata": "{\"name\": \"cloudfoundry\", \"description\": \"Cloud Foundry Environment\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/cloud-foundry-runtime\"}",
       "path": "v1/developer/cloudfoundry.json",
-      "sha": "bc42cdc344417ae2244575b9fc8e4f04d18bf9fb",
+      "sha": "0e6e350552b7de1e42626dd61ebdc6fb3837b5d5",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/cloudfoundry.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/cloudfoundry.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "77567e7ebbc7c8867c073d1826d4a317b8191ec9",
+      "sha": "ab42d687d9e048a183dbbaaf53621c3a99adba02",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
