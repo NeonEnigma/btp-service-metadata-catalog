@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-04-19T05:31:08Z",
+  "generated_at_utc": "2026-04-19T07:21:11Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "896b7f156edd9777d2843fd408547284e89e27bb"
+    "head_sha": "93024961ed1ce5174d626d2b8658ad20bc38c949"
   },
   "count": 600,
   "errors": 0,
@@ -846,28 +846,28 @@
     {
       "metadata": "{\"name\": \"cps-administration\", \"description\": \"SAP Variant Configuration and Pricing\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/sap-variant-configuration-and-pricing\"}",
       "path": "v1/developer/cps-administration.json",
-      "sha": "e5b6595bce79b6ac7ad7de51cde24395be582b92",
+      "sha": "1a63216fa6a01b5b6bb37501fadcd81a158e4987",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/cps-administration.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/cps-administration.json"
     },
     {
       "metadata": "{\"name\": \"cpservices-admin-service\", \"description\": \"Administration Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/sap-variant-configuration-and-pricing\"}",
       "path": "v1/developer/cpservices-admin-service.json",
-      "sha": "dbee26e992241e206ca7d36f3bd9f19f22d8a672",
+      "sha": "5707556f7dd162e45b9f29f9a06dc4352e9f9beb",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/cpservices-admin-service.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/cpservices-admin-service.json"
     },
     {
       "metadata": "{\"name\": \"cpservices-pricing\", \"description\": \"Pricing service\", \"deprecated\": false, \"link\": \"https://help.sap.com/doc/755a95a78fd948cdac64cb2e36f7834c/Production/en-US/loio49cd543c5590462ca1c2c0a7403d404b.pdf\"}",
       "path": "v1/developer/cpservices-pricing.json",
-      "sha": "6430ed448d40deb36f6f29132644d4e37f47ef1b",
+      "sha": "007dccc505f4870f8494489747603bb26c41df59",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/cpservices-pricing.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/cpservices-pricing.json"
     },
     {
       "metadata": "{\"name\": \"cpservices-product-configuration\", \"description\": \"Variant Configuration\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/sap-variant-configuration-and-pricing\"}",
       "path": "v1/developer/cpservices-product-configuration.json",
-      "sha": "236989bdb2002337d9c178b68cce3ac1f1bc48cd",
+      "sha": "f7e129c53674c80e9ab43f18b4764d53e83c5212",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/cpservices-product-configuration.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/cpservices-product-configuration.json"
     },
@@ -1301,7 +1301,7 @@
     {
       "metadata": "{\"name\": \"dynamic-forms\", \"description\": \"SAP Dynamic Forms\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/dynamic-forms\"}",
       "path": "v1/developer/dynamic-forms.json",
-      "sha": "a81e38849bc97fe7c6e6c71b181e14db18e7cdb5",
+      "sha": "3cd5d62fd90a0520435360994dc7292e1dd29d9b",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/dynamic-forms.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/dynamic-forms.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "ab42d687d9e048a183dbbaaf53621c3a99adba02",
+      "sha": "9fbaf01f84150a6f2b2b9e4305a7f358b229f279",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -2239,7 +2239,7 @@
     {
       "metadata": "{\"name\": \"kymaruntime\", \"description\": \"Kyma Runtime\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/kyma-runtime\"}",
       "path": "v1/developer/kymaruntime.json",
-      "sha": "93f8a559bd20386ac958d465f65de77365854c4d",
+      "sha": "2f4d4f27bc3dc5152284c8c67e85dbf205a88758",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/kymaruntime.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/kymaruntime.json"
     },
