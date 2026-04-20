@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-04-20T05:43:37Z",
+  "generated_at_utc": "2026-04-20T08:09:36Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "93024961ed1ce5174d626d2b8658ad20bc38c949"
+    "head_sha": "9a71935363372929bef12dae584b6031c86cbbcc"
   },
   "count": 600,
   "errors": 0,
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "9fbaf01f84150a6f2b2b9e4305a7f358b229f279",
+      "sha": "dae9c29e1ba7df30f96e64f38326c46f85ce9544",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -1868,7 +1868,7 @@
     {
       "metadata": "{\"name\": \"hl7-fhir-service\", \"description\": \"SAP Health Data Services for FHIR\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-health-data-services-for-fhir\"}",
       "path": "v1/developer/hl7-fhir-service.json",
-      "sha": "f71eb96a545e91e49224b4bbe7d7fcee16cd2651",
+      "sha": "fe19dcbe92d809bad5039b98f57b010a9c76459a",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hl7-fhir-service.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hl7-fhir-service.json"
     },
