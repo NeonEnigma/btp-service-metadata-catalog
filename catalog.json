@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-04-21T05:28:44Z",
+  "generated_at_utc": "2026-04-21T07:53:42Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "9a71935363372929bef12dae584b6031c86cbbcc"
+    "head_sha": "68ce63fb198454f3217db15df22930093719f80a"
   },
   "count": 600,
   "errors": 0,
@@ -125,7 +125,7 @@
     {
       "metadata": "{\"name\": \"aicore\", \"description\": \"SAP AI Core\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/sap-ai-core\"}",
       "path": "v1/developer/aicore.json",
-      "sha": "15710137a249560797218de2fab095bd5143d833",
+      "sha": "d567c3d6b8fcbb9ff81692137d955b1091353aa1",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/aicore.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/aicore.json"
     },
@@ -1077,7 +1077,7 @@
     {
       "metadata": "{\"name\": \"decentralized-identity-management\", \"description\": \"Decentralized Identity Verification\", \"deprecated\": false, \"link\": \"https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?tag=language:english&search=Supplement%20Business%20Technology%20Platform&sort=latest_desc\"}",
       "path": "v1/developer/decentralized-identity-management.json",
-      "sha": "9cae81f14985bb697e6f1ff7800c9081d5d726db",
+      "sha": "d1446c2cf3831b8de34825e8d41ea4a3c079fc48",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/decentralized-identity-management.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/decentralized-identity-management.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "dae9c29e1ba7df30f96e64f38326c46f85ce9544",
+      "sha": "65cd45779a7e59b72a7aceb401d19c14b52a8425",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -3275,7 +3275,7 @@
     {
       "metadata": "{\"name\": \"projects-cloud-resource-management\", \"description\": \"Resource Management\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/PPRM_OD\"}",
       "path": "v1/developer/projects-cloud-resource-management.json",
-      "sha": "2957806d13e08d911f55483ae7e3aae0f447f238",
+      "sha": "a0a167cfe663826b7f4ae8a71ea85aeb3eaa3efc",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/projects-cloud-resource-management.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/projects-cloud-resource-management.json"
     },
