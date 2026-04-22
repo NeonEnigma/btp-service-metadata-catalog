@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": "2026-04-22T05:27:15Z",
+  "generated_at_utc": "2026-04-22T07:49:13Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "68ce63fb198454f3217db15df22930093719f80a"
+    "head_sha": "eda0a427fe05273af418274228e405905fdfaa77"
   },
-  "count": 600,
+  "count": 601,
   "errors": 0,
   "services": [
     {
@@ -846,7 +846,7 @@
     {
       "metadata": "{\"name\": \"cps-administration\", \"description\": \"SAP Variant Configuration and Pricing\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/sap-variant-configuration-and-pricing\"}",
       "path": "v1/developer/cps-administration.json",
-      "sha": "1a63216fa6a01b5b6bb37501fadcd81a158e4987",
+      "sha": "bf8d953c4fabbe696e5981a147376fbf2d20b027",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/cps-administration.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/cps-administration.json"
     },
@@ -860,14 +860,14 @@
     {
       "metadata": "{\"name\": \"cpservices-pricing\", \"description\": \"Pricing service\", \"deprecated\": false, \"link\": \"https://help.sap.com/doc/755a95a78fd948cdac64cb2e36f7834c/Production/en-US/loio49cd543c5590462ca1c2c0a7403d404b.pdf\"}",
       "path": "v1/developer/cpservices-pricing.json",
-      "sha": "007dccc505f4870f8494489747603bb26c41df59",
+      "sha": "f94e01aa07bf1baa4c831a64163aca5f55a0625c",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/cpservices-pricing.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/cpservices-pricing.json"
     },
     {
       "metadata": "{\"name\": \"cpservices-product-configuration\", \"description\": \"Variant Configuration\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/sap-variant-configuration-and-pricing\"}",
       "path": "v1/developer/cpservices-product-configuration.json",
-      "sha": "f7e129c53674c80e9ab43f18b4764d53e83c5212",
+      "sha": "0df44b3d9596eae00796eea288fd081cdbf8190f",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/cpservices-product-configuration.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/cpservices-product-configuration.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "65cd45779a7e59b72a7aceb401d19c14b52a8425",
+      "sha": "8bb6f8bbaf2ae344ef1f45481767c7a6e8e5078c",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -2239,7 +2239,7 @@
     {
       "metadata": "{\"name\": \"kymaruntime\", \"description\": \"Kyma Runtime\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/kyma-runtime\"}",
       "path": "v1/developer/kymaruntime.json",
-      "sha": "2f4d4f27bc3dc5152284c8c67e85dbf205a88758",
+      "sha": "6817bd5914904cadd9bde5b3692d1738a08b2d30",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/kymaruntime.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/kymaruntime.json"
     },
@@ -3429,7 +3429,7 @@
     {
       "metadata": "{\"name\": \"revenue-cloud\", \"description\": \"SAP Subscription Billing\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/CLOUD_TO_CASH_OD/latest/en-US?task=discover_task\"}",
       "path": "v1/developer/revenue-cloud.json",
-      "sha": "153798a710f6c5c95634871bf9e040dadf5b115c",
+      "sha": "265d03bc248d1821939ab4040bc2a3541aef44ca",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/revenue-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/revenue-cloud.json"
     },
@@ -3658,6 +3658,13 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sap-product-footprint-management.json"
     },
     {
+      "metadata": "{\"name\": \"sap-rex\", \"description\": \"SAP Retail Execution\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/retail-execution-mobile-app\"}",
+      "path": "v1/developer/sap-rex.json",
+      "sha": "b88ce7f46dbabb0226e8309a2048a6bb043d5388",
+      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sap-rex.json",
+      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sap-rex.json"
+    },
+    {
       "metadata": "{\"name\": \"sap-s4hanamsteams\", \"description\": \"SAP S/4HANA for Microsoft Teams\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_S4HANA_CLOUD/0f69f8fb28ac4bf48d2b57b9637e81fa/257ec7408db6420682462cd1d000e744.html\"}",
       "path": "v1/developer/sap-s4hanamsteams.json",
       "sha": "1bd4e660692d7998e173abed6a353029b4305ae1",
@@ -3751,7 +3758,7 @@
     {
       "metadata": "{\"name\": \"SAPHybrisRevenueCloud\", \"description\": \"SAP Subscription Billing\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/987aec876092428f88162e438acf80d6/latest/en-US\"}",
       "path": "v1/developer/saphybrisrevenuecloud.json",
-      "sha": "b13f6c3c84dc138b0076b50ec608c91d0b78cdd9",
+      "sha": "335f598bb3743e3ceb10c022dce121c3641183ae",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/saphybrisrevenuecloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/saphybrisrevenuecloud.json"
     },
@@ -3975,7 +3982,7 @@
     {
       "metadata": "{\"name\": \"sports-one\", \"description\": \"SAP Sports One\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_SPORTS_ONE/Latest/en-US\"}",
       "path": "v1/developer/sports-one.json",
-      "sha": "9e65b586410b5e60ba14d5d95c48fb8ab41cd3c4",
+      "sha": "4578289f25ec705dd173ed7297dd93f1f4325973",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sports-one.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sports-one.json"
     },
