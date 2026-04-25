@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": "2026-04-25T05:12:39Z",
+  "generated_at_utc": "2026-04-25T07:19:48Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "0aba4d008bfe42d1b34490d143f0177360080405"
+    "head_sha": "f973d3838adf149ac73969516c000473b8b0e45a"
   },
-  "count": 601,
+  "count": 602,
   "errors": 0,
   "services": [
     {
@@ -1056,7 +1056,7 @@
     {
       "metadata": "{\"name\": \"data-privacy-integration-service\", \"description\": \"Data Privacy Integration\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/data-privacy-integration\"}",
       "path": "v1/developer/data-privacy-integration-service.json",
-      "sha": "9bcbb73e8e88e0df723e74acb6235b8f3a512c6d",
+      "sha": "acb21ed8bf45f2fc34339162368816e9681adb80",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/data-privacy-integration-service.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/data-privacy-integration-service.json"
     },
@@ -1686,7 +1686,7 @@
     {
       "metadata": "{\"name\": \"grc-businesscontenthub\", \"description\": \"GRC Content Hub service\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/489dc5cf7e914e05b2741116f34e56d8/1.0/en-US\"}",
       "path": "v1/developer/grc-businesscontenthub.json",
-      "sha": "7e1495b22e3e66667b4869f56e73ce251cdb804c",
+      "sha": "cd0e1f6686ea6b2c4850964d440c2dec8337be95",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/grc-businesscontenthub.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/grc-businesscontenthub.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "59913feab7356728d74bb726d3617e0cdd381361",
+      "sha": "d17f6cc48a7925ef5f632a3a108ecb200ed1b5e7",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -2036,7 +2036,7 @@
     {
       "metadata": "{\"name\": \"integrationsuite\", \"description\": \"Integration Suite\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/integration-suite\"}",
       "path": "v1/developer/integrationsuite.json",
-      "sha": "bf9abfe994276de589c3e97dd3286954387ff701",
+      "sha": "0cdbb5fed340a8e8ee7616795ecca8a1fe9fab56",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/integrationsuite.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/integrationsuite.json"
     },
@@ -2204,7 +2204,7 @@
     {
       "metadata": "{\"name\": \"it-rt\", \"description\": \"Provides access to the integration flow endpoints and public APIs of the Cloud Integration capability of Integration Suite. You need this service instance only if you want to execute the integration flows or access Cloud Integration resources via APIs.\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_INTEGRATION_SUITE/51ab953548be4459bfe8539ecaeee98d/19af5e205fe14af6a4f8a9fd80d4dc92.html\"}",
       "path": "v1/developer/it-rt.json",
-      "sha": "98310975d193dd67686a61d044d492b9c0d97d08",
+      "sha": "68268bff460a259040f6ba738e90a57853920694",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/it-rt.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/it-rt.json"
     },
@@ -2480,6 +2480,13 @@
       "sha": "1455ca41d98112359c5e548add589cccbe18469f",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/maco-mmt-css-ctest.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/maco-mmt-css-ctest.json"
+    },
+    {
+      "metadata": "{\"name\": \"maco-mmt-css-prod\", \"description\": \"SAP Market Communication for Utilities\", \"deprecated\": false, \"link\": \"http://help.sap.com/maco\"}",
+      "path": "v1/developer/maco-mmt-css-prod.json",
+      "sha": "985a6c659e9f19b29228a076863adbb6c647f033",
+      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/maco-mmt-css-prod.json",
+      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/maco-mmt-css-prod.json"
     },
     {
       "metadata": "{\"name\": \"maco-production\", \"description\": \"SAP Market Communication for Utilities\", \"deprecated\": false, \"link\": \"https://help.sap.com/maco\"}",
