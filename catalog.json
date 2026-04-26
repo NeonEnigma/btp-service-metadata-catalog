@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-04-26T05:41:37Z",
+  "generated_at_utc": "2026-04-26T07:41:57Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "f973d3838adf149ac73969516c000473b8b0e45a"
+    "head_sha": "1c2cae1e9687ef950ac2ca3b9e76ef2a8b01a997"
   },
   "count": 602,
   "errors": 0,
@@ -1028,7 +1028,7 @@
     {
       "metadata": "{\"name\": \"data-custodian\", \"description\": \"SAP Data Custodian Central Key Management\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/538dde61cf134c89bda1c31100a6c0e1/latest/en-US/350b4a25b47242e9b7091954f557b46b.html\"}",
       "path": "v1/developer/data-custodian.json",
-      "sha": "532cff64ae5101b4927c82698fa31067e113dd22",
+      "sha": "cfe989d42ec9951e799918880142bab47f5ccd45",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/data-custodian.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/data-custodian.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "d17f6cc48a7925ef5f632a3a108ecb200ed1b5e7",
+      "sha": "6ffa0c15e370bf78881db97ef7d641b1da739a6a",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
