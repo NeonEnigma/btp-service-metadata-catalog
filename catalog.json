@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-04-27T05:56:49Z",
+  "generated_at_utc": "2026-04-27T08:28:15Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "1c2cae1e9687ef950ac2ca3b9e76ef2a8b01a997"
+    "head_sha": "524f96ec7aa20962f9b6482a1ec820b8d5b3f05b"
   },
   "count": 602,
   "errors": 0,
@@ -109,9 +109,9 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/agricultural-origination-portal-api.json"
     },
     {
-      "metadata": "{\"name\": \"agricultural-origination-portal\", \"description\": \"Agricultural Origination Portal provides information on business transactions like contracts, deliveries, inventory and settlements in a modern, state of the art digitized way through a portal running on laptops and mobile devices\", \"deprecated\": false, \"link\": \"https://community.sap.com/search/?ct=blog&q=SAP%20Agricultural%20Origination%20Portal\"}",
+      "metadata": "{\"name\": \"agricultural-origination-portal\", \"description\": \"Agricultural Origination Portal provides information on business transactions like contracts, deliveries, inventory and settlements in a modern, state of the art digitized way through a portal running on laptops and mobile devices\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_AGRICULTURAL_ORIGINATION_PORTAL\"}",
       "path": "v1/developer/agricultural-origination-portal.json",
-      "sha": "1d15b83c7cc76b80d361fbc85779bae7ade31dd3",
+      "sha": "da85adb38f47ac84cd6f57abf97ed7e0e809b3df",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/agricultural-origination-portal.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/agricultural-origination-portal.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "6ffa0c15e370bf78881db97ef7d641b1da739a6a",
+      "sha": "1edc3f59dc9b14a66b3e97c663fe6998992d1c34",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -3541,7 +3541,7 @@
     {
       "metadata": "{\"name\": \"sap-cell-gene-therapy-orchestration-api-service\", \"description\": \"SAP Cell and Gene Therapy Orchestration\", \"deprecated\": false, \"link\": \"https://help.sap.com/cgto\"}",
       "path": "v1/developer/sap-cell-gene-therapy-orchestration-api-service.json",
-      "sha": "bb08893379d31bd8bc095bc8bfab49de6b841255",
+      "sha": "cce8770b34ed6c4c5ff65ff9b421c52da6f6db3e",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sap-cell-gene-therapy-orchestration-api-service.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sap-cell-gene-therapy-orchestration-api-service.json"
     },
