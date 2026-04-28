@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-04-28T06:12:16Z",
+  "generated_at_utc": "2026-04-28T09:23:40Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "524f96ec7aa20962f9b6482a1ec820b8d5b3f05b"
+    "head_sha": "d7caf1ae4bd68c9b96f130839abc58bb5627372f"
   },
   "count": 602,
   "errors": 0,
@@ -1238,14 +1238,14 @@
     {
       "metadata": "{\"name\": \"drcc-app\", \"description\": \"Exchange electronic documents between business systems and external communication parties.\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_DRC_CLOUD\"}",
       "path": "v1/developer/drcc-app.json",
-      "sha": "bd25c69807c95c692b3cece945597b74bd3addcd",
+      "sha": "fecf4737d6a490ed3828ef6b1d55f9b1e8c508d5",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/drcc-app.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/drcc-app.json"
     },
     {
       "metadata": "{\"name\": \"drcc\", \"description\": \"Exchange electronic documents between business systems and external communication parties.\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_DRC_CLOUD\"}",
       "path": "v1/developer/drcc.json",
-      "sha": "f2ea12f9691e84ce93b3e147ede175c37cf10369",
+      "sha": "a157e09e8c510912c71c92457441b4adb5c13f56",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/drcc.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/drcc.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "1edc3f59dc9b14a66b3e97c663fe6998992d1c34",
+      "sha": "a87d529ef91bcd5eaf3fb3c5c0f1b2b4e49cef9e",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
