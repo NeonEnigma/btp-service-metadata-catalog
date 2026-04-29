@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-04-29T05:56:41Z",
+  "generated_at_utc": "2026-04-29T08:24:55Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "d7caf1ae4bd68c9b96f130839abc58bb5627372f"
+    "head_sha": "3fd9a418eb9c8becea788c468cea09c8f71db629"
   },
   "count": 602,
   "errors": 0,
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "a87d529ef91bcd5eaf3fb3c5c0f1b2b4e49cef9e",
+      "sha": "9bd424a3b6f8aba6ac3450bc5a0049404a1cf7b9",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -2015,7 +2015,7 @@
     {
       "metadata": "{\"name\": \"integration-assessment\", \"description\": \"Integration Assessment\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/integration-suite/sap-integration-suite/310067e3e49342ddbe5a90c8f33a1910.html\"}",
       "path": "v1/developer/integration-assessment.json",
-      "sha": "c11f784a6f3e6de884bcbbed8bda9aba396c9deb",
+      "sha": "15f9f5e9efcc95cc2231e14546cdcd4770aa7ff9",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/integration-assessment.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/integration-assessment.json"
     },
@@ -3051,7 +3051,7 @@
     {
       "metadata": "{\"name\": \"postgresql-db\", \"description\": \"PostgreSQL on SAP BTP, hyperscaler option provides a managed relational database service, based on native PostgreSQL offerings from cloud providers AWS, Microsoft Azure, Google Cloud Platform and Alicloud.\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/postgresql-hyperscaler-option\"}",
       "path": "v1/developer/postgresql-db.json",
-      "sha": "d7cc94ed3077b89dbb2f45e501ba1651577b33ab",
+      "sha": "c2445c76235ce72851bfee7c20d19628870849c6",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/postgresql-db.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/postgresql-db.json"
     },
@@ -4213,7 +4213,7 @@
     {
       "metadata": "{\"name\": \"xfs-runtime\", \"description\": \"Provides runtime access to OData services exposed by the OData Provisioning capability in SAP Integration Suite. Please note that the extension capability is deprecated.\", \"deprecated\": false, \"link\": \"https://help.sap.com/doc/5e8107bf49684962b897217040398007/\"}",
       "path": "v1/developer/xfs-runtime.json",
-      "sha": "0e13fda5a3bfea8e2fd8c23cde977ff8a648bc62",
+      "sha": "348f91f3a33ab7b4a026dc3d9321e3b44e336e86",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/xfs-runtime.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/xfs-runtime.json"
     },
