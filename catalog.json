@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-04-30T06:32:31Z",
+  "generated_at_utc": "2026-04-30T09:12:29Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "3fd9a418eb9c8becea788c468cea09c8f71db629"
+    "head_sha": "ebc026adb27f9cc9e3354c8ed992401f73853af7"
   },
   "count": 602,
   "errors": 0,
@@ -209,7 +209,7 @@
     {
       "metadata": "{\"name\": \"apimanagement-apiportal\", \"description\": \"API Management, API portal\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/BTP/66d066d903c2473f81ec33acfe2ccdb4/e765066197904519a730c3bca40f28b0.html\"}",
       "path": "v1/developer/apimanagement-apiportal.json",
-      "sha": "b93dd030d7e2acc110624e9217b5c0303305f360",
+      "sha": "f022279a42fda34cca5aae82d661e0507864a02e",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/apimanagement-apiportal.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/apimanagement-apiportal.json"
     },
@@ -223,7 +223,7 @@
     {
       "metadata": "{\"name\": \"apimanagement-devportal\", \"description\": \"API Management, developer portal\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/BTP/66d066d903c2473f81ec33acfe2ccdb4/e765066197904519a730c3bca40f28b0.html\"}",
       "path": "v1/developer/apimanagement-devportal.json",
-      "sha": "6877e51b49460531b31a89c5bcd113a284db38b0",
+      "sha": "e007e0458570f74fab67473f75e4b04eed5e0ab2",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/apimanagement-devportal.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/apimanagement-devportal.json"
     },
@@ -860,14 +860,14 @@
     {
       "metadata": "{\"name\": \"cpservices-pricing\", \"description\": \"Pricing service\", \"deprecated\": false, \"link\": \"https://help.sap.com/doc/755a95a78fd948cdac64cb2e36f7834c/Production/en-US/loio49cd543c5590462ca1c2c0a7403d404b.pdf\"}",
       "path": "v1/developer/cpservices-pricing.json",
-      "sha": "f94e01aa07bf1baa4c831a64163aca5f55a0625c",
+      "sha": "5896adba2d58a97db5a85155fe13c14163d5efaf",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/cpservices-pricing.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/cpservices-pricing.json"
     },
     {
       "metadata": "{\"name\": \"cpservices-product-configuration\", \"description\": \"Variant Configuration\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/sap-variant-configuration-and-pricing\"}",
       "path": "v1/developer/cpservices-product-configuration.json",
-      "sha": "0df44b3d9596eae00796eea288fd081cdbf8190f",
+      "sha": "fb047f3bec4dd1678d5cfcd013e2dbf9672a5bda",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/cpservices-product-configuration.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/cpservices-product-configuration.json"
     },
@@ -1182,7 +1182,7 @@
     {
       "metadata": "{\"name\": \"document-grounding\", \"description\": \"Document Grounding\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/joule/joule-capabilities/set-up-document-grounding-capability\"}",
       "path": "v1/developer/document-grounding.json",
-      "sha": "b71e7cbc2bb350453e09c9582a2c593ff18aa282",
+      "sha": "6a5903fbc1c4ca63c4b4a9dd695f6748217a98ee",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/document-grounding.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/document-grounding.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "9bd424a3b6f8aba6ac3450bc5a0049404a1cf7b9",
+      "sha": "61c72e56eeaad94b7f79c4f4b74753cc01b97515",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -2239,7 +2239,7 @@
     {
       "metadata": "{\"name\": \"kymaruntime\", \"description\": \"Kyma Runtime\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/kyma-runtime\"}",
       "path": "v1/developer/kymaruntime.json",
-      "sha": "6817bd5914904cadd9bde5b3692d1738a08b2d30",
+      "sha": "e3213651fd193f5c8567a743117be518c27a40cb",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/kymaruntime.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/kymaruntime.json"
     },
@@ -3051,7 +3051,7 @@
     {
       "metadata": "{\"name\": \"postgresql-db\", \"description\": \"PostgreSQL on SAP BTP, hyperscaler option provides a managed relational database service, based on native PostgreSQL offerings from cloud providers AWS, Microsoft Azure, Google Cloud Platform and Alicloud.\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/postgresql-hyperscaler-option\"}",
       "path": "v1/developer/postgresql-db.json",
-      "sha": "c2445c76235ce72851bfee7c20d19628870849c6",
+      "sha": "90ffd0a253cd2589d83db0fc568e114d3e2a6622",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/postgresql-db.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/postgresql-db.json"
     },
@@ -3324,7 +3324,7 @@
     {
       "metadata": "{\"name\": \"quotation-management\", \"description\": \"SAP Ariba supplier quotation management\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SCP_QUOTATION\"}",
       "path": "v1/developer/quotation-management.json",
-      "sha": "dfc775c7d5ddc27674f4facedb43d4a61ee87308",
+      "sha": "57f2b4558f51874e0a5b396c4cdd2eac97748f1b",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/quotation-management.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/quotation-management.json"
     },
