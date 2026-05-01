@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-05-01T06:37:17Z",
+  "generated_at_utc": "2026-05-01T09:01:30Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "ebc026adb27f9cc9e3354c8ed992401f73853af7"
+    "head_sha": "8f7f97a392701ba16335083eb20f99ebc6cb4fe8"
   },
   "count": 602,
   "errors": 0,
@@ -118,14 +118,14 @@
     {
       "metadata": "{\"name\": \"ai-launchpad\", \"description\": \"SAP AI Launchpad\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-ai-launchpad\"}",
       "path": "v1/developer/ai-launchpad.json",
-      "sha": "15f58584a5fb7102b8708fe60b6df485d824af00",
+      "sha": "bace544dfb766e96f724e345f78e80666790d6b4",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/ai-launchpad.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/ai-launchpad.json"
     },
     {
       "metadata": "{\"name\": \"aicore\", \"description\": \"SAP AI Core\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/sap-ai-core\"}",
       "path": "v1/developer/aicore.json",
-      "sha": "d567c3d6b8fcbb9ff81692137d955b1091353aa1",
+      "sha": "ea49e1fcd42ee897fcde2840166f6f2ce6c5d2f8",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/aicore.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/aicore.json"
     },
@@ -846,14 +846,14 @@
     {
       "metadata": "{\"name\": \"cps-administration\", \"description\": \"SAP Variant Configuration and Pricing\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/sap-variant-configuration-and-pricing\"}",
       "path": "v1/developer/cps-administration.json",
-      "sha": "bf8d953c4fabbe696e5981a147376fbf2d20b027",
+      "sha": "56ee7603153626dad3bdebad3a4b9191b1dcbf4a",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/cps-administration.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/cps-administration.json"
     },
     {
       "metadata": "{\"name\": \"cpservices-admin-service\", \"description\": \"Administration Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/sap-variant-configuration-and-pricing\"}",
       "path": "v1/developer/cpservices-admin-service.json",
-      "sha": "5707556f7dd162e45b9f29f9a06dc4352e9f9beb",
+      "sha": "fa153bd14c88d3f48345fccbbc0beda3bbae63ba",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/cpservices-admin-service.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/cpservices-admin-service.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "61c72e56eeaad94b7f79c4f4b74753cc01b97515",
+      "sha": "52f2d56b6d9215cce850f27e8890bbbaaded8fd7",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -3051,7 +3051,7 @@
     {
       "metadata": "{\"name\": \"postgresql-db\", \"description\": \"PostgreSQL on SAP BTP, hyperscaler option provides a managed relational database service, based on native PostgreSQL offerings from cloud providers AWS, Microsoft Azure, Google Cloud Platform and Alicloud.\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/postgresql-hyperscaler-option\"}",
       "path": "v1/developer/postgresql-db.json",
-      "sha": "90ffd0a253cd2589d83db0fc568e114d3e2a6622",
+      "sha": "9462f04d63ee4e55b347ded816a1318e8b111794",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/postgresql-db.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/postgresql-db.json"
     },
