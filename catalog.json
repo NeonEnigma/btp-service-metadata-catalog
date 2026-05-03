@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-05-03T06:11:41Z",
+  "generated_at_utc": "2026-05-03T08:47:10Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "8f7f97a392701ba16335083eb20f99ebc6cb4fe8"
+    "head_sha": "be7a0674d247543583b53774437accb98c621109"
   },
   "count": 602,
   "errors": 0,
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "52f2d56b6d9215cce850f27e8890bbbaaded8fd7",
+      "sha": "17a2d330dd38d2d249be9129ddf016d227f24a73",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -2351,7 +2351,7 @@
     {
       "metadata": "{\"name\": \"lbn_gtt_core-app\", \"description\": \"As part of SAP Business Network Global Track and Trace, it enables you to capture, process, and store event messages with tracking information about highly-customizable business processes across your organization and business partners.\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_GLOBAL_TRACK_AND_TRACE\"}",
       "path": "v1/developer/lbn_gtt_core-app.json",
-      "sha": "390f4ba6373442fa29f803e7952bc2dcdaf153fd",
+      "sha": "feb350583622d9eb9b256b91e73cb614dbbce5ab",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/lbn_gtt_core-app.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/lbn_gtt_core-app.json"
     },
@@ -3051,7 +3051,7 @@
     {
       "metadata": "{\"name\": \"postgresql-db\", \"description\": \"PostgreSQL on SAP BTP, hyperscaler option provides a managed relational database service, based on native PostgreSQL offerings from cloud providers AWS, Microsoft Azure, Google Cloud Platform and Alicloud.\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/postgresql-hyperscaler-option\"}",
       "path": "v1/developer/postgresql-db.json",
-      "sha": "9462f04d63ee4e55b347ded816a1318e8b111794",
+      "sha": "86f0e19965f61e6a1d70158839eb375463626f60",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/postgresql-db.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/postgresql-db.json"
     },
