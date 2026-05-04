@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-05-04T06:15:02Z",
+  "generated_at_utc": "2026-05-04T09:21:20Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "be7a0674d247543583b53774437accb98c621109"
+    "head_sha": "bb34bdabc691a177be14929e55b4d1659a52ce1f"
   },
   "count": 602,
   "errors": 0,
@@ -650,7 +650,7 @@
     {
       "metadata": "{\"name\": \"central-invoice-management-api\", \"description\": \"SAP Ariba Invoicing\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/CENTRAL_INVOICE_MANAGEMENT\"}",
       "path": "v1/developer/central-invoice-management-api.json",
-      "sha": "43ed50a1816e3511f48442bd808c68e4eadd9459",
+      "sha": "6605c0bf7f125f7eb160f6e7ca4ec3e5af627895",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/central-invoice-management-api.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/central-invoice-management-api.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "17a2d330dd38d2d249be9129ddf016d227f24a73",
+      "sha": "1edc3f59dc9b14a66b3e97c663fe6998992d1c34",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
