@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-05-06T06:06:43Z",
+  "generated_at_utc": "2026-05-06T09:24:33Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "0058676ebbca20f1819d0c91258bf2842e5a1040"
+    "head_sha": "85bb52c37fada318a499b8c2ea3e2bf3f59ec3f8"
   },
   "count": 602,
   "errors": 0,
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "5186080f6b4fc4fef3356f1386acb4a6ea89d45d",
+      "sha": "633c6a8d891c2a8e7eb96c834656a1f864adaa30",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -2827,7 +2827,7 @@
     {
       "metadata": "{\"name\": \"ocnselfserviceagent\", \"description\": \"Open Connectors\", \"deprecated\": false, \"link\": \"https://help.openconnectors.ext.hana.ondemand.com/home/catalog\"}",
       "path": "v1/developer/ocnselfserviceagent.json",
-      "sha": "b218accecf98fb0fa3cd1d9ac6f78b232f3d7ae5",
+      "sha": "a4798caa63efcdedcb23dd67df9a2aeb62b321de",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/ocnselfserviceagent.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/ocnselfserviceagent.json"
     },
@@ -3219,7 +3219,7 @@
     {
       "metadata": "{\"name\": \"process-insights\", \"description\": \"Get insights to support continuous business process improvement.\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/BPI\"}",
       "path": "v1/developer/process-insights.json",
-      "sha": "1cbdfe456beb37bf7476a2ebbade707b70d3af6a",
+      "sha": "7ba940f22a19bbfbcaf67db79cdbe7f1adc870f7",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/process-insights.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/process-insights.json"
     },
