@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-05-07T06:12:43Z",
+  "generated_at_utc": "2026-05-07T09:33:54Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "85bb52c37fada318a499b8c2ea3e2bf3f59ec3f8"
+    "head_sha": "5f2217b6762822667eb17bbf6f80047a46d55559"
   },
   "count": 602,
   "errors": 0,
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "633c6a8d891c2a8e7eb96c834656a1f864adaa30",
+      "sha": "186ccdf3b61c8adf33617e5850e08834ea0dddb6",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -3562,7 +3562,7 @@
     {
       "metadata": "{\"name\": \"sap-consulting-capability\", \"description\": \"SAP Joule for Consultants\", \"deprecated\": true, \"link\": \"https://help.sap.com/docs/JOULE/6189c8655c484916bb8eb767126a653a/04fdfea908db4cdf860ad1434653a542.html\"}",
       "path": "v1/developer/sap-consulting-capability.json",
-      "sha": "bac5339a7bdaa646dc50c734cd90b2f93c10b368",
+      "sha": "26f3d59e3a0a0280ed038b6abbf8452761e28132",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sap-consulting-capability.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sap-consulting-capability.json"
     },
