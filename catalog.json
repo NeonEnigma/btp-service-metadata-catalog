@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-05-08T05:32:23Z",
+  "generated_at_utc": "2026-05-08T07:43:23Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "5f2217b6762822667eb17bbf6f80047a46d55559"
+    "head_sha": "04cb5ecce2f6949494988bbe0c43f83039908a0d"
   },
   "count": 602,
   "errors": 0,
@@ -1189,14 +1189,14 @@
     {
       "metadata": "{\"name\": \"document-information-extraction-application-ias\", \"description\": \"SAP Document AI\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-document-ai\"}",
       "path": "v1/developer/document-information-extraction-application-ias.json",
-      "sha": "6e4d5458ee8e06b91aabf8e2dc9ce97422aad31b",
+      "sha": "5ceaf32007121b98f68f514164a711f0b7a348c0",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/document-information-extraction-application-ias.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/document-information-extraction-application-ias.json"
     },
     {
       "metadata": "{\"name\": \"document-information-extraction-application\", \"description\": \"SAP Document AI\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-document-ai\"}",
       "path": "v1/developer/document-information-extraction-application.json",
-      "sha": "6f22ae08f1ea4df0b52a09f90fecc98f56a7589e",
+      "sha": "8cd0b39fb59b3b8a17d3da138252f78522d30050",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/document-information-extraction-application.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/document-information-extraction-application.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "186ccdf3b61c8adf33617e5850e08834ea0dddb6",
+      "sha": "86ab6283459120c415ee04af1641724ded5c6a0e",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -2267,7 +2267,7 @@
     {
       "metadata": "{\"name\": \"lbn-carrier\", \"description\": \"As part of SAP Business Network Freight Collaboration, it provides end to end freight tendering, execution, self appointment booking and dispute collaborations.\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_LBN_FC_OPTION/LBN/en-US\"}",
       "path": "v1/developer/lbn-carrier.json",
-      "sha": "3897f10c540a030177ad171aaeab6872d60ae3a8",
+      "sha": "69fa27b255612ad8030e0bd13b82ffb8d02129ed",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/lbn-carrier.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/lbn-carrier.json"
     },
@@ -2337,14 +2337,14 @@
     {
       "metadata": "{\"name\": \"lbn-shipper\", \"description\": \"As part of SAP Business Network Freight Collaboration, it provides end to end freight order lifecycle from contracting, execution, tracking, appointment booking to dispute collaboration.\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_LBN_FC_OPTION/LBN/en-US\"}",
       "path": "v1/developer/lbn-shipper.json",
-      "sha": "176704f8bb715b60be27a29516fd6297ffdad7f3",
+      "sha": "2291aafbbd30d2494e04e383fcfb9eba550e6620",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/lbn-shipper.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/lbn-shipper.json"
     },
     {
       "metadata": "{\"name\": \"lbn\", \"description\": \"As part of SAP Business Network Freight Collaboration, this subscription provides authorizations related applications.\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_LBN_FC_OPTION/LBN/en-US\"}",
       "path": "v1/developer/lbn.json",
-      "sha": "3211aa079e94d4242e4a889d2bf571a76f1ddc31",
+      "sha": "60008f7482f5ffa349e9889a051db89614d74317",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/lbn.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/lbn.json"
     },
@@ -3569,7 +3569,7 @@
     {
       "metadata": "{\"name\": \"sap-document-information-extraction\", \"description\": \"SAP Document AI\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-document-ai\"}",
       "path": "v1/developer/sap-document-information-extraction.json",
-      "sha": "b52f9e51c60877f58d4de22013aadd4c38b0add6",
+      "sha": "e7908c63d067f5550d598db73e2b8c498a570709",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sap-document-information-extraction.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sap-document-information-extraction.json"
     },
