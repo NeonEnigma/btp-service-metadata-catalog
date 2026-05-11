@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-05-11T03:36:38Z",
+  "generated_at_utc": "2026-05-11T07:42:03Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "d144959b0fd3502b60b0b647763f87a3da903bc2"
+    "head_sha": "328b968ed6bbbffa0524029ed87e7602931743f4"
   },
   "count": 602,
   "errors": 0,
@@ -349,7 +349,7 @@
     {
       "metadata": "{\"name\": \"auditlog\", \"description\": \"Allow users to ingest compliance audit data from SAP BTP services and applications and store it for a default retention time of 90 days (with no additional costs applied). The ability to retrieve and download this data within this period is part of Auditlog Management Service. The service serves to support audit activities by prove wrongdoing and identifying malicious activities and provision of forensic evidence that can be used at Court. The scope of the service are secure and configuration change information records, data privacy specific logs, logs motivated by Multiple Regulations. The service is following each SAP Product standards and GDPR Compliance regulations.\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/#/serviceCatalog/audit-log-service\"}",
       "path": "v1/developer/auditlog.json",
-      "sha": "7748b83f2a5b61417e4d35e9339577ccae11bc36",
+      "sha": "a9b7ab8ba32c7710a89d12a2e483a3a1be0b05b2",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/auditlog.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/auditlog.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "335a6de3a701dcac31974c6b0cc3bc06e507e937",
+      "sha": "c25fe0b34f9ba4df85c3a3e2ab10611e87aa4efe",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -1868,7 +1868,7 @@
     {
       "metadata": "{\"name\": \"hl7-fhir-service\", \"description\": \"SAP Health Data Services for FHIR\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-health-data-services-for-fhir\"}",
       "path": "v1/developer/hl7-fhir-service.json",
-      "sha": "fe19dcbe92d809bad5039b98f57b010a9c76459a",
+      "sha": "f71eb96a545e91e49224b4bbe7d7fcee16cd2651",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hl7-fhir-service.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hl7-fhir-service.json"
     },
