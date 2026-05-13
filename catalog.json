@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-05-13T06:49:11Z",
+  "generated_at_utc": "2026-05-13T09:46:00Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "925d94c3c42236ff29a5fcbe6294441952394137"
+    "head_sha": "61aa50009ffcefd6e2f5012193229fac896a675e"
   },
   "count": 602,
   "errors": 0,
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "dc31f80354c82d042ecc537fdb72f25536b97612",
+      "sha": "1aa56a40fa421e3e7458eb7167414894ef6e7eba",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -2218,7 +2218,7 @@
     {
       "metadata": "{\"name\": \"jobscheduler\", \"description\": \"Job Scheduling Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/job-scheduling-service\"}",
       "path": "v1/developer/jobscheduler.json",
-      "sha": "74025ca5011083bf21e17ec24cd67abd50d688d8",
+      "sha": "7c084947d6596311d298aee4f58f954d5012fb5d",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/jobscheduler.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/jobscheduler.json"
     },
