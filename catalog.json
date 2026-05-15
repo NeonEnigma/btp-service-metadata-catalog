@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-05-15T04:51:44Z",
+  "generated_at_utc": "2026-05-15T10:25:00Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "a497a8230788f7babafea2a0ad0ef9e66d84ccf1"
+    "head_sha": "ab9a9c89580a7574a1e9383b52809840db2181d3"
   },
   "count": 602,
   "errors": 0,
@@ -1056,7 +1056,7 @@
     {
       "metadata": "{\"name\": \"data-privacy-integration-service\", \"description\": \"Data Privacy Integration\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/data-privacy-integration\"}",
       "path": "v1/developer/data-privacy-integration-service.json",
-      "sha": "acb21ed8bf45f2fc34339162368816e9681adb80",
+      "sha": "b2e7b8846507d48ddcd684bab0b7c6edbc217fed",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/data-privacy-integration-service.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/data-privacy-integration-service.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "12fc43d603716fd38d9d99b96a17e8cdb42ebbba",
+      "sha": "3906322747ebe4bcdfd70fcf317f47f6b73cdeac",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -2218,7 +2218,7 @@
     {
       "metadata": "{\"name\": \"jobscheduler\", \"description\": \"Job Scheduling Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/job-scheduling-service\"}",
       "path": "v1/developer/jobscheduler.json",
-      "sha": "7c084947d6596311d298aee4f58f954d5012fb5d",
+      "sha": "a163fa90992ea87854d9d9014d8cf31b209198ef",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/jobscheduler.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/jobscheduler.json"
     },
@@ -3037,14 +3037,14 @@
     {
       "metadata": "{\"name\": \"portal\", \"description\": \"Cloud Portal Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/cloud-portal-service\"}",
       "path": "v1/developer/portal.json",
-      "sha": "62bbcec79ad3720e2de1aa0a4cf7fb30ab7e7b82",
+      "sha": "c91c6f35c19659164210f88b03d6300a039ba317",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/portal.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/portal.json"
     },
     {
       "metadata": "{\"name\": \"PortalApplication\", \"description\": \"Cloud Portal Service\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/Portal_Service/1.0/en-US\"}",
       "path": "v1/developer/portalapplication.json",
-      "sha": "af3b83f6ab9b47a02f149e7876c370a793901428",
+      "sha": "e060026524fe9605a5f0dc48000951ee1d39fe11",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/portalapplication.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/portalapplication.json"
     },
