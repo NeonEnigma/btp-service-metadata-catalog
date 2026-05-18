@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-05-18T04:23:39Z",
+  "generated_at_utc": "2026-05-18T08:46:16Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "e4d7a49bbc083691e3cd71b6f36bea10123788e1"
+    "head_sha": "cc9d542bd9f3a415929a4e3994fba1ee425384da"
   },
   "count": 602,
   "errors": 0,
@@ -552,7 +552,7 @@
     {
       "metadata": "{\"name\": \"c4u-foundation-retailer-api\", \"description\": \"SAP Cloud for Utilities Foundation Retailer\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/Cloud_for_Utilities_Foundation\"}",
       "path": "v1/developer/c4u-foundation-retailer-api.json",
-      "sha": "3d618934c5d0cf0afbf0a4619361213a9abd7016",
+      "sha": "e85700990921ad4fe84b78d53410007523dd6bce",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/c4u-foundation-retailer-api.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/c4u-foundation-retailer-api.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "435b130524ae2d4cb5759c168dfbc35d014fff8e",
+      "sha": "6e21604888a9e8c33211ad6e07cf1338ef946753",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
