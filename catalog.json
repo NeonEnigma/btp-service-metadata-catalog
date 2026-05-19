@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": "2026-05-19T05:02:50Z",
+  "generated_at_utc": "2026-05-19T09:45:40Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "cc9d542bd9f3a415929a4e3994fba1ee425384da"
+    "head_sha": "2c10db7ccdb99b94b2fafe49e6b8efb31985f50f"
   },
-  "count": 602,
+  "count": 601,
   "errors": 0,
   "services": [
     {
@@ -1826,16 +1826,9 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "6e21604888a9e8c33211ad6e07cf1338ef946753",
+      "sha": "c91abd08020df03bd0acebf385c1a0f2713f0f6e",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
-    },
-    {
-      "metadata": "{\"name\": \"hana-db\", \"description\": \"SAP HANA Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-service-sap-regions\"}",
-      "path": "v1/developer/hana-db.json",
-      "sha": "8433dd9bebfd23b51275160333d8495c007a9730",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-db.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-db.json"
     },
     {
       "metadata": "{\"name\": \"hana-tenant-db\", \"description\": \"SAP HANA Tenant Database\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/BTP/65de2977205c403bbc107264b8eccf4b/5dd739823b824b539eee47b7860a00be.html\"}",
