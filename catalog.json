@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-05-20T03:38:37Z",
+  "generated_at_utc": "2026-05-20T07:44:08Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "2c10db7ccdb99b94b2fafe49e6b8efb31985f50f"
+    "head_sha": "8167a5054422e40b1ef951ac4af4b8085a1c4b1b"
   },
   "count": 601,
   "errors": 0,
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "c91abd08020df03bd0acebf385c1a0f2713f0f6e",
+      "sha": "8d4be34ec8a0b16a0909e69fa84957fd6d8d2096",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -3723,7 +3723,7 @@
     {
       "metadata": "{\"name\": \"SAPCloudALM\", \"description\": \"SAP Cloud ALM\", \"deprecated\": false, \"link\": \"https://support.sap.com/en/alm/sap-cloud-alm.html\"}",
       "path": "v1/developer/sapcloudalm.json",
-      "sha": "ba6cc8e92422bf67d220d253fa326e497c6f33fc",
+      "sha": "2766753a20ecd97465a047d2a3f92f7b8422407f",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sapcloudalm.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sapcloudalm.json"
     },
