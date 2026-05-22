@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-05-22T05:01:43Z",
+  "generated_at_utc": "2026-05-22T09:26:46Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "f0bbc060c991616c5c99219921aa1a85d3250a3c"
+    "head_sha": "5362fba3c21a903ba9e8e2f58693df0840b0dc00"
   },
   "count": 601,
   "errors": 0,
@@ -1189,14 +1189,14 @@
     {
       "metadata": "{\"name\": \"document-information-extraction-application-ias\", \"description\": \"SAP Document AI\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-document-ai\"}",
       "path": "v1/developer/document-information-extraction-application-ias.json",
-      "sha": "5ceaf32007121b98f68f514164a711f0b7a348c0",
+      "sha": "7424d57497398d96448da551f632b331545d2c73",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/document-information-extraction-application-ias.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/document-information-extraction-application-ias.json"
     },
     {
       "metadata": "{\"name\": \"document-information-extraction-application\", \"description\": \"SAP Document AI\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-document-ai\"}",
       "path": "v1/developer/document-information-extraction-application.json",
-      "sha": "8cd0b39fb59b3b8a17d3da138252f78522d30050",
+      "sha": "a7ad68c66b4a42e7e22db8c2a37385a3f04f791e",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/document-information-extraction-application.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/document-information-extraction-application.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "fb8f571f56ce6e8a80b97e187e0ccbc095b2eb1d",
+      "sha": "783120c80cb17fc88cfb9d8529a1b45de39d3d84",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -3562,7 +3562,7 @@
     {
       "metadata": "{\"name\": \"sap-document-information-extraction\", \"description\": \"SAP Document AI\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-document-ai\"}",
       "path": "v1/developer/sap-document-information-extraction.json",
-      "sha": "e7908c63d067f5550d598db73e2b8c498a570709",
+      "sha": "f6ea4d46d96dc427d7bb1f6851351840456af2d7",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sap-document-information-extraction.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sap-document-information-extraction.json"
     },
