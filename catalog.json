@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-05-24T04:22:56Z",
+  "generated_at_utc": "2026-05-24T07:50:17Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "423ccd01e8d9398355620a514e9c9b77cb990fb5"
+    "head_sha": "d4c4eec95af0261ebe09d5addf090c41b9e6e847"
   },
   "count": 601,
   "errors": 0,
@@ -769,7 +769,7 @@
     {
       "metadata": "{\"name\": \"connectivity-central\", \"description\": \"Connectivity Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/#/serviceCatalog/connectivity-service\"}",
       "path": "v1/developer/connectivity-central.json",
-      "sha": "7e0bffe70cf859c67dfd2024d19a18b2c7c28b4d",
+      "sha": "9aba660238e27c0fdea7e055764e3b7a350c911c",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/connectivity-central.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/connectivity-central.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "dd51a3f766d99d4e5497cd55cfba475ceb2324c7",
+      "sha": "f699f3ec7f5586a5ef2b4a30960a96a56fbb0a83",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
