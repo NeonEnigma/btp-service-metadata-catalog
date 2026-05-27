@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-05-27T05:16:47Z",
+  "generated_at_utc": "2026-05-27T09:51:57Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "3f9982c3ef17f77bd065b13589fcd3cfcae6d128"
+    "head_sha": "5177c086b47670bbdf130b6eba45ac1be24e2d83"
   },
   "count": 601,
   "errors": 0,
@@ -167,7 +167,7 @@
     {
       "metadata": "{\"name\": \"analytics-planning-osb\", \"description\": \"Get the most value from your data, deliver trusted insights, and extend planning and analysis across your enterprise.\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/sap-analytics-cloud\"}",
       "path": "v1/developer/analytics-planning-osb.json",
-      "sha": "15912d209dcd0498c964237b8d17cbd4d7c80e6b",
+      "sha": "0fa56a4a4f9adbbcb42b879a222c14e381433f66",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/analytics-planning-osb.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/analytics-planning-osb.json"
     },
@@ -1000,7 +1000,7 @@
     {
       "metadata": "{\"name\": \"data-analytics-osb\", \"description\": \"SAP Datasphere\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/sap-datasphere\"}",
       "path": "v1/developer/data-analytics-osb.json",
-      "sha": "367a76df4514fdb7f95b1c128781673b6cbbafa4",
+      "sha": "8881ecbb2386d39da8a057e549efce027e7d8fe4",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/data-analytics-osb.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/data-analytics-osb.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "6e21604888a9e8c33211ad6e07cf1338ef946753",
+      "sha": "2bf686fb505aee5a141d782d1e0163d78de34ed6",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
