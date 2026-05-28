@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-05-28T03:41:12Z",
+  "generated_at_utc": "2026-05-28T08:00:08Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "5177c086b47670bbdf130b6eba45ac1be24e2d83"
+    "head_sha": "6b73b4ca24f8bcf61f35bc35347b6956bbfc69ce"
   },
   "count": 601,
   "errors": 0,
@@ -594,7 +594,7 @@
     {
       "metadata": "{\"name\": \"category-management-api\", \"description\": \"SAP Ariba Category Management\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/CATMAN\"}",
       "path": "v1/developer/category-management-api.json",
-      "sha": "7759ceb6e4995a87f0dd45a410560519f059d9ec",
+      "sha": "b230b8b7b7e8f7ceeb2d152ace54eee79dde4b94",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/category-management-api.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/category-management-api.json"
     },
@@ -608,7 +608,7 @@
     {
       "metadata": "{\"name\": \"categorymanagement-prod\", \"description\": \"SAP Ariba Category Management\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/CATMAN\"}",
       "path": "v1/developer/categorymanagement-prod.json",
-      "sha": "454b3fd10f43eddfde6d8381486d231506d8d3b8",
+      "sha": "640951698fee560d83bf9476dd513e6a53d3f96e",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/categorymanagement-prod.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/categorymanagement-prod.json"
     },
@@ -1056,7 +1056,7 @@
     {
       "metadata": "{\"name\": \"data-privacy-integration-service\", \"description\": \"Data Privacy Integration\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/data-privacy-integration\"}",
       "path": "v1/developer/data-privacy-integration-service.json",
-      "sha": "b2e7b8846507d48ddcd684bab0b7c6edbc217fed",
+      "sha": "e617aedda1c946f98bf30c146bb3298d450656da",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/data-privacy-integration-service.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/data-privacy-integration-service.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "2bf686fb505aee5a141d782d1e0163d78de34ed6",
+      "sha": "19803700acda8a8b1517caa61c2b84f36cbc295f",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
