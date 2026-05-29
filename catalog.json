@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-05-29T03:40:44Z",
+  "generated_at_utc": "2026-05-29T07:57:28Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "6b73b4ca24f8bcf61f35bc35347b6956bbfc69ce"
+    "head_sha": "936eb56ceecfec09fe218bf990f9515f6ce817d4"
   },
   "count": 601,
   "errors": 0,
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "19803700acda8a8b1517caa61c2b84f36cbc295f",
+      "sha": "498be5a7d3c81c3976382160db16e1cfb155ef1c",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -3646,7 +3646,7 @@
     {
       "metadata": "{\"name\": \"sap-papm-cloud\", \"description\": \"SAP Profitability and Performance Management Cloud\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_PROFITABILITY_PERFORMANCE_MANAGEMENT_CLOUD/1.0/en-US\"}",
       "path": "v1/developer/sap-papm-cloud.json",
-      "sha": "c754c84d4bbebb61e103286ef05e6bdca170adb0",
+      "sha": "ecec098645d11cb528bbb52a357f31e90e44f827",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sap-papm-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sap-papm-cloud.json"
     },
@@ -3730,7 +3730,7 @@
     {
       "metadata": "{\"name\": \"SAPCloudALMAPIs\", \"description\": \"SAP Cloud ALM API\", \"deprecated\": false, \"link\": \"https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sapcloudalmapis.json\"}",
       "path": "v1/developer/sapcloudalmapis.json",
-      "sha": "e4b62db06f83a6757c94c8bc6788ad7f1f7496ad",
+      "sha": "ac4c8f97812b354017df36f1f7917210834105e0",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sapcloudalmapis.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sapcloudalmapis.json"
     },
