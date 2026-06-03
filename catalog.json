@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-06-03T04:12:51Z",
+  "generated_at_utc": "2026-06-03T09:26:41Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "643f960e50c36a4fa313d5f4cbafba933c62af9f"
+    "head_sha": "e9043b64141a3b3e756ce36e9f862ec43abdbdb2"
   },
   "count": 601,
   "errors": 0,
@@ -321,7 +321,7 @@
     {
       "metadata": "{\"name\": \"audit-log-search-api\", \"description\": \"Audit Log Search API\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/#/serviceCatalog/audit-log-service\"}",
       "path": "v1/developer/audit-log-search-api.json",
-      "sha": "e9e862b8c5252215686ea239c0a700230e1a8da8",
+      "sha": "02eb4ff24649de67c0a8f0782d645ecdaec5a8a8",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/audit-log-search-api.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/audit-log-search-api.json"
     },
@@ -1182,7 +1182,7 @@
     {
       "metadata": "{\"name\": \"document-grounding\", \"description\": \"Document Grounding\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/joule/joule-capabilities/set-up-document-grounding-capability\"}",
       "path": "v1/developer/document-grounding.json",
-      "sha": "6a5903fbc1c4ca63c4b4a9dd695f6748217a98ee",
+      "sha": "7b03c9f2e3dfcbce49530f609bd631e376505749",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/document-grounding.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/document-grounding.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "2e7859b1fc3c8294a82b3a62f0da1df93dcc4069",
+      "sha": "b31d03e597a460b345a4fd8eef557821362760b6",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -2897,7 +2897,7 @@
     {
       "metadata": "{\"name\": \"OneSMCommercialProduction\", \"description\": \"SAP Ariba Supplier Management\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/ARIBA_SOURCING/6308c28781af47848f1281c650a5755d/2fbf92ea82494ce28a6e1f594129df7b.html\"}",
       "path": "v1/developer/onesmcommercialproduction.json",
-      "sha": "1b09ad49cf180c53309a676de01188c7f702a1bf",
+      "sha": "40cf4808a36373fb56635f4b473ba9649a11fa18",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/onesmcommercialproduction.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/onesmcommercialproduction.json"
     },
