@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-06-04T04:05:22Z",
+  "generated_at_utc": "2026-06-04T08:50:55Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "e9043b64141a3b3e756ce36e9f862ec43abdbdb2"
+    "head_sha": "b9d9aee835ac8854fb105053682a0bb86955601e"
   },
   "count": 601,
   "errors": 0,
@@ -734,7 +734,7 @@
     {
       "metadata": "{\"name\": \"cloudfoundry\", \"description\": \"Cloud Foundry Environment\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/cloud-foundry-runtime\"}",
       "path": "v1/developer/cloudfoundry.json",
-      "sha": "0e6e350552b7de1e42626dd61ebdc6fb3837b5d5",
+      "sha": "455c96d84b77bbfb1f96f6a5ba9d021e37eef5e6",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/cloudfoundry.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/cloudfoundry.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "b31d03e597a460b345a4fd8eef557821362760b6",
+      "sha": "05857818b34044d503c5e0203770e22af2f2b33f",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -3646,7 +3646,7 @@
     {
       "metadata": "{\"name\": \"sap-papm-cloud\", \"description\": \"SAP Profitability and Performance Management Cloud\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_PROFITABILITY_PERFORMANCE_MANAGEMENT_CLOUD/1.0/en-US\"}",
       "path": "v1/developer/sap-papm-cloud.json",
-      "sha": "ecec098645d11cb528bbb52a357f31e90e44f827",
+      "sha": "60c42523456947f0b082d484760a00597b048c9b",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sap-papm-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sap-papm-cloud.json"
     },
