@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-06-05T05:19:42Z",
+  "generated_at_utc": "2026-06-05T09:52:07Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "b9d9aee835ac8854fb105053682a0bb86955601e"
+    "head_sha": "1d7c65755dae1724dc766b90becd0201588721da"
   },
   "count": 601,
   "errors": 0,
@@ -1224,7 +1224,7 @@
     {
       "metadata": "{\"name\": \"dq-services\", \"description\": \"Data Quality Services\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/protected/index.html#/serviceCatalog/data-quality-services?commercialModel=payg&tab=feature&region=all\"}",
       "path": "v1/developer/dq-services.json",
-      "sha": "7248475166e89d8abc2f99d119a356c95a24bbd3",
+      "sha": "8775104087cdb36b60ab3e762a591b97813a5f4e",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/dq-services.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/dq-services.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "05857818b34044d503c5e0203770e22af2f2b33f",
+      "sha": "b0e422ce0a683c7e61e9ddc542636b65efba2789",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -2029,7 +2029,7 @@
     {
       "metadata": "{\"name\": \"integrationsuite\", \"description\": \"Integration Suite\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/integration-suite\"}",
       "path": "v1/developer/integrationsuite.json",
-      "sha": "7dac0bf97655f46e0841026383d0400b4754bcf5",
+      "sha": "9d8edd07b9ff80f837a4185360d2ada6053cc4f6",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/integrationsuite.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/integrationsuite.json"
     },
@@ -2211,7 +2211,7 @@
     {
       "metadata": "{\"name\": \"jobscheduler\", \"description\": \"Job Scheduling Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/job-scheduling-service\"}",
       "path": "v1/developer/jobscheduler.json",
-      "sha": "d832bd40926de7a6c7eeaea9379c7cdea54ca033",
+      "sha": "7c6fce7afc2684fa13a2c5cb348fb2f6c07e580f",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/jobscheduler.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/jobscheduler.json"
     },
@@ -2890,7 +2890,7 @@
     {
       "metadata": "{\"name\": \"one-mds\", \"description\": \"Master Data Integration\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/master-data-integration\"}",
       "path": "v1/developer/one-mds.json",
-      "sha": "f861085d07e9b05f1b2469fd88e8a4b65dd5fee1",
+      "sha": "70b7a864f9f862efc89a3805de1ec6143762ea9d",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/one-mds.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/one-mds.json"
     },
