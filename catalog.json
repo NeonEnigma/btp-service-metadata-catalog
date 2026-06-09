@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-06-09T05:07:47Z",
+  "generated_at_utc": "2026-06-09T09:45:19Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "782403c639b3f2ddcf0240efd91cc553aa55c571"
+    "head_sha": "128a326a73300e757773a2725869d855882d531e"
   },
   "count": 601,
   "errors": 0,
@@ -3569,7 +3569,7 @@
     {
       "metadata": "{\"name\": \"sap-graph\", \"description\": \"API Composition\", \"deprecated\": false, \"link\": \"https://api.sap.com/graph\"}",
       "path": "v1/developer/sap-graph.json",
-      "sha": "4d5e654a92ab1113a5741af1726fb56aaef33adc",
+      "sha": "c370e2787f56fffdfccfe3ef6f2aa6024c42835e",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sap-graph.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sap-graph.json"
     },
