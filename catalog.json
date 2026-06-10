@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-06-10T05:19:32Z",
+  "generated_at_utc": "2026-06-10T10:02:03Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "128a326a73300e757773a2725869d855882d531e"
+    "head_sha": "d0e0260e35acef98bbebc2d809132c224f931812"
   },
   "count": 601,
   "errors": 0,
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "fa64394a28814804f928f976845cf502a27fbf6a",
+      "sha": "568ac11bafb7463bcb85cf3bce5cc4cc05f9cbdb",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -3569,7 +3569,7 @@
     {
       "metadata": "{\"name\": \"sap-graph\", \"description\": \"API Composition\", \"deprecated\": false, \"link\": \"https://api.sap.com/graph\"}",
       "path": "v1/developer/sap-graph.json",
-      "sha": "c370e2787f56fffdfccfe3ef6f2aa6024c42835e",
+      "sha": "bfbfebad163b70f3898e1c9802f50a6e4620fbed",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sap-graph.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sap-graph.json"
     },
