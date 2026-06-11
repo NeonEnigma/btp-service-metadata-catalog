@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-06-11T05:49:09Z",
+  "generated_at_utc": "2026-06-11T10:25:57Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "d0e0260e35acef98bbebc2d809132c224f931812"
+    "head_sha": "25545eb7789bdcbb6601e2be529d0166641a0ef4"
   },
   "count": 601,
   "errors": 0,
@@ -734,7 +734,7 @@
     {
       "metadata": "{\"name\": \"cloudfoundry\", \"description\": \"Cloud Foundry Environment\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/cloud-foundry-runtime\"}",
       "path": "v1/developer/cloudfoundry.json",
-      "sha": "455c96d84b77bbfb1f96f6a5ba9d021e37eef5e6",
+      "sha": "5d68b1bf3f593802b750092a85e8b89f6b065aa7",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/cloudfoundry.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/cloudfoundry.json"
     },
@@ -825,7 +825,7 @@
     {
       "metadata": "{\"name\": \"COPIN_Production\", \"description\": \"Project Management\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/PPRM_OD\"}",
       "path": "v1/developer/copin_production.json",
-      "sha": "818e10f8fba6f12b36c2a7cc22d7f11f85e32e41",
+      "sha": "6044fe484d67ff2d9ac68968ff46f53bb001634c",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/copin_production.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/copin_production.json"
     },
@@ -1224,7 +1224,7 @@
     {
       "metadata": "{\"name\": \"dq-services\", \"description\": \"Data Quality Services\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/protected/index.html#/serviceCatalog/data-quality-services?commercialModel=payg&tab=feature&region=all\"}",
       "path": "v1/developer/dq-services.json",
-      "sha": "8775104087cdb36b60ab3e762a591b97813a5f4e",
+      "sha": "b96ca42ee465f2c4b77defe85eaf38b65abbf526",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/dq-services.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/dq-services.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "568ac11bafb7463bcb85cf3bce5cc4cc05f9cbdb",
+      "sha": "57da032e92c1f645ab538f07d8cd1125ae6c808f",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -2890,7 +2890,7 @@
     {
       "metadata": "{\"name\": \"one-mds\", \"description\": \"Master Data Integration\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/master-data-integration\"}",
       "path": "v1/developer/one-mds.json",
-      "sha": "70b7a864f9f862efc89a3805de1ec6143762ea9d",
+      "sha": "4acad6706d570fc6f3dada67f9c84651da6afaec",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/one-mds.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/one-mds.json"
     },
