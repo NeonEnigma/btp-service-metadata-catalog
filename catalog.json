@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-06-12T04:02:06Z",
+  "generated_at_utc": "2026-06-12T08:57:32Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "25545eb7789bdcbb6601e2be529d0166641a0ef4"
+    "head_sha": "fe08e56905c707d7ecec34cc73aadea5e1e46e56"
   },
   "count": 601,
   "errors": 0,
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "57da032e92c1f645ab538f07d8cd1125ae6c808f",
+      "sha": "d32de977bd7f71a34ed4d4e7ad66615a2ffcb7f2",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -2029,7 +2029,7 @@
     {
       "metadata": "{\"name\": \"integrationsuite\", \"description\": \"Integration Suite\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/integration-suite\"}",
       "path": "v1/developer/integrationsuite.json",
-      "sha": "9d8edd07b9ff80f837a4185360d2ada6053cc4f6",
+      "sha": "9561e9822baea056d93cf6c23897acf07c762c85",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/integrationsuite.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/integrationsuite.json"
     },
