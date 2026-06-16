@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-06-16T04:14:24Z",
+  "generated_at_utc": "2026-06-16T10:08:30Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "ce12f7621fcb142cabdc896c4c586d12f97634e5"
+    "head_sha": "78445d1d6a338214fbfc07323bb6a10f58040c72"
   },
   "count": 601,
   "errors": 0,
@@ -405,7 +405,7 @@
     {
       "metadata": "{\"name\": \"brh-integration-validation\", \"description\": \"SAP Batch Release Hub for Life Sciences Validation\", \"deprecated\": false, \"link\": \"https://help.sap.com/brh\"}",
       "path": "v1/developer/brh-integration-validation.json",
-      "sha": "b8657adb191efcc0819fc6a20ac0919fb405f593",
+      "sha": "343f84905b4f37b51a780f622e7f47bb2058b14e",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/brh-integration-validation.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/brh-integration-validation.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "c11b7c5e56720e1119f98bda290af278753e7156",
+      "sha": "b447178d6729c481080c8d6afc1f95c2030fe13d",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
