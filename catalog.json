@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-06-20T05:15:54Z",
+  "generated_at_utc": "2026-06-20T08:58:04Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "85567578f1a2ea63426271c7e5a089649663e928"
+    "head_sha": "2a409b0787567b97ce2bdffcda6d827f9f83879b"
   },
   "count": 601,
   "errors": 0,
@@ -1700,7 +1700,7 @@
     {
       "metadata": "{\"name\": \"grc-data-consolidation\", \"description\": \"GRC Data Consolidation service\", \"deprecated\": false, \"link\": \"https://help.sap.com/fcm\"}",
       "path": "v1/developer/grc-data-consolidation.json",
-      "sha": "87a369e7fdc4468a9003c0fad6774c77339f6f76",
+      "sha": "434a22665de120c89d1b24ecb4ad7888fa309960",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/grc-data-consolidation.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/grc-data-consolidation.json"
     },
@@ -1735,7 +1735,7 @@
     {
       "metadata": "{\"name\": \"grc-risk-service\", \"description\": \"GRC Risk service\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/489dc5cf7e914e05b2741116f34e56d8/1.0/en-US\"}",
       "path": "v1/developer/grc-risk-service.json",
-      "sha": "7b4c7439f8ed4f254d42552f3c854beeda6b5af7",
+      "sha": "e62d374767f3b0c2acc5323539c7f6b4b42254aa",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/grc-risk-service.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/grc-risk-service.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "c4d3d732a16226b42d4c62b006f62e0408cdf97b",
+      "sha": "d0b486c95b483ed1427fbb6b9d5ed08b0eeff360",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
