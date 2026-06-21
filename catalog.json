@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-06-21T06:02:20Z",
+  "generated_at_utc": "2026-06-21T10:30:39Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "2a409b0787567b97ce2bdffcda6d827f9f83879b"
+    "head_sha": "481e4c3a152b9d3285b9e6a8e7ba5fa0709ed94a"
   },
   "count": 601,
   "errors": 0,
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "d0b486c95b483ed1427fbb6b9d5ed08b0eeff360",
+      "sha": "76afa7fe8efeacf4fce7e2b08e49ded83dd35a53",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -2015,7 +2015,7 @@
     {
       "metadata": "{\"name\": \"integration-suite-advanced-event-mesh\", \"description\": \"Advanced event mesh for SAP Integration Suite is a complete event streaming, event management, and monitoring platform that incorporates best practices, expertise, and technology for event-driven architecture (EDA) on a single platform.\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/advanced-event-mesh\"}",
       "path": "v1/developer/integration-suite-advanced-event-mesh.json",
-      "sha": "3acdaf1504a4e29f140765eb0ae1778490f41227",
+      "sha": "fdc52f919d75c07fb2644860e6062e7a0b13c20a",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/integration-suite-advanced-event-mesh.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/integration-suite-advanced-event-mesh.json"
     },
