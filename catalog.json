@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-06-22T04:18:52Z",
+  "generated_at_utc": "2026-06-22T10:38:39Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "481e4c3a152b9d3285b9e6a8e7ba5fa0709ed94a"
+    "head_sha": "64ab80992667c3131e2102958bb3c7a01a8a2589"
   },
   "count": 601,
   "errors": 0,
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "76afa7fe8efeacf4fce7e2b08e49ded83dd35a53",
+      "sha": "7a043923310ffb707776711466fba97c09f0bd6c",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -3534,7 +3534,7 @@
     {
       "metadata": "{\"name\": \"sap-cell-gene-therapy-orchestration-api-service\", \"description\": \"SAP Cell and Gene Therapy Orchestration\", \"deprecated\": false, \"link\": \"https://help.sap.com/cgto\"}",
       "path": "v1/developer/sap-cell-gene-therapy-orchestration-api-service.json",
-      "sha": "cce8770b34ed6c4c5ff65ff9b421c52da6f6db3e",
+      "sha": "f93d5f52b18519421a2875a1bee307bf9cd7eaae",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sap-cell-gene-therapy-orchestration-api-service.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sap-cell-gene-therapy-orchestration-api-service.json"
     },
