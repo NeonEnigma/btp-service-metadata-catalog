@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-06-27T04:54:00Z",
+  "generated_at_utc": "2026-06-27T07:49:56Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "44b37cde8b9a6418b324463ffa42e23c2e6ef2f1"
+    "head_sha": "971439921e8fc742704a7ffb41b8bd41cf8d1254"
   },
   "count": 601,
   "errors": 0,
@@ -993,7 +993,7 @@
     {
       "metadata": "{\"name\": \"das-application\", \"description\": \"Joule\", \"deprecated\": false, \"link\": \"https://help.sap.com/joule\"}",
       "path": "v1/developer/das-application.json",
-      "sha": "560fcfa1d2b197c2709c64382ef5aaacbd34f7b6",
+      "sha": "629901d6c380808782946c0e4c9f260aaad90a2b",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/das-application.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/das-application.json"
     },
@@ -1721,7 +1721,7 @@
     {
       "metadata": "{\"name\": \"grc-issueandremediationmanagement\", \"description\": \"GRC Issue Management and Remediation service\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/489dc5cf7e914e05b2741116f34e56d8/1.0/en-US\"}",
       "path": "v1/developer/grc-issueandremediationmanagement.json",
-      "sha": "59a274f3e2472329164a725107490433574d0502",
+      "sha": "b33c4ce04dacf87aebc7e3000c89bd1ffaf4d02b",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/grc-issueandremediationmanagement.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/grc-issueandremediationmanagement.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "de40e2f4c7ea019ae6d8e0487df0c6d05e5d3f5c",
+      "sha": "03ef3ea986e00b09e9dd824a8b3143e4e1b62f57",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
