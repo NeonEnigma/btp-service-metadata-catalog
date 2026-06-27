@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-27T18:06:09Z",
+  "generated_at_utc": "2026-06-27T20:08:47Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
@@ -7,8 +7,8 @@
     "start_path": "v1/developer",
     "head_sha": "971439921e8fc742704a7ffb41b8bd41cf8d1254"
   },
-  "count": 599,
-  "errors": 2,
+  "count": 601,
+  "errors": 0,
   "services": [
     {
       "metadata": "{\"name\": \"3dvisualization\", \"description\": \"SAP 3D Visual Enterprise, Cloud Edition\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/CP_3D_Visualization/Cloud/en-US\"}",
@@ -3791,6 +3791,13 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sapworkzonehr.json"
     },
     {
+      "metadata": "{\"name\": \"sbc-oauth\", \"description\": \"for SBC\", \"deprecated\": false, \"link\": \"https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sbc-oauth.json\"}",
+      "path": "v1/developer/sbc-oauth.json",
+      "sha": "dc8e018404ae75e6c95ea19a42309b75b41b2a70",
+      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sbc-oauth.json",
+      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sbc-oauth.json"
+    },
+    {
       "metadata": "{\"name\": \"sbo\", \"description\": \"SAP Supply Base Optimization\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SBO_OD/12b5b039d57b4236a95baf765f7ba719/48a6b63cf4da4ddd9217eb40cb4e4e19.html?q=SAP%20Supply%20Base%20Optimization\"}",
       "path": "v1/developer/sbo.json",
       "sha": "e48b14976215605b019ee7e2172abc956a7485a4",
@@ -4083,6 +4090,13 @@
       "sha": "e05156842a5da2e741b2800647b985ef95476b0c",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/ui5-flexibility-keyuser.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/ui5-flexibility-keyuser.json"
+    },
+    {
+      "metadata": "{\"name\": \"visualization-application\", \"description\": \"The Visualization Service enables customers to import, manage and connect their 3D data in their design, manufacturing, operations and other business workflows.\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/PLM_EPD\"}",
+      "path": "v1/developer/visualization-application.json",
+      "sha": "fa81ed1b978ad29ce588a5e3878dc2b7d19f04bb",
+      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/visualization-application.json",
+      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/visualization-application.json"
     },
     {
       "metadata": "{\"name\": \"warehouse-insights-api\", \"description\": \"SAP Warehouse Insights\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_WAREHOUSE_INSIGHTS\"}",
