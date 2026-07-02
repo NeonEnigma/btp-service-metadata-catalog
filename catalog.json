@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": "2026-07-02T03:39:39Z",
+  "generated_at_utc": "2026-07-02T07:33:32Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "055bdeb1400ac2f6827e7975cea465df836308ea"
+    "head_sha": "1677803bdc8c2c216d16ccd02426965008d0ca2b"
   },
-  "count": 601,
+  "count": 602,
   "errors": 0,
   "services": [
     {
@@ -685,7 +685,7 @@
     {
       "metadata": "{\"name\": \"cias\", \"description\": \"Cloud Integration Automation\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/cloud-integration-automation\"}",
       "path": "v1/developer/cias.json",
-      "sha": "f41840ec3e807a808023f8aae8f34509f79e03b8",
+      "sha": "7e72c949176dc84bbc33f3e85492521681859883",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/cias.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/cias.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "db8941f7d6de5a9c6a8e88199be1e2b784d27297",
+      "sha": "dbfd6a3d15f9c53bee9e50c9aa30901e3b2b82ff",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -2125,6 +2125,13 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/iotdmi-testdemo.json"
     },
     {
+      "metadata": "{\"name\": \"ipd-dms-service-prod\", \"description\": \"Document Management\", \"deprecated\": false, \"link\": \"https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/ipd-dms-service-prod.json\"}",
+      "path": "v1/developer/ipd-dms-service-prod.json",
+      "sha": "ce41d6a390ea62184f417024b583cb8913600604",
+      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/ipd-dms-service-prod.json",
+      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/ipd-dms-service-prod.json"
+    },
+    {
       "metadata": "{\"name\": \"ipd\", \"description\": \"SAP Intelligent Product Design\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/PLM_CP\"}",
       "path": "v1/developer/ipd.json",
       "sha": "e9b26ff03992d00991eef13f8429b7003307257a",
@@ -2232,7 +2239,7 @@
     {
       "metadata": "{\"name\": \"kymaruntime\", \"description\": \"Kyma Runtime\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/kyma-runtime\"}",
       "path": "v1/developer/kymaruntime.json",
-      "sha": "d2af4ddf84d125fcb435d4cdd9adcd3c632ce8cb",
+      "sha": "251ac0d05e5040172b975ac18f23a8837728e953",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/kymaruntime.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/kymaruntime.json"
     },
