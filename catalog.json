@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-06T08:21:39Z",
+  "generated_at_utc": "2026-07-06T12:50:11Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
@@ -7,30 +7,9 @@
     "start_path": "v1/developer",
     "head_sha": "6fac962d04207e577d3840c3b70d687959956351"
   },
-  "count": 602,
-  "errors": 0,
+  "count": 592,
+  "errors": 10,
   "services": [
-    {
-      "metadata": "{\"name\": \"3dvisualization\", \"description\": \"SAP 3D Visual Enterprise, Cloud Edition\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/CP_3D_Visualization/Cloud/en-US\"}",
-      "path": "v1/developer/3dvisualization.json",
-      "sha": "6be8bb85acb465d1b59cd91c0d9ab489e2603671",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/3dvisualization.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/3dvisualization.json"
-    },
-    {
-      "metadata": "{\"name\": \"abap-solution\", \"description\": \"ABAP Solution\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/BTP/65de2977205c403bbc107264b8eccf4b/195031ff8f484b51af16fe392ec2ae6e.html\"}",
-      "path": "v1/developer/abap-solution.json",
-      "sha": "da8a44c94c79903ffaaefd14ba44a91af4c4c3e4",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/abap-solution.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/abap-solution.json"
-    },
-    {
-      "metadata": "{\"name\": \"abap-trial\", \"description\": \"ABAP environment\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/abap-environment\"}",
-      "path": "v1/developer/abap-trial.json",
-      "sha": "6324f140eea0bd6478e0e9f1025f91c1dac269b5",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/abap-trial.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/abap-trial.json"
-    },
     {
       "metadata": "{\"name\": \"abap\", \"description\": \"ABAP environment\", \"deprecated\": true, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/abap-environment\"}",
       "path": "v1/developer/abap.json",
@@ -534,13 +513,6 @@
       "sha": "65bec69308e4a2df263d1427497e75513f6bdc84",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/c4re.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/c4re.json"
-    },
-    {
-      "metadata": "{\"name\": \"c4u-foundation-mcm-api\", \"description\": \"SAP Cloud for Utilities Foundation MCM\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/Cloud_for_Utilities_Foundation/Cloud\"}",
-      "path": "v1/developer/c4u-foundation-mcm-api.json",
-      "sha": "610cfff4c2423972b5e81b9688ffa71055308241",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/c4u-foundation-mcm-api.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/c4u-foundation-mcm-api.json"
     },
     {
       "metadata": "{\"name\": \"c4u-foundation-mcm\", \"description\": \"SAP Cloud for Utilities Foundation MCM\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/Cloud_for_Utilities_Foundation/Cloud\"}",
@@ -1241,34 +1213,6 @@
       "sha": "fecf4737d6a490ed3828ef6b1d55f9b1e8c508d5",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/drcc-app.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/drcc-app.json"
-    },
-    {
-      "metadata": "{\"name\": \"drcc\", \"description\": \"Exchange electronic documents between business systems and external communication parties.\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_DRC_CLOUD\"}",
-      "path": "v1/developer/drcc.json",
-      "sha": "a157e09e8c510912c71c92457441b4adb5c13f56",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/drcc.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/drcc.json"
-    },
-    {
-      "metadata": "{\"name\": \"dvh-prod\", \"description\": \"SAP Digital Vehicle Hub\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/BTP/bf82e6b26456494cbdd197057c09979f/df532e8735eb4322b00bfc7e42f84e8d.html\"}",
-      "path": "v1/developer/dvh-prod.json",
-      "sha": "838b329786967fa194054e711622ad837850ed57",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/dvh-prod.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/dvh-prod.json"
-    },
-    {
-      "metadata": "{\"name\": \"dvh-test-application\", \"description\": \"(Test) SAP Digital Vehicle Hub application represents the digital twin for any ground transportation object, which integrates and interacts seamlessly along the automotive & mobility value chain in the cloud.\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_DIGITAL_VEHICLE_HUB\"}",
-      "path": "v1/developer/dvh-test-application.json",
-      "sha": "bdbde875a9ab41bc45d31a22709aba468fdd93a0",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/dvh-test-application.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/dvh-test-application.json"
-    },
-    {
-      "metadata": "{\"name\": \"dvh-test\", \"description\": \"(Test) SAP Digital Vehicle Hub application represents the digital twin for any ground transportation object, which integrates and interacts seamlessly along the automotive & mobility value chain in the cloud.\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_DIGITAL_VEHICLE_HUB\"}",
-      "path": "v1/developer/dvh-test.json",
-      "sha": "0af3b4c67b9dca38879581459e89a551567fc89a",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/dvh-test.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/dvh-test.json"
     },
     {
       "metadata": "{\"name\": \"dvh\", \"description\": \"SAP Digital Vehicle Hub\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_DIGITAL_VEHICLE_HUB\"}",
@@ -3728,13 +3672,6 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sapappstudiotrial.json"
     },
     {
-      "metadata": "{\"name\": \"SAPCloudALM\", \"description\": \"SAP Cloud ALM\", \"deprecated\": false, \"link\": \"https://support.sap.com/en/alm/sap-cloud-alm.html\"}",
-      "path": "v1/developer/sapcloudalm.json",
-      "sha": "2766753a20ecd97465a047d2a3f92f7b8422407f",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sapcloudalm.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sapcloudalm.json"
-    },
-    {
       "metadata": "{\"name\": \"SAPCloudALMAPIs\", \"description\": \"SAP Cloud ALM API\", \"deprecated\": false, \"link\": \"https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sapcloudalmapis.json\"}",
       "path": "v1/developer/sapcloudalmapis.json",
       "sha": "635426ee213a29b565b57b6d25c3bf9d8307093d",
@@ -3761,13 +3698,6 @@
       "sha": "b0f802e29cefc610a612b713f20238d296609a1e",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sapentitlementmanagementpartner.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sapentitlementmanagementpartner.json"
-    },
-    {
-      "metadata": "{\"name\": \"SAPHybrisRevenueCloud\", \"description\": \"SAP Subscription Billing\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/987aec876092428f88162e438acf80d6/latest/en-US\"}",
-      "path": "v1/developer/saphybrisrevenuecloud.json",
-      "sha": "335f598bb3743e3ceb10c022dce121c3641183ae",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/saphybrisrevenuecloud.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/saphybrisrevenuecloud.json"
     },
     {
       "metadata": "{\"name\": \"SAPLaunchpad\", \"description\": \"Provides users with a central point of access to applications from different sources.\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/sap-build-work-zone-standard-edition\"}",
