@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-06T20:53:33Z",
+  "generated_at_utc": "2026-07-06T22:15:05Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
@@ -7,8 +7,8 @@
     "start_path": "v1/developer",
     "head_sha": "6fac962d04207e577d3840c3b70d687959956351"
   },
-  "count": 602,
-  "errors": 0,
+  "count": 599,
+  "errors": 3,
   "services": [
     {
       "metadata": "{\"name\": \"3dvisualization\", \"description\": \"SAP 3D Visual Enterprise, Cloud Edition\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/CP_3D_Visualization/Cloud/en-US\"}",
@@ -618,20 +618,6 @@
       "sha": "1f068b9b99dd974327b398758343aad101884760",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/ccpapibroker-prod.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/ccpapibroker-prod.json"
-    },
-    {
-      "metadata": "{\"name\": \"ccpapibroker-test\", \"description\": \"S/4HANA Cloud for Customer Payments Test\", \"deprecated\": false, \"link\": \"https://help.sap.com/customerpayments\"}",
-      "path": "v1/developer/ccpapibroker-test.json",
-      "sha": "47255b7674a93c55cbd921bef4ceff4b97bc87d0",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/ccpapibroker-test.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/ccpapibroker-test.json"
-    },
-    {
-      "metadata": "{\"name\": \"ccpcustprod\", \"description\": \"S/4HANA Cloud for Customer Payments\", \"deprecated\": false, \"link\": \"https://help.sap.com/customerpayments\"}",
-      "path": "v1/developer/ccpcustprod.json",
-      "sha": "8288269ad754e915c9a5b6afe5be1110c6746ec4",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/ccpcustprod.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/ccpcustprod.json"
     },
     {
       "metadata": "{\"name\": \"ccpcusttest\", \"description\": \"S/4HANA Cloud for Customer Payments Test\", \"deprecated\": false, \"link\": \"https://help.sap.com/customerpayments\"}",
@@ -1521,13 +1507,6 @@
       "sha": "6002b337cba576f8d794ff0d9965e98bdcf0e824",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/epd-product-data-integration.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/epd-product-data-integration.json"
-    },
-    {
-      "metadata": "{\"name\": \"epd-product-structure-service\", \"description\": \"Enterprise Product Structure\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/PLM_EPD/e1cc68eef48d4495a30beb0f1d33b327/7f50f463a40249cb8b85fcb941ba4683.html\"}",
-      "path": "v1/developer/epd-product-structure-service.json",
-      "sha": "a47655406ea9da88b0afd1424ebb8f76943fec23",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/epd-product-structure-service.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/epd-product-structure-service.json"
     },
     {
       "metadata": "{\"name\": \"epd-product-structure\", \"description\": \"Enterprise Product Structure\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/PLM_EPD/e1cc68eef48d4495a30beb0f1d33b327/7f50f463a40249cb8b85fcb941ba4683.html\"}",
