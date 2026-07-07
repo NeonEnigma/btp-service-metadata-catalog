@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-07T21:25:40Z",
+  "generated_at_utc": "2026-07-07T23:03:30Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
@@ -7,8 +7,8 @@
     "start_path": "v1/developer",
     "head_sha": "6fac962d04207e577d3840c3b70d687959956351"
   },
-  "count": 602,
-  "errors": 0,
+  "count": 598,
+  "errors": 4,
   "services": [
     {
       "metadata": "{\"name\": \"3dvisualization\", \"description\": \"SAP 3D Visual Enterprise, Cloud Edition\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/CP_3D_Visualization/Cloud/en-US\"}",
@@ -16,13 +16,6 @@
       "sha": "6be8bb85acb465d1b59cd91c0d9ab489e2603671",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/3dvisualization.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/3dvisualization.json"
-    },
-    {
-      "metadata": "{\"name\": \"abap-solution\", \"description\": \"ABAP Solution\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/BTP/65de2977205c403bbc107264b8eccf4b/195031ff8f484b51af16fe392ec2ae6e.html\"}",
-      "path": "v1/developer/abap-solution.json",
-      "sha": "da8a44c94c79903ffaaefd14ba44a91af4c4c3e4",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/abap-solution.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/abap-solution.json"
     },
     {
       "metadata": "{\"name\": \"abap-trial\", \"description\": \"ABAP environment\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/abap-environment\"}",
@@ -1712,13 +1705,6 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/grc-dsr.json"
     },
     {
-      "metadata": "{\"name\": \"grc-iag-api\", \"description\": \"SAP Cloud Identity Access Governance\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_CLOUD_IDENTITY_ACCESS_GOVERNANCE\"}",
-      "path": "v1/developer/grc-iag-api.json",
-      "sha": "a0e778ac4c5b6a15dbeffd5d44f5da3837d6ed73",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/grc-iag-api.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/grc-iag-api.json"
-    },
-    {
       "metadata": "{\"name\": \"grc-issueandremediationmanagement\", \"description\": \"GRC Issue Management and Remediation service\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/489dc5cf7e914e05b2741116f34e56d8/1.0/en-US\"}",
       "path": "v1/developer/grc-issueandremediationmanagement.json",
       "sha": "b33c4ce04dacf87aebc7e3000c89bd1ffaf4d02b",
@@ -2580,13 +2566,6 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/mdo-one-mds-master.json"
     },
     {
-      "metadata": "{\"name\": \"MDOrchestrationApplication\", \"description\": \"Master Data Orchestration\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_MASTER_DATA_INTEGRATION/8ce78b673ef04cc1bcfeb01c93ef7885/0bed505b149b4ec6af24bf503a45708b.html\"}",
-      "path": "v1/developer/mdorchestrationapplication.json",
-      "sha": "103518f855725d7d63308a5338579340508542b0",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/mdorchestrationapplication.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/mdorchestrationapplication.json"
-    },
-    {
       "metadata": "{\"name\": \"ml-foundation-beta\", \"description\": \"SAP Leonardo Machine Learning Foundation Beta Services\", \"deprecated\": false, \"link\": \"http://help.sap.com/mlf\"}",
       "path": "v1/developer/ml-foundation-beta.json",
       "sha": "ef248ee4512689bff0a052ddf4c7429c55d1c32a",
@@ -2599,13 +2578,6 @@
       "sha": "8c16c54d58e5d8807085d711a9f3e5a2dd6c5b90",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/ml-foundation.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/ml-foundation.json"
-    },
-    {
-      "metadata": "{\"name\": \"mobile-app-catalog\", \"description\": \"Mobile App Catalog\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/BTP/468990a67780424a9e66eb096d4345bb/94c2409443e54b24aa823a75ce9d5f70.html\"}",
-      "path": "v1/developer/mobile-app-catalog.json",
-      "sha": "c53901e867fe8667055aaf1c10428ac1bad31805",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/mobile-app-catalog.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/mobile-app-catalog.json"
     },
     {
       "metadata": "{\"name\": \"mobile-app-update\", \"description\": \"Mobile App Update\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/BTP/468990a67780424a9e66eb096d4345bb/fb0364cb13b44f84803657a386811f2a.html\"}",
