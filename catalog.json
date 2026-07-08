@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-08T18:19:35Z",
+  "generated_at_utc": "2026-07-08T20:22:00Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
@@ -7,8 +7,8 @@
     "start_path": "v1/developer",
     "head_sha": "6fac962d04207e577d3840c3b70d687959956351"
   },
-  "count": 602,
-  "errors": 0,
+  "count": 601,
+  "errors": 1,
   "services": [
     {
       "metadata": "{\"name\": \"3dvisualization\", \"description\": \"SAP 3D Visual Enterprise, Cloud Edition\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/CP_3D_Visualization/Cloud/en-US\"}",
@@ -1619,13 +1619,6 @@
       "sha": "e9066d39b5087ebb908410d78eed9603bb2ed6e5",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/excise-tax-service.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/excise-tax-service.json"
-    },
-    {
-      "metadata": "{\"name\": \"excisetaxga\", \"description\": \"SAP Excise Tax Management\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/EXCISE_TAX\"}",
-      "path": "v1/developer/excisetaxga.json",
-      "sha": "1a6e7783a389a2686a4fcf92dee9dba4eff9baf1",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/excisetaxga.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/excisetaxga.json"
     },
     {
       "metadata": "{\"name\": \"execution-dmc-sap-quality\", \"description\": \"SAP Digital Manufacturing for execution, Test\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_DIGITAL_MANUFACTURING_CLOUD\"}",
