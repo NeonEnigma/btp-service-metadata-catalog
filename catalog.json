@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-08T02:44:42Z",
+  "generated_at_utc": "2026-07-08T05:52:45Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
@@ -7,8 +7,8 @@
     "start_path": "v1/developer",
     "head_sha": "6fac962d04207e577d3840c3b70d687959956351"
   },
-  "count": 602,
-  "errors": 0,
+  "count": 601,
+  "errors": 1,
   "services": [
     {
       "metadata": "{\"name\": \"3dvisualization\", \"description\": \"SAP 3D Visual Enterprise, Cloud Edition\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/CP_3D_Visualization/Cloud/en-US\"}",
@@ -1626,13 +1626,6 @@
       "sha": "1a6e7783a389a2686a4fcf92dee9dba4eff9baf1",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/excisetaxga.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/excisetaxga.json"
-    },
-    {
-      "metadata": "{\"name\": \"execution-dmc-sap-quality\", \"description\": \"SAP Digital Manufacturing for execution, Test\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_DIGITAL_MANUFACTURING_CLOUD\"}",
-      "path": "v1/developer/execution-dmc-sap-quality.json",
-      "sha": "5755eaf978c80715ef9c354fb06ec4e1ed015de8",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/execution-dmc-sap-quality.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/execution-dmc-sap-quality.json"
     },
     {
       "metadata": "{\"name\": \"execution-dmc-sap\", \"description\": \"SAP Digital Manufacturing for execution\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_DIGITAL_MANUFACTURING_CLOUD\"}",
