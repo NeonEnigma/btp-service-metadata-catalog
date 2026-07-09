@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-08T22:08:26Z",
+  "generated_at_utc": "2026-07-09T00:26:31Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
@@ -7,8 +7,8 @@
     "start_path": "v1/developer",
     "head_sha": "6fac962d04207e577d3840c3b70d687959956351"
   },
-  "count": 602,
-  "errors": 0,
+  "count": 452,
+  "errors": 150,
   "services": [
     {
       "metadata": "{\"name\": \"3dvisualization\", \"description\": \"SAP 3D Visual Enterprise, Cloud Edition\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/CP_3D_Visualization/Cloud/en-US\"}",
@@ -109,13 +109,6 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/agricultural-origination-portal-api.json"
     },
     {
-      "metadata": "{\"name\": \"agricultural-origination-portal\", \"description\": \"Agricultural Origination Portal provides information on business transactions like contracts, deliveries, inventory and settlements in a modern, state of the art digitized way through a portal running on laptops and mobile devices\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_AGRICULTURAL_ORIGINATION_PORTAL\"}",
-      "path": "v1/developer/agricultural-origination-portal.json",
-      "sha": "da85adb38f47ac84cd6f57abf97ed7e0e809b3df",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/agricultural-origination-portal.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/agricultural-origination-portal.json"
-    },
-    {
       "metadata": "{\"name\": \"ai-launchpad\", \"description\": \"SAP AI Launchpad\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-ai-launchpad\"}",
       "path": "v1/developer/ai-launchpad.json",
       "sha": "bace544dfb766e96f724e345f78e80666790d6b4",
@@ -135,13 +128,6 @@
       "sha": "0a568d7a9f6ec455f03671bcf4fa74ee74a3eea3",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/ain.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/ain.json"
-    },
-    {
-      "metadata": "{\"name\": \"ain_api_live\", \"description\": \"SAP Business Network for Asset Management\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_ASSET_INTELLIGENCE_NETWORK\"}",
-      "path": "v1/developer/ain_api_live.json",
-      "sha": "b382d3ab3d5a109b7fb7569235a5b0f03fc1be06",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/ain_api_live.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/ain_api_live.json"
     },
     {
       "metadata": "{\"name\": \"ain_live\", \"description\": \"SAP Business Network Asset Collaboration\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_ASSET_INTELLIGENCE_NETWORK\"}",
@@ -219,13 +205,6 @@
       "sha": "fe96212d4c611a619b24b45387f130c0406064cc",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/apimanagement-devportal-trial.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/apimanagement-devportal-trial.json"
-    },
-    {
-      "metadata": "{\"name\": \"apimanagement-devportal\", \"description\": \"API Management, developer portal\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/BTP/66d066d903c2473f81ec33acfe2ccdb4/e765066197904519a730c3bca40f28b0.html\"}",
-      "path": "v1/developer/apimanagement-devportal.json",
-      "sha": "e007e0458570f74fab67473f75e4b04eed5e0ab2",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/apimanagement-devportal.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/apimanagement-devportal.json"
     },
     {
       "metadata": "{\"name\": \"apm-flp-live\", \"description\": \"SAP Asset Performance Management\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_APM\"}",
@@ -431,13 +410,6 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/brh-validation.json"
     },
     {
-      "metadata": "{\"name\": \"brh\", \"description\": \"SAP Batch Release Hub for Life Sciences\", \"deprecated\": false, \"link\": \"https://help.sap.com/brh\"}",
-      "path": "v1/developer/brh.json",
-      "sha": "c64bf96ca32fb81e6ef93d428f299724f84631af",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/brh.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/brh.json"
-    },
-    {
       "metadata": "{\"name\": \"broker-reconciliation-cm\", \"description\": \"SAP Broker Reconciliation for Commodity Derivatives\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_BROKER_RECONCILIATION_FOR_COMMODITY_DERIVATIVES/SHIP/en-US\"}",
       "path": "v1/developer/broker-reconciliation-cm.json",
       "sha": "ee607b18e5a7d04810ab2ae380ce69ab082e5165",
@@ -450,13 +422,6 @@
       "sha": "18b4cbab2ce8a377e9b367d3b61386c89a5f205c",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/broker-reconciliation-integration-service.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/broker-reconciliation-integration-service.json"
-    },
-    {
-      "metadata": "{\"name\": \"broker-reconciliation\", \"description\": \"SAP Broker Reconciliation for Commodity Derivatives\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_BROKER_RECONCILIATION_FOR_COMMODITY_DERIVATIVES/SHIP/en-US\"}",
-      "path": "v1/developer/broker-reconciliation.json",
-      "sha": "7c2bb15f0693d30f01c07f8c7a8f6fd86f8b66d5",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/broker-reconciliation.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/broker-reconciliation.json"
     },
     {
       "metadata": "{\"name\": \"build-code\", \"description\": \"SAP Build Code\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/build_code\"}",
@@ -501,13 +466,6 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/business-rules.json"
     },
     {
-      "metadata": "{\"name\": \"c21\", \"description\": \"SAP Sustainability Footprint Management\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_BTP_PFM/LATEST/en-US?task=discover_task\"}",
-      "path": "v1/developer/c21.json",
-      "sha": "2c4f4b9e6b8f5f39cffb3b56caf4b84ff1bd3644",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/c21.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/c21.json"
-    },
-    {
       "metadata": "{\"name\": \"c4-distributed-order-management-app\", \"description\": \"SAP Order Management Foundation\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_EM\"}",
       "path": "v1/developer/c4-distributed-order-management-app.json",
       "sha": "65b0018e40aff14169df02601bc877ce0486d224",
@@ -543,39 +501,11 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/c4u-foundation-mcm-api.json"
     },
     {
-      "metadata": "{\"name\": \"c4u-foundation-mcm\", \"description\": \"SAP Cloud for Utilities Foundation MCM\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/Cloud_for_Utilities_Foundation/Cloud\"}",
-      "path": "v1/developer/c4u-foundation-mcm.json",
-      "sha": "7648a388ba6b76766fdfaa4f44e5d815fc20fcb8",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/c4u-foundation-mcm.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/c4u-foundation-mcm.json"
-    },
-    {
-      "metadata": "{\"name\": \"c4u-foundation-retailer-api\", \"description\": \"SAP Cloud for Utilities Foundation Retailer\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/Cloud_for_Utilities_Foundation\"}",
-      "path": "v1/developer/c4u-foundation-retailer-api.json",
-      "sha": "e85700990921ad4fe84b78d53410007523dd6bce",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/c4u-foundation-retailer-api.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/c4u-foundation-retailer-api.json"
-    },
-    {
-      "metadata": "{\"name\": \"c4u-foundation-retailer\", \"description\": \"SAP Cloud for Utilities Foundation Retailer\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/Cloud_for_Utilities_Foundation\"}",
-      "path": "v1/developer/c4u-foundation-retailer.json",
-      "sha": "78e61a9b31571987a11cec5914161c704714ff34",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/c4u-foundation-retailer.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/c4u-foundation-retailer.json"
-    },
-    {
       "metadata": "{\"name\": \"cai-service-prod\", \"description\": \"Credit Integration\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_S4HANA_FINANCE_CLOUD_FOR_CREDIT_INTEGRATION/1.0/en-US\"}",
       "path": "v1/developer/cai-service-prod.json",
       "sha": "a16fc79d3342342c86acd0241d7d7c5528131a73",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/cai-service-prod.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/cai-service-prod.json"
-    },
-    {
-      "metadata": "{\"name\": \"cai-service-test\", \"description\": \"Credit Integration Test\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_S4HANA_FINANCE_CLOUD_FOR_CREDIT_INTEGRATION/1.0/en-US\"}",
-      "path": "v1/developer/cai-service-test.json",
-      "sha": "4a8c5bc4994e801f7f47acdd8570c88b837fd6e6",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/cai-service-test.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/cai-service-test.json"
     },
     {
       "metadata": "{\"name\": \"calm\", \"description\": \"Stub for automating SPC engagement\", \"deprecated\": false, \"link\": \"https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/calm.json\"}",
@@ -592,67 +522,11 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/cash-application-for-contract-accounting.json"
     },
     {
-      "metadata": "{\"name\": \"category-management-api\", \"description\": \"SAP Ariba Category Management\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/CATMAN\"}",
-      "path": "v1/developer/category-management-api.json",
-      "sha": "b230b8b7b7e8f7ceeb2d152ace54eee79dde4b94",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/category-management-api.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/category-management-api.json"
-    },
-    {
-      "metadata": "{\"name\": \"categorymanagement-o2-s2\", \"description\": \"Provides tools and data insights across all phases of category strategy development and execution.\", \"deprecated\": false, \"link\": \"https://community.sap.com/search/?ct=blog&q=SAP%20Ariba%20Category%20Management\"}",
-      "path": "v1/developer/categorymanagement-o2-s2.json",
-      "sha": "065fe84d850f07ef4438715ced6f266f40315ff8",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/categorymanagement-o2-s2.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/categorymanagement-o2-s2.json"
-    },
-    {
       "metadata": "{\"name\": \"categorymanagement-prod\", \"description\": \"SAP Ariba Category Management\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/CATMAN\"}",
       "path": "v1/developer/categorymanagement-prod.json",
       "sha": "640951698fee560d83bf9476dd513e6a53d3f96e",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/categorymanagement-prod.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/categorymanagement-prod.json"
-    },
-    {
-      "metadata": "{\"name\": \"ccpapibroker-prod\", \"description\": \"S/4HANA Cloud for Customer Payments\", \"deprecated\": false, \"link\": \"https://help.sap.com/customerpayments\"}",
-      "path": "v1/developer/ccpapibroker-prod.json",
-      "sha": "1f068b9b99dd974327b398758343aad101884760",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/ccpapibroker-prod.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/ccpapibroker-prod.json"
-    },
-    {
-      "metadata": "{\"name\": \"ccpapibroker-test\", \"description\": \"S/4HANA Cloud for Customer Payments Test\", \"deprecated\": false, \"link\": \"https://help.sap.com/customerpayments\"}",
-      "path": "v1/developer/ccpapibroker-test.json",
-      "sha": "47255b7674a93c55cbd921bef4ceff4b97bc87d0",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/ccpapibroker-test.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/ccpapibroker-test.json"
-    },
-    {
-      "metadata": "{\"name\": \"ccpcustprod\", \"description\": \"S/4HANA Cloud for Customer Payments\", \"deprecated\": false, \"link\": \"https://help.sap.com/customerpayments\"}",
-      "path": "v1/developer/ccpcustprod.json",
-      "sha": "8288269ad754e915c9a5b6afe5be1110c6746ec4",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/ccpcustprod.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/ccpcustprod.json"
-    },
-    {
-      "metadata": "{\"name\": \"ccpcusttest\", \"description\": \"S/4HANA Cloud for Customer Payments Test\", \"deprecated\": false, \"link\": \"https://help.sap.com/customerpayments\"}",
-      "path": "v1/developer/ccpcusttest.json",
-      "sha": "a34aa584c048556de6b2b9901d1320974437f125",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/ccpcusttest.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/ccpcusttest.json"
-    },
-    {
-      "metadata": "{\"name\": \"ccppartnerdemo\", \"description\": \"S/4HANA Cloud for Customer Payments Test & Demo\", \"deprecated\": false, \"link\": \"https://help.sap.com/customerpayments\"}",
-      "path": "v1/developer/ccppartnerdemo.json",
-      "sha": "42a35f0da3794ea073148c260a89d16b5250176b",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/ccppartnerdemo.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/ccppartnerdemo.json"
-    },
-    {
-      "metadata": "{\"name\": \"central-invoice-management-api\", \"description\": \"SAP Ariba Invoicing\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/CENTRAL_INVOICE_MANAGEMENT\"}",
-      "path": "v1/developer/central-invoice-management-api.json",
-      "sha": "6605c0bf7f125f7eb160f6e7ca4ec3e5af627895",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/central-invoice-management-api.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/central-invoice-management-api.json"
     },
     {
       "metadata": "{\"name\": \"cgtorch-preprod\", \"description\": \"SAP Cell and Gene Therapy Orchestration Preview\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/DRAFT/SAP_CGT_ORCH/SHIP/en-US\"}",
@@ -662,13 +536,6 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/cgtorch-preprod.json"
     },
     {
-      "metadata": "{\"name\": \"cgtorch-preprodext\", \"description\": \"SAP Cell and Gene Therapy Orchestration Preview Extension\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/DRAFT/SAP_CGT_ORCH/SHIP/en-US\"}",
-      "path": "v1/developer/cgtorch-preprodext.json",
-      "sha": "80747064b6a2f766660d9bc9d11ad24f72b09c63",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/cgtorch-preprodext.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/cgtorch-preprodext.json"
-    },
-    {
       "metadata": "{\"name\": \"cgtorch-prerelval\", \"description\": \"SAP Cell and Gene Therapy Orchestration Preview Validation\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/DRAFT/SAP_CGT_ORCH/SHIP/en-US\"}",
       "path": "v1/developer/cgtorch-prerelval.json",
       "sha": "46fcee160e1bc37dd2dd9786128ff4c586a22472",
@@ -676,32 +543,11 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/cgtorch-prerelval.json"
     },
     {
-      "metadata": "{\"name\": \"cgtorch\", \"description\": \"SAP Cell and Gene Therapy Orchestration\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_CGT_ORCH\"}",
-      "path": "v1/developer/cgtorch.json",
-      "sha": "4ad4fd20e8482d9e9ab0be2b6cf0fe0fc61dedc8",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/cgtorch.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/cgtorch.json"
-    },
-    {
       "metadata": "{\"name\": \"cias\", \"description\": \"Cloud Integration Automation\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/cloud-integration-automation\"}",
       "path": "v1/developer/cias.json",
       "sha": "7e72c949176dc84bbc33f3e85492521681859883",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/cias.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/cias.json"
-    },
-    {
-      "metadata": "{\"name\": \"cicd-app\", \"description\": \"Continuous Integration & Delivery\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/continuous-integration--delivery?region=all\"}",
-      "path": "v1/developer/cicd-app.json",
-      "sha": "acfb3cb0414df463afa93d5162d3820f29da95d1",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/cicd-app.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/cicd-app.json"
-    },
-    {
-      "metadata": "{\"name\": \"cicd-service\", \"description\": \"Continuous Integration & Delivery\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/continuous-integration--delivery?region=all\"}",
-      "path": "v1/developer/cicd-service.json",
-      "sha": "23b48975ae2e4d79e916e65e4e69e3618697a982",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/cicd-service.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/cicd-service.json"
     },
     {
       "metadata": "{\"name\": \"cis\", \"description\": \"Cloud Management Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/cloud-management-service\"}",
@@ -732,13 +578,6 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/cloudforenergy.json"
     },
     {
-      "metadata": "{\"name\": \"cloudfoundry\", \"description\": \"Cloud Foundry Environment\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/cloud-foundry-runtime\"}",
-      "path": "v1/developer/cloudfoundry.json",
-      "sha": "5d68b1bf3f593802b750092a85e8b89f6b065aa7",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/cloudfoundry.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/cloudfoundry.json"
-    },
-    {
       "metadata": "{\"name\": \"cmh-service\", \"description\": \"SAP Complaint Handling\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_CMH/SHIP/en-US\"}",
       "path": "v1/developer/cmh-service.json",
       "sha": "59b610ce9877a258da6c19c2659e3caa1c6fa813",
@@ -767,13 +606,6 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/connected-products.json"
     },
     {
-      "metadata": "{\"name\": \"connectivity-central\", \"description\": \"Connectivity Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/#/serviceCatalog/connectivity-service\"}",
-      "path": "v1/developer/connectivity-central.json",
-      "sha": "9aba660238e27c0fdea7e055764e3b7a350c911c",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/connectivity-central.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/connectivity-central.json"
-    },
-    {
       "metadata": "{\"name\": \"connectivity\", \"description\": \"Connectivity Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/#/serviceCatalog/connectivity-service\"}",
       "path": "v1/developer/connectivity.json",
       "sha": "ad82941de1ecd68f389c5ad984ff72c5a74bbfa5",
@@ -800,13 +632,6 @@
       "sha": "3f0faf7c762b2c0dccbe7c6eff446c96c60ad485",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/content-agent.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/content-agent.json"
-    },
-    {
-      "metadata": "{\"name\": \"conversational-ai\", \"description\": \"SAP Conversational AI\", \"deprecated\": false, \"link\": \"https://help.sap.com/cai\"}",
-      "path": "v1/developer/conversational-ai.json",
-      "sha": "eb3312337983aeeb843a8f90a9d7df02f217e684",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/conversational-ai.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/conversational-ai.json"
     },
     {
       "metadata": "{\"name\": \"copin-api\", \"description\": \"Project Management\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/PPRM_OD\"}",
@@ -851,13 +676,6 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/cps-administration.json"
     },
     {
-      "metadata": "{\"name\": \"cpservices-admin-service\", \"description\": \"Administration Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/sap-variant-configuration-and-pricing\"}",
-      "path": "v1/developer/cpservices-admin-service.json",
-      "sha": "fa153bd14c88d3f48345fccbbc0beda3bbae63ba",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/cpservices-admin-service.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/cpservices-admin-service.json"
-    },
-    {
       "metadata": "{\"name\": \"cpservices-pricing\", \"description\": \"Pricing service\", \"deprecated\": false, \"link\": \"https://help.sap.com/doc/755a95a78fd948cdac64cb2e36f7834c/Production/en-US/loio49cd543c5590462ca1c2c0a7403d404b.pdf\"}",
       "path": "v1/developer/cpservices-pricing.json",
       "sha": "5896adba2d58a97db5a85155fe13c14163d5efaf",
@@ -877,20 +695,6 @@
       "sha": "784478322f2eabb5db7b6b0d61fd786b39e3fd20",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/cr-cai-prod.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/cr-cai-prod.json"
-    },
-    {
-      "metadata": "{\"name\": \"cr-cai-test\", \"description\": \"Credit Integration Test\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_S4HANA_FINANCE_CLOUD_FOR_CREDIT_INTEGRATION/1.0/en-US\"}",
-      "path": "v1/developer/cr-cai-test.json",
-      "sha": "b294204d14ee7cd308c731fcdec92fbee1fd6898",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/cr-cai-test.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/cr-cai-test.json"
-    },
-    {
-      "metadata": "{\"name\": \"credstore\", \"description\": \"Credential Store\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/credential-store\"}",
-      "path": "v1/developer/credstore.json",
-      "sha": "1e83a4383fc1e87c8ebd4dc0f38638ebcf4c3a33",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/credstore.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/credstore.json"
     },
     {
       "metadata": "{\"name\": \"csi-inbound-SAP\", \"description\": \"Consumer Sales Intelligence Inbound\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/CSI\"}",
@@ -919,13 +723,6 @@
       "sha": "08c0d0bbd20c782509846a696178bfd061272f54",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/csi-product-sap.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/csi-product-sap.json"
-    },
-    {
-      "metadata": "{\"name\": \"csi-sam-SAP\", \"description\": \"Consumer Sales Intelligence Sales Audit Manager\", \"deprecated\": false, \"link\": \"https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/csi-sam-sap.json\"}",
-      "path": "v1/developer/csi-sam-sap.json",
-      "sha": "d2e7d53de13550f7bb3f6ce9bc4b7978d8b65520",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/csi-sam-sap.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/csi-sam-sap.json"
     },
     {
       "metadata": "{\"name\": \"csi-site-SAP\", \"description\": \"Consumer Sales Intelligence Site\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/CSI\"}",
@@ -1040,13 +837,6 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/data-intelligence.json"
     },
     {
-      "metadata": "{\"name\": \"data-lifecycle-service-saas-registry-application\", \"description\": \"Application to generate reports on archived data\", \"deprecated\": false, \"link\": \"https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/data-lifecycle-service-saas-registry-application.json\"}",
-      "path": "v1/developer/data-lifecycle-service-saas-registry-application.json",
-      "sha": "4af0da4f2adc5cd643626d72d72d4247298ffb46",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/data-lifecycle-service-saas-registry-application.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/data-lifecycle-service-saas-registry-application.json"
-    },
-    {
       "metadata": "{\"name\": \"data-privacy-integration-application\", \"description\": \"Data Privacy Integration\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/data-privacy-integration\"}",
       "path": "v1/developer/data-privacy-integration-application.json",
       "sha": "cfcadc5618dc8e06d66d6b249d9ef26918ba6977",
@@ -1108,13 +898,6 @@
       "sha": "0d1723c398d4dc202e4c845c66f1ec1db1c1d948",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/di-api-service.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/di-api-service.json"
-    },
-    {
-      "metadata": "{\"name\": \"di-api\", \"description\": \"Data Space Integration API Access\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/integration-suite?region=all&tab=service_plan\"}",
-      "path": "v1/developer/di-api.json",
-      "sha": "eef061c27dd937f10c148c84a359d833cc8e6f52",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/di-api.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/di-api.json"
     },
     {
       "metadata": "{\"name\": \"di\", \"description\": \"Data Ingestion for Industry Cloud Solutions\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/DI_ICS\"}",
@@ -1257,13 +1040,6 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/dvh-prod.json"
     },
     {
-      "metadata": "{\"name\": \"dvh-test-application\", \"description\": \"(Test) SAP Digital Vehicle Hub application represents the digital twin for any ground transportation object, which integrates and interacts seamlessly along the automotive & mobility value chain in the cloud.\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_DIGITAL_VEHICLE_HUB\"}",
-      "path": "v1/developer/dvh-test-application.json",
-      "sha": "bdbde875a9ab41bc45d31a22709aba468fdd93a0",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/dvh-test-application.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/dvh-test-application.json"
-    },
-    {
       "metadata": "{\"name\": \"dvh-test\", \"description\": \"(Test) SAP Digital Vehicle Hub application represents the digital twin for any ground transportation object, which integrates and interacts seamlessly along the automotive & mobility value chain in the cloud.\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_DIGITAL_VEHICLE_HUB\"}",
       "path": "v1/developer/dvh-test.json",
       "sha": "0af3b4c67b9dca38879581459e89a551567fc89a",
@@ -1276,13 +1052,6 @@
       "sha": "72777995e57c1161942bbd8b432b3d46d5a49164",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/dvh.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/dvh.json"
-    },
-    {
-      "metadata": "{\"name\": \"dvo-tnd\", \"description\": \"SAP Digital Vehicle Operations\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_DVO\"}",
-      "path": "v1/developer/dvo-tnd.json",
-      "sha": "fb8f820842225667dae480a87d8c668ede0ea6d6",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/dvo-tnd.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/dvo-tnd.json"
     },
     {
       "metadata": "{\"name\": \"dvo\", \"description\": \"SAP Digital Vehicle Operations\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_DVO\"}",
@@ -1313,13 +1082,6 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/e-mobility-service.json"
     },
     {
-      "metadata": "{\"name\": \"e-mobility\", \"description\": \"SAP E-Mobility\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_E_MOBILITY\"}",
-      "path": "v1/developer/e-mobility.json",
-      "sha": "1e4d8fc7a241ad345107aa91313a0f060c0bf7b9",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/e-mobility.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/e-mobility.json"
-    },
-    {
       "metadata": "{\"name\": \"eadesigner-service\", \"description\": \"SAP EA Designer, cloud edition\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/PLM_EPD\"}",
       "path": "v1/developer/eadesigner-service.json",
       "sha": "8d1bffcb05b90f1636594b21b7708045894ec95b",
@@ -1341,13 +1103,6 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/emsoauthservice-prod.json"
     },
     {
-      "metadata": "{\"name\": \"emsoauthservice-test\", \"description\": \"SAP Entitlement Management OAuth Service Test\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/d3788ee7411146a89e8aeb4802779eb7/1906/en-US/7c20aa72d52841ea9e7230731c0fa9ca.html\"}",
-      "path": "v1/developer/emsoauthservice-test.json",
-      "sha": "a05151afae748389aa3396fbd80b5af59d6497e3",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/emsoauthservice-test.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/emsoauthservice-test.json"
-    },
-    {
       "metadata": "{\"name\": \"enterprise-contract-assembly-dwc\", \"description\": \"SAP Enterprise Contract Assembly\", \"deprecated\": false, \"link\": \"https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/enterprise-contract-assembly-dwc.json\"}",
       "path": "v1/developer/enterprise-contract-assembly-dwc.json",
       "sha": "f026b74dfb3196c96763496a074b3769567a6f92",
@@ -1360,13 +1115,6 @@
       "sha": "2d225d5912e1c1ce751c143331a976f4ff113912",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/enterprise-messaging-hub.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/enterprise-messaging-hub.json"
-    },
-    {
-      "metadata": "{\"name\": \"enterprise-messaging\", \"description\": \"Event Mesh\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/event-mesh\"}",
-      "path": "v1/developer/enterprise-messaging.json",
-      "sha": "440685ccd3cad612ae7dd252b47740141b55180d",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/enterprise-messaging.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/enterprise-messaging.json"
     },
     {
       "metadata": "{\"name\": \"EnterpriseThreatDetectionCloud\", \"description\": \"SAP Enterprise Threat Detection, Cloud Edition\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_ENTERPRISE_THREAT_DETECTION_CLOUD_EDITION/SHIP/en-US\"}",
@@ -1439,20 +1187,6 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/epd-engineering.json"
     },
     {
-      "metadata": "{\"name\": \"epd-formulation-app\", \"description\": \"A SaaS application for SAP IPD that lets recipe developers in the food and beverage, consumer products, chemical and life science industries create and update recipes throughout the product life cycle and hand them over to manufacturing.\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/PLM_EPD\"}",
-      "path": "v1/developer/epd-formulation-app.json",
-      "sha": "ed21bf66c377071e3c37314d7e36fee02cca4175",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/epd-formulation-app.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/epd-formulation-app.json"
-    },
-    {
-      "metadata": "{\"name\": \"epd-formulation-service\", \"description\": \"Formulation\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/PLM_EPD\"}",
-      "path": "v1/developer/epd-formulation-service.json",
-      "sha": "398149246b973700cd25b1023bff4973e9d309ed",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/epd-formulation-service.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/epd-formulation-service.json"
-    },
-    {
       "metadata": "{\"name\": \"epd-handover-service\", \"description\": \"A capability of SAP Integrated Product Development that facilitates you to plan and initiate handover of an engineering bill of material (EBOM) to a manufacturing bill of material (MBOM) in the product lifecycle management (PLM) process.\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/PLM_EPD/e1cc68eef48d4495a30beb0f1d33b327/6740772e16cc44d696cdf3824ce73bce.html\"}",
       "path": "v1/developer/epd-handover-service.json",
       "sha": "42ef9cd338e5768f628c562d1158c717eaa28e15",
@@ -1479,13 +1213,6 @@
       "sha": "0e72cf723e1287e24762ae91148f26fb0d6f84c0",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/epd-inm.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/epd-inm.json"
-    },
-    {
-      "metadata": "{\"name\": \"epd-insights-app\", \"description\": \"Insights\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/PLM_EPD\"}",
-      "path": "v1/developer/epd-insights-app.json",
-      "sha": "110f598028c8757ffa8df7f9cb0498c161320053",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/epd-insights-app.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/epd-insights-app.json"
     },
     {
       "metadata": "{\"name\": \"epd-insights\", \"description\": \"Insights\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/PLM_EPD\"}",
@@ -1537,13 +1264,6 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/epd-product-structure.json"
     },
     {
-      "metadata": "{\"name\": \"epd-specification\", \"description\": \"Specification Management\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/PLM_EPD\"}",
-      "path": "v1/developer/epd-specification.json",
-      "sha": "1d00221b8abe12acdf1354f329fbb8f695627d2e",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/epd-specification.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/epd-specification.json"
-    },
-    {
       "metadata": "{\"name\": \"epd-specmgmt\", \"description\": \"Specification Management\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/PLM_EPD\"}",
       "path": "v1/developer/epd-specmgmt.json",
       "sha": "dbc0e1ae1f603a34ef23afe490ab327e4ea26dc7",
@@ -1558,20 +1278,6 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/epd-status-management-prod.json"
     },
     {
-      "metadata": "{\"name\": \"epd-visualization\", \"description\": \"Import, manage and connect 3D data to business data.\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/PLM_EPD\"}",
-      "path": "v1/developer/epd-visualization.json",
-      "sha": "e277a58e2516cff1b1c1d4e7166aa6d3b7289e10",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/epd-visualization.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/epd-visualization.json"
-    },
-    {
-      "metadata": "{\"name\": \"epdc-collaboration-prod\", \"description\": \"Collaboration\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/PLM_EPD\"}",
-      "path": "v1/developer/epdc-collaboration-prod.json",
-      "sha": "8b40e32877a05158121d12c82587bd107403fafa",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/epdc-collaboration-prod.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/epdc-collaboration-prod.json"
-    },
-    {
       "metadata": "{\"name\": \"equipment-services-cockpit\", \"description\": \"Equipment Services Cockpit supports your technical services and maintenance business for complex Industrial Assets. It harmonizes the end-to-end process flow between SAP and non-SAP solutions. The service situation is completely transparent and visible. Enhances service efficiency by utilizing intelligent service planning and complements capabilities for service planners.\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_EQUIPMENT_SERVICES_COCKPIT/latest/en-US\"}",
       "path": "v1/developer/equipment-services-cockpit.json",
       "sha": "5f81b67d9f1d0503e3747fefd0c91193439c1da8",
@@ -1584,27 +1290,6 @@
       "sha": "cdba2169302dbc13c78754976f091df38ba4e18d",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/etd-cloud-data-retrieval-service.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/etd-cloud-data-retrieval-service.json"
-    },
-    {
-      "metadata": "{\"name\": \"etd-cloud-logcollector-service\", \"description\": \"SAP Enterprise Threat Detection, Cloud Edition, Log Collector\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/08a58a7facf34bf58077657c625187e3/SHIP/en-US\"}",
-      "path": "v1/developer/etd-cloud-logcollector-service.json",
-      "sha": "a18eb22556efa32a7913262dc212139b61752d76",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/etd-cloud-logcollector-service.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/etd-cloud-logcollector-service.json"
-    },
-    {
-      "metadata": "{\"name\": \"event-broker\", \"description\": \"SAP Cloud Application Event Hub\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/search/events\"}",
-      "path": "v1/developer/event-broker.json",
-      "sha": "bd62b4d8907e954eecc5daff8c308abcbd12895e",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/event-broker.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/event-broker.json"
-    },
-    {
-      "metadata": "{\"name\": \"event-mesh-message-client\", \"description\": \"Provides access to message client of Event Mesh capability of Integration Suite. You need this service instance to create a message client that will let you publish and consume events.\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/integration-suite?region=all&tab=service_plan\"}",
-      "path": "v1/developer/event-mesh-message-client.json",
-      "sha": "561775a0dafd05d57e06c3204cb30f20c5ecb1fa",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/event-mesh-message-client.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/event-mesh-message-client.json"
     },
     {
       "metadata": "{\"name\": \"event-mesh-sap2sap\", \"description\": \"SAP Cloud Application Event Hub\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/search/events\"}",
@@ -1626,69 +1311,6 @@
       "sha": "1a6e7783a389a2686a4fcf92dee9dba4eff9baf1",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/excisetaxga.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/excisetaxga.json"
-    },
-    {
-      "metadata": "{\"name\": \"execution-dmc-sap-quality\", \"description\": \"SAP Digital Manufacturing for execution, Test\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_DIGITAL_MANUFACTURING_CLOUD\"}",
-      "path": "v1/developer/execution-dmc-sap-quality.json",
-      "sha": "5755eaf978c80715ef9c354fb06ec4e1ed015de8",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/execution-dmc-sap-quality.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/execution-dmc-sap-quality.json"
-    },
-    {
-      "metadata": "{\"name\": \"execution-dmc-sap\", \"description\": \"SAP Digital Manufacturing for execution\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_DIGITAL_MANUFACTURING_CLOUD\"}",
-      "path": "v1/developer/execution-dmc-sap.json",
-      "sha": "f0de2bef52794af128e711d5c45ec6d020f76fef",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/execution-dmc-sap.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/execution-dmc-sap.json"
-    },
-    {
-      "metadata": "{\"name\": \"extension-center\", \"description\": \"Allows you to create, manage, configure extensions on SAP Business Technology Platform.\", \"deprecated\": false, \"link\": \"https://help.sap.com/doc/5e8107bf49684962b897217040398007/\"}",
-      "path": "v1/developer/extension-center.json",
-      "sha": "f5fdb9a2c6f7370e018007843b1ad669e80d0d66",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/extension-center.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/extension-center.json"
-    },
-    {
-      "metadata": "{\"name\": \"failure-mode-analytics\", \"description\": \"Failure Mode Analytics - provisioning-admin\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_PREDICTIVE_ASSET_INSIGHTS\"}",
-      "path": "v1/developer/failure-mode-analytics.json",
-      "sha": "15e6e1ddc19808677813ce3ee1754cc17107c192",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/failure-mode-analytics.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/failure-mode-analytics.json"
-    },
-    {
-      "metadata": "{\"name\": \"farming\", \"description\": \"SAP Intelligent Agriculture\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_INTELLIGENT_AGRICULTURE\"}",
-      "path": "v1/developer/farming.json",
-      "sha": "61336e065f74e5207c86ced2c003e6342c6b45f9",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/farming.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/farming.json"
-    },
-    {
-      "metadata": "{\"name\": \"feature-flags-dashboard\", \"description\": \"Feature Flags Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/feature-flags-service\"}",
-      "path": "v1/developer/feature-flags-dashboard.json",
-      "sha": "4d5988303b59e8a6a52cf98e850411fcd856d553",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/feature-flags-dashboard.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/feature-flags-dashboard.json"
-    },
-    {
-      "metadata": "{\"name\": \"feature-flags\", \"description\": \"Feature Flags Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/feature-flags-service\"}",
-      "path": "v1/developer/feature-flags.json",
-      "sha": "1965380dd83814755205fd8588c148d18b7eaed7",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/feature-flags.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/feature-flags.json"
-    },
-    {
-      "metadata": "{\"name\": \"financial-market-data-ecb\", \"description\": \"SAP Market Rates Management\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_CP_BUS_REUSE_SERVICE_MRM\"}",
-      "path": "v1/developer/financial-market-data-ecb.json",
-      "sha": "30455d1ba7bc0042704b89aa3f6098dcd2b807ef",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/financial-market-data-ecb.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/financial-market-data-ecb.json"
-    },
-    {
-      "metadata": "{\"name\": \"grc-businesscontenthub\", \"description\": \"GRC Content Hub service\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/489dc5cf7e914e05b2741116f34e56d8/1.0/en-US\"}",
-      "path": "v1/developer/grc-businesscontenthub.json",
-      "sha": "cd0e1f6686ea6b2c4850964d440c2dec8337be95",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/grc-businesscontenthub.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/grc-businesscontenthub.json"
     },
     {
       "metadata": "{\"name\": \"grc-control\", \"description\": \"GRC Control service\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/8221c6e024d845ec9e4cf6c835ed0af8/1.0/en-US\"}",
@@ -1803,60 +1425,11 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/gtt-demo-live.json"
     },
     {
-      "metadata": "{\"name\": \"gtt\", \"description\": \"As part of SAP Business Network Global Track and Trace, it enables you to capture, process, and store event messages with tracking information about highly-customizable business processes across your organization and business partners. It also provides you with an event-to-action engine that helps you automate your business processes.\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_LBN_GTT_OPTION/LBN/en-US\"}",
-      "path": "v1/developer/gtt.json",
-      "sha": "5ec7b94d8ce8b6c6e82a16598f239227d51f1da4",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/gtt.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/gtt.json"
-    },
-    {
-      "metadata": "{\"name\": \"h2hchat-h2h-prod\", \"description\": \"SAP Collaboration Manager\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP%20Collaboration%20Manager\"}",
-      "path": "v1/developer/h2hchat-h2h-prod.json",
-      "sha": "a3fc28e2769c7407446ee37954fa47af2952f344",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/h2hchat-h2h-prod.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/h2hchat-h2h-prod.json"
-    },
-    {
       "metadata": "{\"name\": \"hana-cloud-tools\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud-tools.json",
       "sha": "cc65606e70bb7758b52a3be5836f0d90aff17804",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud-tools.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud-tools.json"
-    },
-    {
-      "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
-      "path": "v1/developer/hana-cloud.json",
-      "sha": "4350f3e856e42658b4ac2f624350435299378ecb",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
-    },
-    {
-      "metadata": "{\"name\": \"hana-tenant-db\", \"description\": \"SAP HANA Tenant Database\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/BTP/65de2977205c403bbc107264b8eccf4b/5dd739823b824b539eee47b7860a00be.html\"}",
-      "path": "v1/developer/hana-tenant-db.json",
-      "sha": "39af45128ac39dd719a7f94a2317cf2e65841cdc",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-tenant-db.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-tenant-db.json"
-    },
-    {
-      "metadata": "{\"name\": \"hana\", \"description\": \"SAP HANA Schemas & HDI Containers\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/btp/sap-business-technology-platform/btp-getting-support\"}",
-      "path": "v1/developer/hana.json",
-      "sha": "4627631f218351615f6354cd0a164fabab6acba7",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana.json"
-    },
-    {
-      "metadata": "{\"name\": \"hanatrial\", \"description\": \"SAP HANA Schemas & HDI Containers Trial\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/btp/sap-business-technology-platform/btp-getting-support\"}",
-      "path": "v1/developer/hanatrial.json",
-      "sha": "e65e718cc5410bb89f3ec7ae2cd569ff7668a50a",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hanatrial.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hanatrial.json"
-    },
-    {
-      "metadata": "{\"name\": \"health-indicator-calculation\", \"description\": \"Health Indicator Calculation - provisioning-admin\", \"deprecated\": false, \"link\": \"https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/health-indicator-calculation.json\"}",
-      "path": "v1/developer/health-indicator-calculation.json",
-      "sha": "1f688d64aeda71fad4daf8dd5f9ec257abc2a0da",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/health-indicator-calculation.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/health-indicator-calculation.json"
     },
     {
       "metadata": "{\"name\": \"hl7-fhir-service\", \"description\": \"SAP Health Data Services for FHIR\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-health-data-services-for-fhir\"}",
@@ -1873,125 +1446,6 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/html5-apps-repo.json"
     },
     {
-      "metadata": "{\"name\": \"IADV-B2B-Library\", \"description\": \"SAP Integration Advisor B2B Library\", \"deprecated\": false, \"link\": \"https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/iadv-b2b-library.json\"}",
-      "path": "v1/developer/iadv-b2b-library.json",
-      "sha": "fcf9b3dc08f9603a987f772d02dbfb4228d764af",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/iadv-b2b-library.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/iadv-b2b-library.json"
-    },
-    {
-      "metadata": "{\"name\": \"iag\", \"description\": \"SAP Cloud Identity Access Governance\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_CLOUD_IDENTITY_ACCESS_GOVERNANCE\"}",
-      "path": "v1/developer/iag.json",
-      "sha": "ae3741c09fca4df88b6c9017d46382b92ccd9b87",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/iag.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/iag.json"
-    },
-    {
-      "metadata": "{\"name\": \"iag_service_bridge\", \"description\": \"SAP Cloud Identity Access Governance\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_CLOUD_IDENTITY_ACCESS_GOVERNANCE\"}",
-      "path": "v1/developer/iag_service_bridge.json",
-      "sha": "febf60ce13e0f65cba14546dbfda8709cb27087a",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/iag_service_bridge.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/iag_service_bridge.json"
-    },
-    {
-      "metadata": "{\"name\": \"iagintg\", \"description\": \"SAP Cloud Identity Access Governance, integration edition\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_CLOUD_IDENTITY_ACCESS_GOVERNANCE\"}",
-      "path": "v1/developer/iagintg.json",
-      "sha": "0be0e5ffae7948036c1e94dbd22252014e85e87c",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/iagintg.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/iagintg.json"
-    },
-    {
-      "metadata": "{\"name\": \"iam-analytics-services\", \"description\": \"Master Data Analytics\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_PREDICTIVE_ASSET_INSIGHTS\"}",
-      "path": "v1/developer/iam-analytics-services.json",
-      "sha": "2535abff93610c1e0de85ea5c55ba7b6f1fa07d4",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/iam-analytics-services.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/iam-analytics-services.json"
-    },
-    {
-      "metadata": "{\"name\": \"iam_flp_iamlive\", \"description\": \"SAP Intelligent Asset Management\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_INTELLIGENT_ASSET_MANAGEMENT\"}",
-      "path": "v1/developer/iam_flp_iamlive.json",
-      "sha": "e86370f8caa6ae236cb82c1eea219d5b38b2f8bb",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/iam_flp_iamlive.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/iam_flp_iamlive.json"
-    },
-    {
-      "metadata": "{\"name\": \"iam_flp_iampoc\", \"description\": \"SAP Intelligent Asset Management - Test and Demo\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_INTELLIGENT_ASSET_MANAGEMENT\"}",
-      "path": "v1/developer/iam_flp_iampoc.json",
-      "sha": "969a2b8e5d4af2b88cffe70c576c0dec0639b381",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/iam_flp_iampoc.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/iam_flp_iampoc.json"
-    },
-    {
-      "metadata": "{\"name\": \"iam_flp_iampreview\", \"description\": \"SAP Intelligent Asset Management Preview\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_INTELLIGENT_ASSET_MANAGEMENT\"}",
-      "path": "v1/developer/iam_flp_iampreview.json",
-      "sha": "29313b7f9039b69b63c9f39d9049c0a3f3150690",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/iam_flp_iampreview.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/iam_flp_iampreview.json"
-    },
-    {
-      "metadata": "{\"name\": \"ibanservice\", \"description\": \"Check validity and get details of given IBAN number.\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/iban-service\"}",
-      "path": "v1/developer/ibanservice.json",
-      "sha": "f99e12ad32a6f800c9f8f46eac3e0e210ed9a6be",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/ibanservice.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/ibanservice.json"
-    },
-    {
-      "metadata": "{\"name\": \"icsm-integration-preprod\", \"description\": \"SAP Intelligent Clinical Supply Management (Preprod)\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/S4_INTELLCLINICSUPPLYMGMT/latest/en-US\"}",
-      "path": "v1/developer/icsm-integration-preprod.json",
-      "sha": "efe3dee1412e44ce590e2da4a0c1818916bf9ec2",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/icsm-integration-preprod.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/icsm-integration-preprod.json"
-    },
-    {
-      "metadata": "{\"name\": \"icsm-integration-prodvalidation\", \"description\": \"SAP Intelligent Clinical Supply Management (Prod Validation)\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/S4_INTELLCLINICSUPPLYMGMT/latest/en-US\"}",
-      "path": "v1/developer/icsm-integration-prodvalidation.json",
-      "sha": "c12240f4eb6ab5406ff3e0f1f6cc6d8d896e8b99",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/icsm-integration-prodvalidation.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/icsm-integration-prodvalidation.json"
-    },
-    {
-      "metadata": "{\"name\": \"icsm-integration\", \"description\": \"SAP Intelligent Clinical Supply Management\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/S4_INTELLCLINICSUPPLYMGMT/latest/en-US\"}",
-      "path": "v1/developer/icsm-integration.json",
-      "sha": "f3d2a2df3850cb2e708ba111c2449aa2727c666c",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/icsm-integration.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/icsm-integration.json"
-    },
-    {
-      "metadata": "{\"name\": \"icsm-preprod\", \"description\": \"SAP Intelligent Clinical Supply Management (Non-Production)\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/S4_INTELLCLINICSUPPLYMGMT/latest/en-US\"}",
-      "path": "v1/developer/icsm-preprod.json",
-      "sha": "8c1c44e2c775d9b32b4432587674befeb6e1f477",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/icsm-preprod.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/icsm-preprod.json"
-    },
-    {
-      "metadata": "{\"name\": \"icsm-prodvalidation\", \"description\": \"SAP Intelligent Clinical Supply Management (Non-Production Hotfix Testing)\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/S4_INTELLCLINICSUPPLYMGMT/latest/en-US\"}",
-      "path": "v1/developer/icsm-prodvalidation.json",
-      "sha": "0f8fa7a015d44e6e0ae0e120c517b515250a2cee",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/icsm-prodvalidation.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/icsm-prodvalidation.json"
-    },
-    {
-      "metadata": "{\"name\": \"icsm-sbnscc-preprod\", \"description\": \"Contract manufacturing organizations in the medical context are involved in the supply chain to outsource the labeling or packaging of medication for clinical studies. SAP Business Network Supply Chain Collaboration, clinical trials add-on is integrated in the manufacturing and distribution processes of the buyer and the supplier who want to ship clinical finished goods for trials to depots and clinical sites of the sponsoring organization.\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/CMO_CLINICSUPPLYCHAIN_ADDON\"}",
-      "path": "v1/developer/icsm-sbnscc-preprod.json",
-      "sha": "f1c6321ac5a0694920f0f8bc3ad60565f7602c5c",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/icsm-sbnscc-preprod.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/icsm-sbnscc-preprod.json"
-    },
-    {
-      "metadata": "{\"name\": \"icsm-sbnscc\", \"description\": \"Contract manufacturing organizations in the medical context are involved in the supply chain to outsource the labeling or packaging of medication for clinical studies. SAP Business Network Supply Chain Collaboration, clinical trials add-on is integrated in the manufacturing and distribution processes of the buyer and the supplier who want to ship clinical finished goods for trials to depots and clinical sites of the sponsoring organization.\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/CMO_CLINICSUPPLYCHAIN_ADDON\"}",
-      "path": "v1/developer/icsm-sbnscc.json",
-      "sha": "5fdf0b4fdbde694aea49dba28615641627e67496",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/icsm-sbnscc.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/icsm-sbnscc.json"
-    },
-    {
-      "metadata": "{\"name\": \"icsm\", \"description\": \"SAP Intelligent Clinical Supply Management\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/S4_INTELLCLINICSUPPLYMGMT/latest/en-US\"}",
-      "path": "v1/developer/icsm.json",
-      "sha": "3c2a89384eb0c0f7abadae8a46db8524c4807767",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/icsm.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/icsm.json"
-    },
-    {
       "metadata": "{\"name\": \"identity\", \"description\": \"Cloud Identity Services\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/cloud-identity-services\"}",
       "path": "v1/developer/identity.json",
       "sha": "3cbb716155b5417638a64ac18f02b042375a8445",
@@ -2006,32 +1460,11 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/infra.json"
     },
     {
-      "metadata": "{\"name\": \"integration-assessment\", \"description\": \"Integration Assessment\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/integration-suite/sap-integration-suite/310067e3e49342ddbe5a90c8f33a1910.html\"}",
-      "path": "v1/developer/integration-assessment.json",
-      "sha": "15f9f5e9efcc95cc2231e14546cdcd4770aa7ff9",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/integration-assessment.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/integration-assessment.json"
-    },
-    {
       "metadata": "{\"name\": \"integration-suite-advanced-event-mesh\", \"description\": \"Advanced event mesh for SAP Integration Suite is a complete event streaming, event management, and monitoring platform that incorporates best practices, expertise, and technology for event-driven architecture (EDA) on a single platform.\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/advanced-event-mesh\"}",
       "path": "v1/developer/integration-suite-advanced-event-mesh.json",
       "sha": "6e436cd37b3f4babf6bb871791d3796357ccf96a",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/integration-suite-advanced-event-mesh.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/integration-suite-advanced-event-mesh.json"
-    },
-    {
-      "metadata": "{\"name\": \"integrationsuite-trial\", \"description\": \"Integration Suite\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/integration-suite\"}",
-      "path": "v1/developer/integrationsuite-trial.json",
-      "sha": "3633f83e115de343f64d2d8d40cf9982dc96c5d4",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/integrationsuite-trial.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/integrationsuite-trial.json"
-    },
-    {
-      "metadata": "{\"name\": \"integrationsuite\", \"description\": \"Integration Suite\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/integration-suite\"}",
-      "path": "v1/developer/integrationsuite.json",
-      "sha": "9561e9822baea056d93cf6c23897acf07c762c85",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/integrationsuite.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/integrationsuite.json"
     },
     {
       "metadata": "{\"name\": \"intelligent-product-recommendation\", \"description\": \"SAP Intelligent Product Recommendation\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_INTELLIGENT_PRODUCT_RECOMMENDATION\"}",
@@ -2055,39 +1488,11 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/ioa-api.json"
     },
     {
-      "metadata": "{\"name\": \"iot-bridge-services-demo\", \"description\": \"SAP Leonardo IoT Bridge Services - Test & Demo\", \"deprecated\": false, \"link\": \"https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/iot-bridge-services-demo.json\"}",
-      "path": "v1/developer/iot-bridge-services-demo.json",
-      "sha": "009263409038321e117105cd3eb480e817f78b89",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/iot-bridge-services-demo.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/iot-bridge-services-demo.json"
-    },
-    {
-      "metadata": "{\"name\": \"iot-bridge-services-staging\", \"description\": \"SAP Leonardo IoT Bridge Services Staging\", \"deprecated\": false, \"link\": \"https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/iot-bridge-services-staging.json\"}",
-      "path": "v1/developer/iot-bridge-services-staging.json",
-      "sha": "6df7224492a11e4cef28251df8133ba609a11920",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/iot-bridge-services-staging.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/iot-bridge-services-staging.json"
-    },
-    {
       "metadata": "{\"name\": \"iot-bridge-services\", \"description\": \"SAP Leonardo IoT Bridge Services\", \"deprecated\": false, \"link\": \"https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/iot-bridge-services.json\"}",
       "path": "v1/developer/iot-bridge-services.json",
       "sha": "61682b3798d590ab2d6df73d8d74b3bcfbe348ce",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/iot-bridge-services.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/iot-bridge-services.json"
-    },
-    {
-      "metadata": "{\"name\": \"iot-bridge-staging\", \"description\": \"Run your business in an innovative digital business operations center.\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_Leonardo_IoT\"}",
-      "path": "v1/developer/iot-bridge-staging.json",
-      "sha": "8833edb967977c376851464da7514dc7e1314331",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/iot-bridge-staging.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/iot-bridge-staging.json"
-    },
-    {
-      "metadata": "{\"name\": \"iot-bridge\", \"description\": \"Run your business in an innovative digital business operations center.\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_Leonardo_IoT\"}",
-      "path": "v1/developer/iot-bridge.json",
-      "sha": "db3c2883ec2bf213f621d5789576ef0048a4344c",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/iot-bridge.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/iot-bridge.json"
     },
     {
       "metadata": "{\"name\": \"iot\", \"description\": \"Internet of Things\", \"deprecated\": false, \"link\": \"https://developers.sap.com/topics/iot-application-enablement.html#community\"}",
@@ -2181,13 +1586,6 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/irpa-service.json"
     },
     {
-      "metadata": "{\"name\": \"IRPA\", \"description\": \"SAP Intelligent Robotic Process Automation\", \"deprecated\": false, \"link\": \"https://help.sap.com/doc/7d0be7dad2854adb9e7f6d440254d090/\"}",
-      "path": "v1/developer/irpa.json",
-      "sha": "ec7112ac32306fc2c9c1ddd2cb18edcbe01e5132",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/irpa.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/irpa.json"
-    },
-    {
       "metadata": "{\"name\": \"it-aiat001-prov\", \"description\": \"Integration Suite AWS IAT\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/integration-suite\"}",
       "path": "v1/developer/it-aiat001-prov.json",
       "sha": "39933e73b119029a5f25a5b4391d93c4d51e6797",
@@ -2244,25 +1642,11 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/kymaruntime.json"
     },
     {
-      "metadata": "{\"name\": \"LandscapePortal\", \"description\": \"Landscape Portal\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/BTP/65de2977205c403bbc107264b8eccf4b/5eb70fb003954619b09224167a0afaa4.html\"}",
-      "path": "v1/developer/landscapeportal.json",
-      "sha": "a1a3015ab3e729943301e6cb3f2da53c8bda71e0",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/landscapeportal.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/landscapeportal.json"
-    },
-    {
       "metadata": "{\"name\": \"LandscapePortalEmbeddedSteampunk\", \"description\": \"Landscape Portal for S/4HANA Cloud\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/LANDSCAPEPORTAL_S4ABAP\"}",
       "path": "v1/developer/landscapeportalembeddedsteampunk.json",
       "sha": "e4f800e7a17757e3b003aa4d9728ce21bc611610",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/landscapeportalembeddedsteampunk.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/landscapeportalembeddedsteampunk.json"
-    },
-    {
-      "metadata": "{\"name\": \"lbn-b2b\", \"description\": \"As part of SAP Business Network Freight Collaboration, it provides end to end freight tendering, execution, dock appointment booking and dispute collaborations.\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_LBN_FC_OPTION/LBN/en-US\"}",
-      "path": "v1/developer/lbn-b2b.json",
-      "sha": "2d27197eca5449833bd9978807e77e9db7075ea0",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/lbn-b2b.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/lbn-b2b.json"
     },
     {
       "metadata": "{\"name\": \"lbn-carrier\", \"description\": \"As part of SAP Business Network Freight Collaboration, it provides end to end freight tendering, execution, self appointment booking and dispute collaborations.\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_LBN_FC_OPTION/LBN/en-US\"}",
@@ -2293,13 +1677,6 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/lbn-mt-services-live.json"
     },
     {
-      "metadata": "{\"name\": \"lbn-mt-services-test\", \"description\": \"As part of SAP Business Network Material Traceability, this subscription provides access to additional services for Material Traceability for testing.\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_LBN_MT_OPTION\"}",
-      "path": "v1/developer/lbn-mt-services-test.json",
-      "sha": "ecb391db688f28f379d0885125cf3171e92ae4ba",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/lbn-mt-services-test.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/lbn-mt-services-test.json"
-    },
-    {
       "metadata": "{\"name\": \"lbn-p44-b2b-col\", \"description\": \"As part of SAP Business Network for Logistics, this subscription provides project44 content services for B2B Collaboration.\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/business-network-project44\"}",
       "path": "v1/developer/lbn-p44-b2b-col.json",
       "sha": "f225e95d7f66edddba4d996e43282362be681387",
@@ -2314,25 +1691,11 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/lbn-p44-ftl.json"
     },
     {
-      "metadata": "{\"name\": \"lbn-p44-ltl\", \"description\": \"As part of SAP Business Network for Logistics, this subscription provides project44 content services for less than truck load (LTL) visibility.\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/business-network-project44\"}",
-      "path": "v1/developer/lbn-p44-ltl.json",
-      "sha": "7ce17a8fda77d6ba3047fdb70ddba76c983e970c",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/lbn-p44-ltl.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/lbn-p44-ltl.json"
-    },
-    {
       "metadata": "{\"name\": \"lbn-p44-ocean\", \"description\": \"As part of SAP Business Network for Logistics, this subscription provides project44 content services for ocean visibility.\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/business-network-project44\"}",
       "path": "v1/developer/lbn-p44-ocean.json",
       "sha": "18620fd2b485032d54c6bb2bb6a765d27d8d8415",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/lbn-p44-ocean.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/lbn-p44-ocean.json"
-    },
-    {
-      "metadata": "{\"name\": \"lbn-p44-rail\", \"description\": \"As part of SAP Business Network for Logistics, this subscription provides project44 content services for rail visibility.\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/business-network-project44\"}",
-      "path": "v1/developer/lbn-p44-rail.json",
-      "sha": "ae31d12ae381c7bd64ada98836dce58b0cbe264d",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/lbn-p44-rail.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/lbn-p44-rail.json"
     },
     {
       "metadata": "{\"name\": \"lbn-shipper\", \"description\": \"As part of SAP Business Network Freight Collaboration, it provides end to end freight order lifecycle from contracting, execution, tracking, appointment booking to dispute collaboration.\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_LBN_FC_OPTION/LBN/en-US\"}",
@@ -2368,13 +1731,6 @@
       "sha": "4b57b888360d1d7131e4caf9c946b7f8e39bc23d",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/lsifs-brh-adapter-api-validation.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/lsifs-brh-adapter-api-validation.json"
-    },
-    {
-      "metadata": "{\"name\": \"lsifs-brh-adapter-api\", \"description\": \"Integration Hub Services for Life Sciences provides centralized data replication between external source systems and SAP Life Sciences Industry Cloud applications.\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/Integration_Hub_for_Life_Sciences\"}",
-      "path": "v1/developer/lsifs-brh-adapter-api.json",
-      "sha": "a05ee18c389d0d9e434b243535b202c2a16d983f",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/lsifs-brh-adapter-api.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/lsifs-brh-adapter-api.json"
     },
     {
       "metadata": "{\"name\": \"lsifs-brh-adapter-validation\", \"description\": \"Integration Hub Services for Life Sciences provides centralized data replication between external source systems and SAP Life Sciences Industry Cloud applications.\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/Integration_Hub_for_Life_Sciences\"}",
@@ -2417,13 +1773,6 @@
       "sha": "6bbb9347ad717c0bc654e875f07131e056608cb7",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/lsifs-core-api-validation.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/lsifs-core-api-validation.json"
-    },
-    {
-      "metadata": "{\"name\": \"lsifs-core-api\", \"description\": \"Integration Hub Services for Life Sciences provides centralized data replication between external source systems and SAP Life Sciences Industry Cloud applications.\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/Integration_Hub_for_Life_Sciences\"}",
-      "path": "v1/developer/lsifs-core-api.json",
-      "sha": "6c9a51225f45a3f7f80709bdb8fcd18089b90806",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/lsifs-core-api.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/lsifs-core-api.json"
     },
     {
       "metadata": "{\"name\": \"lsifs-core-preproduction\", \"description\": \"Integration Core Services for Life Sciences provides centralized data replication between external source systems and SAP Life Sciences Industry Cloud applications.\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/BATCH_RELEASE_HUB_LS_CLOUD/5a6fd89b06e54ea5b82bd8da0e38c9a7/f79d2fc8579d4124a8b2d1c7f1d86c36.html\"}",
@@ -2671,27 +2020,6 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/mobile-offline.json"
     },
     {
-      "metadata": "{\"name\": \"mobile-proxy\", \"description\": \"Mobile Connectivity Service\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/BTP/468990a67780424a9e66eb096d4345bb/21a016f86b0d4fdeb3e6fef802df9b55.html\"}",
-      "path": "v1/developer/mobile-proxy.json",
-      "sha": "16516c648d54baac4829a9e27495c57737d2a548",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/mobile-proxy.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/mobile-proxy.json"
-    },
-    {
-      "metadata": "{\"name\": \"mobile-push\", \"description\": \"Mobile Push Notification\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/BTP/468990a67780424a9e66eb096d4345bb/82864e6309d84aed9566436b766e63ef.html\"}",
-      "path": "v1/developer/mobile-push.json",
-      "sha": "ba23bdde9fcbdf6f5d495421134e0aa0eb90ecf9",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/mobile-push.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/mobile-push.json"
-    },
-    {
-      "metadata": "{\"name\": \"mobile-sample-odata-v2-espm\", \"description\": \"Mobile Sample OData\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/BTP/468990a67780424a9e66eb096d4345bb/1c2e51a24361487f8b0649702d59dd0f.html\"}",
-      "path": "v1/developer/mobile-sample-odata-v2-espm.json",
-      "sha": "35440d4e49602e06c8d469b070188fedf2ac0eef",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/mobile-sample-odata-v2-espm.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/mobile-sample-odata-v2-espm.json"
-    },
-    {
       "metadata": "{\"name\": \"mobile-services\", \"description\": \"Mobile Services\", \"deprecated\": true, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/mobile-services\"}",
       "path": "v1/developer/mobile-services.json",
       "sha": "4401e1ccfc2c2f30b8015a9605b4c2ce68fa2641",
@@ -2699,32 +2027,11 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/mobile-services.json"
     },
     {
-      "metadata": "{\"name\": \"mobile-settings-exchange\", \"description\": \"Mobile Settings Exchange Service\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/BTP/468990a67780424a9e66eb096d4345bb/620b0ae379ad476e9046338d16a7645b.html\"}",
-      "path": "v1/developer/mobile-settings-exchange.json",
-      "sha": "ffe1d85a2b13fa2268c5a0d7cde21b6f952621f8",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/mobile-settings-exchange.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/mobile-settings-exchange.json"
-    },
-    {
-      "metadata": "{\"name\": \"Model-Management-UI-integration\", \"description\": \"Model Manager helps SAP Cash Application customers to view the machine learning model benchmark results and activate the models.\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_CASH_APPLICATION/2005/en-US?task=discover_task\"}",
-      "path": "v1/developer/model-management-ui-integration.json",
-      "sha": "a5cd01c315254120542767a730b5b90be7b841d8",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/model-management-ui-integration.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/model-management-ui-integration.json"
-    },
-    {
       "metadata": "{\"name\": \"Model-Management-UI-partner\", \"description\": \"SAP Cash Application Model Manager for partner\", \"deprecated\": false, \"link\": \"https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/model-management-ui-partner.json\"}",
       "path": "v1/developer/model-management-ui-partner.json",
       "sha": "1c14fcfec53095028f6debb72f4b794a995a3f15",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/model-management-ui-partner.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/model-management-ui-partner.json"
-    },
-    {
-      "metadata": "{\"name\": \"Model-Management-UI-production\", \"description\": \"Model Manager helps SAP Cash Application customers to view the machine learning model benchmark results and activate the models.\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_CASH_APPLICATION/2005/en-US?task=discover_task\"}",
-      "path": "v1/developer/model-management-ui-production.json",
-      "sha": "bcec3a093b9903af9ebc776ac249189ee1055cdd",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/model-management-ui-production.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/model-management-ui-production.json"
     },
     {
       "metadata": "{\"name\": \"mt-demo\", \"description\": \"As part of SAP Business Network Material Traceability, this subscription provides the basic authorizations.\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_LBN_MATERIAL_TRACEABILITY_OPTION/1.0.0/en-US\"}",
@@ -2790,13 +2097,6 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/mt-premium-live.json"
     },
     {
-      "metadata": "{\"name\": \"mt-premium-test\", \"description\": \"As part of SAP Business Network Material Traceability, this subscription provides applications for premium members for testing.\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_LBN_MATERIAL_TRACEABILITY_OPTION/1.0.0/en-US\"}",
-      "path": "v1/developer/mt-premium-test.json",
-      "sha": "d45def77588a41dad7de39d8bfb8f30053269a1c",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/mt-premium-test.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/mt-premium-test.json"
-    },
-    {
       "metadata": "{\"name\": \"mt-test\", \"description\": \"As part of SAP Business Network Material Traceability, this subscription provides the basic authorizations for testing.\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_LBN_MATERIAL_TRACEABILITY_OPTION/1.0.0/en-US\"}",
       "path": "v1/developer/mt-test.json",
       "sha": "cd84c1674f560e173f7ab26ac7ab796faca504fe",
@@ -2809,13 +2109,6 @@
       "sha": "87d7c70e886e287a12ed97dd0526e2300f3d5616",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/nfe.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/nfe.json"
-    },
-    {
-      "metadata": "{\"name\": \"nfein-broker\", \"description\": \"SAP Document and Reporting Compliance inbound nota fiscal\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/DC_NFe\"}",
-      "path": "v1/developer/nfein-broker.json",
-      "sha": "4754c132aec29af56a0e64013556b0d1b3c850e6",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/nfein-broker.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/nfein-broker.json"
     },
     {
       "metadata": "{\"name\": \"objectstore\", \"description\": \"Object Store\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/object-store\"}",
@@ -2837,27 +2130,6 @@
       "sha": "35bf3ea56a8e4996c9460101adbf662418ce1655",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/ods.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/ods.json"
-    },
-    {
-      "metadata": "{\"name\": \"ome\", \"description\": \"SAP Retail Activity Optimization\", \"deprecated\": false, \"link\": \"https://help.sap.com/rao\"}",
-      "path": "v1/developer/ome.json",
-      "sha": "c579121b5bc3c88638f6885aab2bb62126ecccbc",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/ome.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/ome.json"
-    },
-    {
-      "metadata": "{\"name\": \"omnichannel-promotion-pricing-config-app-trial\", \"description\": \"SAP Omnichannel Promotion Pricing\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/OPP\"}",
-      "path": "v1/developer/omnichannel-promotion-pricing-config-app-trial.json",
-      "sha": "08ad6804d232537eeca3e8f5e68379043eaa45ac",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/omnichannel-promotion-pricing-config-app-trial.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/omnichannel-promotion-pricing-config-app-trial.json"
-    },
-    {
-      "metadata": "{\"name\": \"omnichannel-promotion-pricing-config-app\", \"description\": \"SAP Omnichannel Promotion Pricing\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/OPP\"}",
-      "path": "v1/developer/omnichannel-promotion-pricing-config-app.json",
-      "sha": "d180b784654d811c76b2e69c0e0541eafb468634",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/omnichannel-promotion-pricing-config-app.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/omnichannel-promotion-pricing-config-app.json"
     },
     {
       "metadata": "{\"name\": \"omsa-api-service\", \"description\": \"SAP Order Management for Sourcing and Availability\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_Order_Management_for_Sourcing_and_Availability\"}",
@@ -2888,20 +2160,6 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/one-inbox-service.json"
     },
     {
-      "metadata": "{\"name\": \"one-mds-master\", \"description\": \"SAP Master Data Integration Tenant\", \"deprecated\": false, \"link\": \"https://community.sap.com/search/?ct=blog&q=SAP%20Master%20Data%20Integration\"}",
-      "path": "v1/developer/one-mds-master.json",
-      "sha": "b14ce427b81249caf2af4d14da957732bba3e449",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/one-mds-master.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/one-mds-master.json"
-    },
-    {
-      "metadata": "{\"name\": \"one-mds\", \"description\": \"Master Data Integration\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/master-data-integration\"}",
-      "path": "v1/developer/one-mds.json",
-      "sha": "4acad6706d570fc6f3dada67f9c84651da6afaec",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/one-mds.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/one-mds.json"
-    },
-    {
       "metadata": "{\"name\": \"OneSMCommercialProduction\", \"description\": \"SAP Ariba Supplier Management\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/ARIBA_SOURCING/6308c28781af47848f1281c650a5755d/2fbf92ea82494ce28a6e1f594129df7b.html\"}",
       "path": "v1/developer/onesmcommercialproduction.json",
       "sha": "40cf4808a36373fb56635f4b473ba9649a11fa18",
@@ -2916,46 +2174,11 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/osta-api-service.json"
     },
     {
-      "metadata": "{\"name\": \"osta\", \"description\": \"SAP Omnichannel Sales Transfer and Audit\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_OMNICHANNEL_SALES_TRANSFER_AND_AUDIT/\"}",
-      "path": "v1/developer/osta.json",
-      "sha": "9b72db6a1110f7428c9c5051b5ada03971ae6c34",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/osta.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/osta.json"
-    },
-    {
-      "metadata": "{\"name\": \"packaging-agreements-collaboration-application\", \"description\": \"Packaging Agreement Collaboration\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP%20RETURN%20PACK%20MGMT%20OD\"}",
-      "path": "v1/developer/packaging-agreements-collaboration-application.json",
-      "sha": "b7db3929bfc98ed3017a4d58f49d662f965c2fd3",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/packaging-agreements-collaboration-application.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/packaging-agreements-collaboration-application.json"
-    },
-    {
       "metadata": "{\"name\": \"packaging-agreements-collaboration-service\", \"description\": \"Packaging Agreement Collaboration\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP%20RETURN%20PACK%20MGMT%20OD\"}",
       "path": "v1/developer/packaging-agreements-collaboration-service.json",
       "sha": "2128a59c364337baec9c4ecd6d66a62544df0518",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/packaging-agreements-collaboration-service.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/packaging-agreements-collaboration-service.json"
-    },
-    {
-      "metadata": "{\"name\": \"papm-service\", \"description\": \"SAP Profitability and Performance Management Cloud\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_PROFITABILITY_PERFORMANCE_MANAGEMENT_CLOUD/1.0/en-US\"}",
-      "path": "v1/developer/papm-service.json",
-      "sha": "72ab537ddba16e3c902f883cde2ef4f022b73baf",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/papm-service.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/papm-service.json"
-    },
-    {
-      "metadata": "{\"name\": \"pci\", \"description\": \"SAP S/4HANA Cloud for Intelligent Product Selection\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/PRODUCT_CONFIGURATION_INTELLIGENCE\"}",
-      "path": "v1/developer/pci.json",
-      "sha": "ed3426ec5c7fbc5f2e8212b5d8c96e71a7a25332",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/pci.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/pci.json"
-    },
-    {
-      "metadata": "{\"name\": \"pdms-services\", \"description\": \"SAP Predictive Asset Insights\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_PREDICTIVE_ASSET_INSIGHTS\"}",
-      "path": "v1/developer/pdms-services.json",
-      "sha": "584ee5e4b4bb92e5afef0e6eb8b1d1713cab2fd4",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/pdms-services.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/pdms-services.json"
     },
     {
       "metadata": "{\"name\": \"pdms\", \"description\": \"SAP Predictive Asset Insights\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_PREDICTIVE_ASSET_INSIGHTS/latest/en-US\"}",
@@ -2979,13 +2202,6 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/people-insights-release.json"
     },
     {
-      "metadata": "{\"name\": \"personal-data-manager-service\", \"description\": \"Personal Data Manager\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/personal-data-manager\"}",
-      "path": "v1/developer/personal-data-manager-service.json",
-      "sha": "1d1a7e1476be208c9d3723ba4ad523f8abfd30c0",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/personal-data-manager-service.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/personal-data-manager-service.json"
-    },
-    {
       "metadata": "{\"name\": \"PersonalDataManagerApp\", \"description\": \"Personal Data Manager\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/personal-data-manager\"}",
       "path": "v1/developer/personaldatamanagerapp.json",
       "sha": "9968b5d3ebaf5fae816617f2afe642fb89f14450",
@@ -3005,13 +2221,6 @@
       "sha": "c84a8a46a22501ef8060564ebdd2b36ab0ef9c9f",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/plc-api-service-staging.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/plc-api-service-staging.json"
-    },
-    {
-      "metadata": "{\"name\": \"PLC\", \"description\": \"SAP Product Lifecycle Costing\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_PRODUCT_LIFECYCLE_COSTING\"}",
-      "path": "v1/developer/plc.json",
-      "sha": "223a0bebb8f460623703ec6390b41087fcb2d594",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/plc.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/plc.json"
     },
     {
       "metadata": "{\"name\": \"PLCTST\", \"description\": \"SAP Product Lifecycle Costing Staging\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_PRODUCT_LIFECYCLE_COSTING\"}",
@@ -3061,13 +2270,6 @@
       "sha": "9a76eed60b01d1610e5d809cf3000d532437c8eb",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/postgresql.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/postgresql.json"
-    },
-    {
-      "metadata": "{\"name\": \"ppservice-administration-trial\", \"description\": \"Promotion Pricing, Administration Trial\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/OPP\"}",
-      "path": "v1/developer/ppservice-administration-trial.json",
-      "sha": "709a7cf5637733f83d43b372d8bac15d0716d698",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/ppservice-administration-trial.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/ppservice-administration-trial.json"
     },
     {
       "metadata": "{\"name\": \"ppservice-administration\", \"description\": \"Promotion Pricing, Administration\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/OPP/1b3fc438ec4d41b4b28f06f6b1575166/7fbba5bb121f4a469c1ca245f6e24f7f.html\"}",
@@ -3147,13 +2349,6 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/price-calculation.json"
     },
     {
-      "metadata": "{\"name\": \"price-management\", \"description\": \"Price Calculation\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/PRICE_CALCULATION\"}",
-      "path": "v1/developer/price-management.json",
-      "sha": "11fb198621a3672a5af7b4ec884922a81baff5bc",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/price-management.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/price-management.json"
-    },
-    {
       "metadata": "{\"name\": \"print-app\", \"description\": \"Print Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/print-service\"}",
       "path": "v1/developer/print-app.json",
       "sha": "c60697cdc54003cba3491f00867c5e33a1f9e83e",
@@ -3166,13 +2361,6 @@
       "sha": "f1549ae8f0b38ebecd5fb84c78996a013be45a27",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/print.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/print.json"
-    },
-    {
-      "metadata": "{\"name\": \"prism-api-service\", \"description\": \"Provides access to procurement data warehouse service.\", \"deprecated\": false, \"link\": \"https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/prism-api-service.json\"}",
-      "path": "v1/developer/prism-api-service.json",
-      "sha": "60a2841e26d58b0d1ed941125357e2915503f670",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/prism-api-service.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/prism-api-service.json"
     },
     {
       "metadata": "{\"name\": \"prism-api\", \"description\": \"Provides access to procurement data warehouse service.\", \"deprecated\": false, \"link\": \"https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/prism-api.json\"}",
@@ -3194,20 +2382,6 @@
       "sha": "0f67e3de6d996637c05cdeef8e0a3c55679782c9",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/process-automation-service.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/process-automation-service.json"
-    },
-    {
-      "metadata": "{\"name\": \"process-automation\", \"description\": \"SAP Build Process Automation\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/sap-build-process-automation\"}",
-      "path": "v1/developer/process-automation.json",
-      "sha": "2844dc71b9e8d8e306a3dca9414f4e5cd1a89980",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/process-automation.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/process-automation.json"
-    },
-    {
-      "metadata": "{\"name\": \"process-insights-api-xls\", \"description\": \"Get insights to support continuous business process improvement.\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/BPI\"}",
-      "path": "v1/developer/process-insights-api-xls.json",
-      "sha": "a44c63f2958e77c69c06be61d99eaf8be69d8fa9",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/process-insights-api-xls.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/process-insights-api-xls.json"
     },
     {
       "metadata": "{\"name\": \"process-insights-api\", \"description\": \"Get insights to support continuous business process improvement.\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/BPI\"}",
@@ -3273,13 +2447,6 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/production-grdcsaas.json"
     },
     {
-      "metadata": "{\"name\": \"projects-cloud-resource-management-api\", \"description\": \"Resource Management\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/PPRM_OD\"}",
-      "path": "v1/developer/projects-cloud-resource-management-api.json",
-      "sha": "7729093a059e10b313e61ee208bcfe037651b655",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/projects-cloud-resource-management-api.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/projects-cloud-resource-management-api.json"
-    },
-    {
       "metadata": "{\"name\": \"projects-cloud-resource-management\", \"description\": \"Resource Management\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/PPRM_OD\"}",
       "path": "v1/developer/projects-cloud-resource-management.json",
       "sha": "a0a167cfe663826b7f4ae8a71ea85aeb3eaa3efc",
@@ -3313,13 +2480,6 @@
       "sha": "c82000ff4ce7ff7ba4462c9d04c0a0cf4062aefa",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/qir-qlty.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/qir-qlty.json"
-    },
-    {
-      "metadata": "{\"name\": \"quotation-management-enhanced\", \"description\": \"SAP Ariba supplier quotation management, Enhanced Version\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SCP_QUOTATION\"}",
-      "path": "v1/developer/quotation-management-enhanced.json",
-      "sha": "595abf65ed29750b3846ec1f1f4ee287ef441fbc",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/quotation-management-enhanced.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/quotation-management-enhanced.json"
     },
     {
       "metadata": "{\"name\": \"quotation-management\", \"description\": \"SAP Ariba supplier quotation management\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SCP_QUOTATION\"}",
@@ -3448,13 +2608,6 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/rgo.json"
     },
     {
-      "metadata": "{\"name\": \"s4hana-for-procurement-planning-api\", \"description\": \"SAP Ariba Procurement Planning\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_PROCUREMENT_PLANNING/LATEST/en-US\"}",
-      "path": "v1/developer/s4hana-for-procurement-planning-api.json",
-      "sha": "e422f2108b5989046a20cf74bab84743ac024bfd",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/s4hana-for-procurement-planning-api.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/s4hana-for-procurement-planning-api.json"
-    },
-    {
       "metadata": "{\"name\": \"saas-registry\", \"description\": \"SaaS Provisioning Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/#/serviceCatalog/saas-provisioning-service?service_plan=application&region=all\"}",
       "path": "v1/developer/saas-registry.json",
       "sha": "937d2a57dc80ac49a2f2cb4c5b9a1a5d80f5a2cd",
@@ -3474,13 +2627,6 @@
       "sha": "148b9677410d49d5b3ee5fd28efd279ea393f5b4",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sap-ariba-shopping.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sap-ariba-shopping.json"
-    },
-    {
-      "metadata": "{\"name\": \"sap-bigdataservices\", \"description\": \"Big Data Services\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/BTP/50f26aa0f2044127bc5f6d5ad3d090fe/2e62036476b8101480abd76da746ffe7.html\"}",
-      "path": "v1/developer/sap-bigdataservices.json",
-      "sha": "dc7f1627ee60e91701de8dd5328ea9628f632d1c",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sap-bigdataservices.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sap-bigdataservices.json"
     },
     {
       "metadata": "{\"name\": \"sap-build-apps\", \"description\": \"SAP Build Apps\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/#/serviceCatalog/sap-build-apps\"}",
@@ -3532,13 +2678,6 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sap-cell-gene-therapy-orchestration-api-preprodext.json"
     },
     {
-      "metadata": "{\"name\": \"sap-cell-gene-therapy-orchestration-api-prerelval\", \"description\": \"SAP Cell and Gene Therapy Orchestration Preview Validation\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/DRAFT/SAP_CGT_ORCH/SHIP/en-US\"}",
-      "path": "v1/developer/sap-cell-gene-therapy-orchestration-api-prerelval.json",
-      "sha": "532c6ffbcb7f7b275a29ec948fcf0452cb93c10d",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sap-cell-gene-therapy-orchestration-api-prerelval.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sap-cell-gene-therapy-orchestration-api-prerelval.json"
-    },
-    {
       "metadata": "{\"name\": \"sap-cell-gene-therapy-orchestration-api-service\", \"description\": \"SAP Cell and Gene Therapy Orchestration\", \"deprecated\": false, \"link\": \"https://help.sap.com/cgto\"}",
       "path": "v1/developer/sap-cell-gene-therapy-orchestration-api-service.json",
       "sha": "f93d5f52b18519421a2875a1bee307bf9cd7eaae",
@@ -3560,13 +2699,6 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sap-central-invoice-management.json"
     },
     {
-      "metadata": "{\"name\": \"sap-consulting-capability\", \"description\": \"SAP Joule for Consultants\", \"deprecated\": true, \"link\": \"https://help.sap.com/docs/JOULE/6189c8655c484916bb8eb767126a653a/04fdfea908db4cdf860ad1434653a542.html\"}",
-      "path": "v1/developer/sap-consulting-capability.json",
-      "sha": "26f3d59e3a0a0280ed038b6abbf8452761e28132",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sap-consulting-capability.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sap-consulting-capability.json"
-    },
-    {
       "metadata": "{\"name\": \"sap-document-information-extraction\", \"description\": \"SAP Document AI\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-document-ai\"}",
       "path": "v1/developer/sap-document-information-extraction.json",
       "sha": "f6ea4d46d96dc427d7bb1f6851351840456af2d7",
@@ -3574,39 +2706,11 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sap-document-information-extraction.json"
     },
     {
-      "metadata": "{\"name\": \"sap-graph\", \"description\": \"API Composition\", \"deprecated\": false, \"link\": \"https://api.sap.com/graph\"}",
-      "path": "v1/developer/sap-graph.json",
-      "sha": "bfbfebad163b70f3898e1c9802f50a6e4620fbed",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sap-graph.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sap-graph.json"
-    },
-    {
-      "metadata": "{\"name\": \"sap-greentoken-api\", \"description\": \"SAP Green Token\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/greentoken\"}",
-      "path": "v1/developer/sap-greentoken-api.json",
-      "sha": "43afd2373a5418c0214b0a948a1e9ea981b911cd",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sap-greentoken-api.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sap-greentoken-api.json"
-    },
-    {
-      "metadata": "{\"name\": \"sap-greentoken\", \"description\": \"SAP Green Token\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/greentoken\"}",
-      "path": "v1/developer/sap-greentoken.json",
-      "sha": "8b7b0f6dfb8ac0ab9a34ca388e8584f888da6cee",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sap-greentoken.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sap-greentoken.json"
-    },
-    {
       "metadata": "{\"name\": \"sap-hybris-service-engagement-center\", \"description\": \"SAP Customer Engagement Center\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_CUSTOMER_ENGAGEMENT_CENTER\"}",
       "path": "v1/developer/sap-hybris-service-engagement-center.json",
       "sha": "f80d46c50f92a64d84dba98f2b8bed14b1a23f8d",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sap-hybris-service-engagement-center.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sap-hybris-service-engagement-center.json"
-    },
-    {
-      "metadata": "{\"name\": \"sap-identity-services-connectivity\", \"description\": \"On-premise connectivity for Cloud Identity Services\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/IDENTITY_PROVISIONING\"}",
-      "path": "v1/developer/sap-identity-services-connectivity.json",
-      "sha": "d9ee3e01ed8e2f5f5704d5e8bfa3ec025a4e3779",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sap-identity-services-connectivity.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sap-identity-services-connectivity.json"
     },
     {
       "metadata": "{\"name\": \"sap-identity-services-onboarding\", \"description\": \"Cloud Identity Services\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/identity-provisioning\"}",
@@ -3656,13 +2760,6 @@
       "sha": "60c42523456947f0b082d484760a00597b048c9b",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sap-papm-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sap-papm-cloud.json"
-    },
-    {
-      "metadata": "{\"name\": \"sap-product-footprint-management\", \"description\": \"SAP Sustainability Footprint Management\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_PFMCOP\"}",
-      "path": "v1/developer/sap-product-footprint-management.json",
-      "sha": "d5c116980dd3816d695da59ea302a0e423939e94",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sap-product-footprint-management.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sap-product-footprint-management.json"
     },
     {
       "metadata": "{\"name\": \"sap-rex\", \"description\": \"SAP Retail Execution\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/retail-execution-mobile-app\"}",
@@ -3812,13 +2909,6 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sbo.json"
     },
     {
-      "metadata": "{\"name\": \"screening\", \"description\": \"Allows you to screen names and addresses against watch lists.\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_WATCH_LIST_SCREENING\"}",
-      "path": "v1/developer/screening.json",
-      "sha": "a4992e7e957d8a860391a8a865a985d1c320684e",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/screening.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/screening.json"
-    },
-    {
       "metadata": "{\"name\": \"screeninghits\", \"description\": \"Allows you to make decisions on matched names and addresses in screening.\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_WATCH_LIST_SCREENING\"}",
       "path": "v1/developer/screeninghits.json",
       "sha": "507064d8ddbd34da7b3d04006b8c5e0a2c654bbc",
@@ -3833,20 +2923,6 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sct-iba.json"
     },
     {
-      "metadata": "{\"name\": \"sct-service-api\", \"description\": \"SAP Sustainability Control Tower\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_SUS_SCT\"}",
-      "path": "v1/developer/sct-service-api.json",
-      "sha": "138bcc8a3956fbc974afd6a282869f0e1dadc409",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sct-service-api.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sct-service-api.json"
-    },
-    {
-      "metadata": "{\"name\": \"sct\", \"description\": \"SAP Sustainability Control Tower\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_SUS_SCT/LATEST/en-US\"}",
-      "path": "v1/developer/sct.json",
-      "sha": "f593db9738b117df4107b3c1f2bcf26410ab8388",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sct.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sct.json"
-    },
-    {
       "metadata": "{\"name\": \"sd_staging\", \"description\": \"SAP Search and Discovery\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_SEARCH_AND_DISCOVERY\"}",
       "path": "v1/developer/sd_staging.json",
       "sha": "3d495152f3c168533746570e5a42a0f61a64e214",
@@ -3854,25 +2930,11 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sd_staging.json"
     },
     {
-      "metadata": "{\"name\": \"sdm-repository\", \"description\": \"Document Management Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/document-management-service-integration-option\"}",
-      "path": "v1/developer/sdm-repository.json",
-      "sha": "4398dac5f73b9d03dc4414e9bb75dbdbce45eb13",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sdm-repository.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sdm-repository.json"
-    },
-    {
       "metadata": "{\"name\": \"sdm-web\", \"description\": \"Document Management Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/document-management-service-application-option\"}",
       "path": "v1/developer/sdm-web.json",
       "sha": "483dd7e56699807969cf648589b322ad9c3a144f",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sdm-web.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sdm-web.json"
-    },
-    {
-      "metadata": "{\"name\": \"sdm\", \"description\": \"Document Management Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/document-management-service-integration-option\"}",
-      "path": "v1/developer/sdm.json",
-      "sha": "4d6b86bdaea9d01bcff88cbf8c241d9f6b434b91",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sdm.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sdm.json"
     },
     {
       "metadata": "{\"name\": \"sdx-api\", \"description\": \"SAP Sustainability Data Exchange\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/sdx\"}",
@@ -3887,13 +2949,6 @@
       "sha": "c8a747dcd96abbd022d3dc391a185dab460cfed7",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sdx.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sdx.json"
-    },
-    {
-      "metadata": "{\"name\": \"secure-login-service\", \"description\": \"Get client certificates via Secure Login Client (SLC) to log-on with SAP GUI.\", \"deprecated\": false, \"link\": \"https://help.sap.com/sls\"}",
-      "path": "v1/developer/secure-login-service.json",
-      "sha": "e2078b071ad94ac5fb0abb7947387db0c1699d84",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/secure-login-service.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/secure-login-service.json"
     },
     {
       "metadata": "{\"name\": \"SelfBillingCockpit\", \"description\": \"SAP Self-Billing Cockpit\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/CP_SELF_BILLING/latest/en-US\"}",
@@ -3929,13 +2984,6 @@
       "sha": "f7284b3483492123abbb56c76f92ad8df826c1f7",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/service-ticket-intelligence.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/service-ticket-intelligence.json"
-    },
-    {
-      "metadata": "{\"name\": \"sirem-api\", \"description\": \"SAP Cloud for Real Estate\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_CLOUD_FOR_REAL_ESTATE\"}",
-      "path": "v1/developer/sirem-api.json",
-      "sha": "d5b484e8d18ed821e189776a2ab0f2b7bf3219c9",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sirem-api.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sirem-api.json"
     },
     {
       "metadata": "{\"name\": \"sirem\", \"description\": \"SAP Cloud for Real Estate\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_CLOUD_FOR_REAL_ESTATE\"}",
@@ -4008,13 +3056,6 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/ssc-app.json"
     },
     {
-      "metadata": "{\"name\": \"ssc-service\", \"description\": \"Allows complex solutions/systems of products to be configured in SAP CPQ. The user will perform the configuration using a flexible user interface. The service will allow the configuration result to be passed to the quotation of SAP CPQ. SAP CPQ will display all the elements of the solution/system configuration as hierarchy of line items.\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_SOL_SALES_CONF_BTP_OD\"}",
-      "path": "v1/developer/ssc-service.json",
-      "sha": "10be4a7efafd8cf67b6b9868edfdec6454f87080",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/ssc-service.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/ssc-service.json"
-    },
-    {
       "metadata": "{\"name\": \"supplier-dmc-sap\", \"description\": \"SAP Digital Manufacturing Network\", \"deprecated\": false, \"link\": \"https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/supplier-dmc-sap.json\"}",
       "path": "v1/developer/supplier-dmc-sap.json",
       "sha": "74af99da88f034cfc465b3fe4da2b10d2603629b",
@@ -4022,46 +3063,11 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/supplier-dmc-sap.json"
     },
     {
-      "metadata": "{\"name\": \"supplier-problem-solving\", \"description\": \"SAP Supplier Problem-Solving\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_SUPPLIER_PRBL_SOLV/1.0/en-US\"}",
-      "path": "v1/developer/supplier-problem-solving.json",
-      "sha": "e6495b582ceb9b342088b0b59fd4095116b19d4f",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/supplier-problem-solving.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/supplier-problem-solving.json"
-    },
-    {
-      "metadata": "{\"name\": \"sustainability-data-integration\", \"description\": \"The sustainability data integration service provides APIs that let you integrate your source systems with SAP Sustainability solutions running on SAP BTP. The APIs import data from external systems into the sustainability management processes of the target solution.\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_SUS_SDI\"}",
-      "path": "v1/developer/sustainability-data-integration.json",
-      "sha": "ad8383c476bc5eccd4167b4ea4d73a24b0254a16",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sustainability-data-integration.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sustainability-data-integration.json"
-    },
-    {
-      "metadata": "{\"name\": \"theming\", \"description\": \"The UI theme designer lets you apply your corporate branding to applications built with SAP UI technologies. You can make changes to theme templates supplied by SAP to create custom themes that use your own color scheme, background images, and company logo. You can apply a custom theme to various SAP UI clients and technologies. Additionally, you can include your own custom CSS files without having to modify any of your applications.\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/ui-theme-designer/?tab=&commercialModel=cpea\"}",
-      "path": "v1/developer/theming.json",
-      "sha": "93c9a7d9e171418934f18b529f679621a0632745",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/theming.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/theming.json"
-    },
-    {
-      "metadata": "{\"name\": \"tnt-onboard-dataenrichment-dcp\", \"description\": \"Data Enrichment Service\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/Cloud_Platform_Data_Enrichment/latest/en-US\"}",
-      "path": "v1/developer/tnt-onboard-dataenrichment-dcp.json",
-      "sha": "e607b06e6253d1604dd41aeda571924e76de4c4f",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/tnt-onboard-dataenrichment-dcp.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/tnt-onboard-dataenrichment-dcp.json"
-    },
-    {
       "metadata": "{\"name\": \"tpi-prod\", \"description\": \"SAP Trading Platform Integration\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/TRADING_PLATFORM_INTEGRATION\"}",
       "path": "v1/developer/tpi-prod.json",
       "sha": "21ba4b53f7e876971b3c46d7f0777e93d12b3a44",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/tpi-prod.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/tpi-prod.json"
-    },
-    {
-      "metadata": "{\"name\": \"tpi-service-prod\", \"description\": \"SAP Trading Platform Integration\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/TRADING_PLATFORM_INTEGRATION\"}",
-      "path": "v1/developer/tpi-service-prod.json",
-      "sha": "7df08242871b97e25abbf7644b9fe1bc4906ab87",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/tpi-service-prod.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/tpi-service-prod.json"
     },
     {
       "metadata": "{\"name\": \"tpi-service-test\", \"description\": \"SAP Trading Platform Integration Test\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/TRADING_PLATFORM_INTEGRATION\"}",
@@ -4076,20 +3082,6 @@
       "sha": "8ed0828c3c321de27b89cc0d5f24e41753838507",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/tpi-test.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/tpi-test.json"
-    },
-    {
-      "metadata": "{\"name\": \"transport\", \"description\": \"Cloud Transport Management\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/cloud-transport-management\"}",
-      "path": "v1/developer/transport.json",
-      "sha": "571b6e2e06f1a9727376cf89af078dc17a1e36c4",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/transport.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/transport.json"
-    },
-    {
-      "metadata": "{\"name\": \"uas\", \"description\": \"The SAP Usage Data Management service for SAP BTP provides REST APIs that are responsible for gathering, storing, and making usage information available for all services and applications in all regions in a cloud deployment, for the purpose of central analysis, reporting, and license auditing. The service accumulates the information and provides reports in several business systems (reporting and operations) for resource planning and cross billing purposes.\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/usage-data-management-service\"}",
-      "path": "v1/developer/uas.json",
-      "sha": "10cb77df30f89fa32e4bf2587754d17a789e4c41",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/uas.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/uas.json"
     },
     {
       "metadata": "{\"name\": \"ui5-flexibility-keyuser\", \"description\": \"The UI5 flexibility service for key users lets you provide UI adaptation capabilites for your UI5 applications on Cloud Foundry. Users of your applications can change the user interface of your applications in an upgrade-safe and modification-free way, without affecting any other customer.\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/ui-flexibility-service\"}",
@@ -4111,48 +3103,6 @@
       "sha": "06273b1be9fe6737447b675905c2debe2bda4bdc",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/warehouse-insights-api.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/warehouse-insights-api.json"
-    },
-    {
-      "metadata": "{\"name\": \"warehouse-insights\", \"description\": \"SAP Warehouse Insights\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_WAREHOUSE_INSIGHTS\"}",
-      "path": "v1/developer/warehouse-insights.json",
-      "sha": "c81e49202865b29b99552201833da31ec395739f",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/warehouse-insights.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/warehouse-insights.json"
-    },
-    {
-      "metadata": "{\"name\": \"warehouse-robotics-api\", \"description\": \"API access service for SAP Warehouse Robotics\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/WAREHOUSE_ROBOTICS\"}",
-      "path": "v1/developer/warehouse-robotics-api.json",
-      "sha": "7fa640f7803a67cbd1f5436ebb24d9899495f5ae",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/warehouse-robotics-api.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/warehouse-robotics-api.json"
-    },
-    {
-      "metadata": "{\"name\": \"warehouse-robotics\", \"description\": \"SAP Warehouse Robotics\", \"deprecated\": false, \"link\": \"https://help.sap.com/wr\"}",
-      "path": "v1/developer/warehouse-robotics.json",
-      "sha": "78ac46cc113faa42ce5eccc65557a61caf563477",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/warehouse-robotics.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/warehouse-robotics.json"
-    },
-    {
-      "metadata": "{\"name\": \"watch-list-screening\", \"description\": \"SAP Watch List Screening\", \"deprecated\": false, \"link\": \"https://help.sap.com/wls\"}",
-      "path": "v1/developer/watch-list-screening.json",
-      "sha": "1f90f14dcdf41566dadb85f7700aea876710fefa",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/watch-list-screening.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/watch-list-screening.json"
-    },
-    {
-      "metadata": "{\"name\": \"watchlists\", \"description\": \"Allows you to upload a watch list to use in your screening process.\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_WATCH_LIST_SCREENING\"}",
-      "path": "v1/developer/watchlists.json",
-      "sha": "efeac2bbc6801aea1780c2afd7ec0e6ad89c6ea2",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/watchlists.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/watchlists.json"
-    },
-    {
-      "metadata": "{\"name\": \"workcalendar\", \"description\": \"The Work Calendar service provides APIs to get detailed information such as weekday, holiday or workday based on country factory calendars.\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/work-calendar\"}",
-      "path": "v1/developer/workcalendar.json",
-      "sha": "e7a8208a5aef90c297c9c7f432b365cc233261b3",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/workcalendar.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/workcalendar.json"
     },
     {
       "metadata": "{\"name\": \"workflow\", \"description\": \"SAP Workflow service allows you to build, run, and manage workflows, from simple approvals to end-to-end processes that span across different organizations and applications. With an inbox application and custom-built user interfaces, you involve end users into business processes for decision making and data entry. The workflow service comes with web-based tools for workflow modeling, APIs for consumption in custom applications, monitoring tools, and a set of Fiori-based applications for end-user access. You can use JavaScript to embed custom business logic.\", \"deprecated\": false, \"link\": \"https://help.sap.com/doc/8c8be0fcde064d4d95e958c44bbce34c/Cloud/en-US/34a79458361c4cadb7fdac12e4294b6b.html\"}",
