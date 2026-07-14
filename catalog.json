@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-14T09:05:01Z",
+  "generated_at_utc": "2026-07-14T11:26:16Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
@@ -7,8 +7,8 @@
     "start_path": "v1/developer",
     "head_sha": "b7af9ee114537d8f88e3e06aaa9868e9266cb7fc"
   },
-  "count": 602,
-  "errors": 0,
+  "count": 601,
+  "errors": 1,
   "services": [
     {
       "metadata": "{\"name\": \"3dvisualization\", \"description\": \"SAP 3D Visual Enterprise, Cloud Edition\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/CP_3D_Visualization/Cloud/en-US\"}",
@@ -296,13 +296,6 @@
       "sha": "de5b2da904d79cc8ed48e4b585c7f848b25ff488",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/aspm.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/aspm.json"
-    },
-    {
-      "metadata": "{\"name\": \"aspm_api_live\", \"description\": \"SAP Asset Strategy and Performance Management\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_ASSET_STRATEGY_AND_PERFORMANCE_MANAGEMENT\"}",
-      "path": "v1/developer/aspm_api_live.json",
-      "sha": "1b251c3d8d0b8009bd912f3aaa8b9347049fc605",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/aspm_api_live.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/aspm_api_live.json"
     },
     {
       "metadata": "{\"name\": \"aspm_live\", \"description\": \"SAP Asset Strategy and Performance Management\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_ASSET_STRATEGY_AND_PERFORMANCE_MANAGEMENT\"}",
