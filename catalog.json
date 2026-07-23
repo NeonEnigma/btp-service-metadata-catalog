@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-23T16:00:29Z",
+  "generated_at_utc": "2026-07-23T17:42:53Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
@@ -7,8 +7,8 @@
     "start_path": "v1/developer",
     "head_sha": "83819d6474ed275ad3dccc515a2e15046757746b"
   },
-  "count": 602,
-  "errors": 0,
+  "count": 601,
+  "errors": 1,
   "services": [
     {
       "metadata": "{\"name\": \"3dvisualization\", \"description\": \"SAP 3D Visual Enterprise, Cloud Edition\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/CP_3D_Visualization/Cloud/en-US\"}",
@@ -1297,13 +1297,6 @@
       "sha": "d849fc39a7e8b7f995e74323f241a0fe99b0cdc3",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/dynamic-forms-trial.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/dynamic-forms-trial.json"
-    },
-    {
-      "metadata": "{\"name\": \"dynamic-forms\", \"description\": \"SAP Dynamic Forms\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/dynamic-forms\"}",
-      "path": "v1/developer/dynamic-forms.json",
-      "sha": "31cdbd45c441d4d49c45ea28469a1ddc1e95938d",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/dynamic-forms.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/dynamic-forms.json"
     },
     {
       "metadata": "{\"name\": \"e-mobility-service\", \"description\": \"SAP E-Mobility\", \"deprecated\": false, \"link\": \"https://help.sap.com/emobility\"}",
