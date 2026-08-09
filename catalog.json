@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-08-09T05:06:04Z",
+  "generated_at_utc": "2026-08-09T06:57:13Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "3d6b8f61d1c94d306c8e4b1259a8a850ff64fead"
+    "head_sha": "6c1cfe21149dd304f4603f08aea09da4b8a73c1b"
   },
   "count": 604,
   "errors": 0,
@@ -251,7 +251,7 @@
     {
       "metadata": "{\"name\": \"application-frontend\", \"description\": \"Application Frontend Service\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/application-frontend-service/application-frontend-service\"}",
       "path": "v1/developer/application-frontend.json",
-      "sha": "459af2eceab74165967f5081f1faaec5c984c23c",
+      "sha": "c9f8dfae73fb72ceab22725636ca043802efcfce",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/application-frontend.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/application-frontend.json"
     },
@@ -328,28 +328,28 @@
     {
       "metadata": "{\"name\": \"auditlog-api\", \"description\": \"[DEPRECATED] Audit Log Retrieval\", \"deprecated\": false, \"link\": \"https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/auditlog-api.json\"}",
       "path": "v1/developer/auditlog-api.json",
-      "sha": "9089b2ac7ab1589ff2532a01e46d198395fd0c78",
+      "sha": "9b22db0329b749d36e6ece45d9b8ec28bf5b2f41",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/auditlog-api.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/auditlog-api.json"
     },
     {
       "metadata": "{\"name\": \"auditlog-management\", \"description\": \"Audit Log Management Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/#/serviceCatalog/audit-log-service\"}",
       "path": "v1/developer/auditlog-management.json",
-      "sha": "1558a9c56f571d88f15ad30f124b86511b5ffbf9",
+      "sha": "056539ccf59091721b05082a6dab570e5f45ebaa",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/auditlog-management.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/auditlog-management.json"
     },
     {
       "metadata": "{\"name\": \"auditlog-viewer\", \"description\": \"Audit Log Viewer Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/#/serviceCatalog/audit-log-service\"}",
       "path": "v1/developer/auditlog-viewer.json",
-      "sha": "8a611a9c0d24eda2f75c7661158b733a987452aa",
+      "sha": "eb32e4e6cc4e67386d5f9ca9921a7720a35d579e",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/auditlog-viewer.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/auditlog-viewer.json"
     },
     {
       "metadata": "{\"name\": \"auditlog\", \"description\": \"Allow users to ingest compliance audit data from SAP BTP services and applications and store it for a default retention time of 90 days (with no additional costs applied). The ability to retrieve and download this data within this period is part of Auditlog Management Service. The service serves to support audit activities by prove wrongdoing and identifying malicious activities and provision of forensic evidence that can be used at Court. The scope of the service are secure and configuration change information records, data privacy specific logs, logs motivated by Multiple Regulations. The service is following each SAP Product standards and GDPR Compliance regulations.\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/#/serviceCatalog/audit-log-service\"}",
       "path": "v1/developer/auditlog.json",
-      "sha": "30623335cc26390a2eda14b6a5db9ea0df502c90",
+      "sha": "7d80c4939891d017ef92bb187d25a5f65333100f",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/auditlog.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/auditlog.json"
     },
@@ -958,7 +958,7 @@
     {
       "metadata": "{\"name\": \"custom-domain-manager\", \"description\": \"Custom Domain Service\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/CUSTOM_DOMAINS\"}",
       "path": "v1/developer/custom-domain-manager.json",
-      "sha": "6f178de2ec32dbff0c92fa6124c296c0ebb61dc5",
+      "sha": "ac2a9f81f33e410e2861d517eff368d3e4a283e5",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/custom-domain-manager.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/custom-domain-manager.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "62e4339126525d924291af9a22f100aaf15d282e",
+      "sha": "fe737956a4dce9bf8a6ea2039b20dd9bd1476d2f",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -2001,7 +2001,7 @@
     {
       "metadata": "{\"name\": \"INFRA\", \"description\": \"Custom Domain Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/custom-domain\"}",
       "path": "v1/developer/infra.json",
-      "sha": "fc66a25815211d49014136494874f3dad734f755",
+      "sha": "1a7998e694ac2516ca744bfd111fc53a347fab0a",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/infra.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/infra.json"
     },
