@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-08-12T06:15:04Z",
+  "generated_at_utc": "2026-08-12T08:17:47Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "6c1cfe21149dd304f4603f08aea09da4b8a73c1b"
+    "head_sha": "48c24f6b45e3da86e11e2de2ab0adec581206b54"
   },
   "count": 604,
   "errors": 0,
@@ -151,9 +151,9 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/ain_live.json"
     },
     {
-      "metadata": "{\"name\": \"alert-notification\", \"description\": \"Alert Notification\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/#/serviceCatalog/alert-notification\"}",
+      "metadata": "{\"name\": \"alert-notification\", \"description\": \"Alert Notification Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/#/serviceCatalog/alert-notification\"}",
       "path": "v1/developer/alert-notification.json",
-      "sha": "532549e8f96b64fdb7a9ea2c8069e67575927ef3",
+      "sha": "eaf8aa2d35696d42cd66befdf8b300720e099b5b",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/alert-notification.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/alert-notification.json"
     },
@@ -510,14 +510,14 @@
     {
       "metadata": "{\"name\": \"c4-distributed-order-management-app\", \"description\": \"SAP Order Management Foundation\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_EM\"}",
       "path": "v1/developer/c4-distributed-order-management-app.json",
-      "sha": "4233f46fe7611bc5a655106d62558c1c213085d5",
+      "sha": "4def9dc22191c1fd15aaab2febe0e53c098e77cb",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/c4-distributed-order-management-app.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/c4-distributed-order-management-app.json"
     },
     {
       "metadata": "{\"name\": \"c4-distributed-order-management\", \"description\": \"SAP Order Management Foundation\", \"deprecated\": false, \"link\": \"https://help.sap.com/doc/65309ba6056d4d6c8dc40195ec4b3074/\"}",
       "path": "v1/developer/c4-distributed-order-management.json",
-      "sha": "5cda8613211eda82348f05813ade5167ca430de2",
+      "sha": "c851e4dbbe660794698698cad8507a9a675ea50f",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/c4-distributed-order-management.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/c4-distributed-order-management.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "fe737956a4dce9bf8a6ea2039b20dd9bd1476d2f",
+      "sha": "dfe5cd92385101901a3280d5d6815cf89aa66db7",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -1840,7 +1840,7 @@
     {
       "metadata": "{\"name\": \"hana\", \"description\": \"SAP HANA Schemas & HDI Containers\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/btp/sap-business-technology-platform/btp-getting-support\"}",
       "path": "v1/developer/hana.json",
-      "sha": "730f4688871dd4a11fa1bf6f47290408c88da035",
+      "sha": "e28e54b7e0f5531d9176c415bd0428e03dead968",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana.json"
     },
@@ -2218,7 +2218,7 @@
     {
       "metadata": "{\"name\": \"jobscheduler\", \"description\": \"Job Scheduling Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/job-scheduling-service\"}",
       "path": "v1/developer/jobscheduler.json",
-      "sha": "fa2c539a4f09eefc8c625d2d70ab2686bd777eef",
+      "sha": "52ba455673f8c07561c60f81cf0e0ee32c6e1e3a",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/jobscheduler.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/jobscheduler.json"
     },
@@ -2505,7 +2505,7 @@
     {
       "metadata": "{\"name\": \"malware-scanner\", \"description\": \"Malware Scanning Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/malware-scanning-service\"}",
       "path": "v1/developer/malware-scanner.json",
-      "sha": "5411d149f64cc81a8a970c836aaad60b4c7c8303",
+      "sha": "2f89fdbcf0a242dfcd1e2f3b14dcabce0f4930ad",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/malware-scanner.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/malware-scanner.json"
     },
@@ -3233,7 +3233,7 @@
     {
       "metadata": "{\"name\": \"procplan\", \"description\": \"SAP Ariba Procurement Planning\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_PROCUREMENT_PLANNING/LATEST/en-US\"}",
       "path": "v1/developer/procplan.json",
-      "sha": "b87d901602f8630b84bca7360b69a4a165777c69",
+      "sha": "cfb95124409676b0c7e9de276d6cba4f9f6ffb10",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/procplan.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/procplan.json"
     },
@@ -3450,7 +3450,7 @@
     {
       "metadata": "{\"name\": \"s4hana-for-procurement-planning-api\", \"description\": \"SAP Ariba Procurement Planning\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_PROCUREMENT_PLANNING/LATEST/en-US\"}",
       "path": "v1/developer/s4hana-for-procurement-planning-api.json",
-      "sha": "e422f2108b5989046a20cf74bab84743ac024bfd",
+      "sha": "5b085afeb33c5c1b3b1ef6cd2310e6feab9ea9cb",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/s4hana-for-procurement-planning-api.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/s4hana-for-procurement-planning-api.json"
     },
