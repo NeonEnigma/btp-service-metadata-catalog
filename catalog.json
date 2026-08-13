@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-08-13T06:16:43Z",
+  "generated_at_utc": "2026-08-13T08:21:48Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "48c24f6b45e3da86e11e2de2ab0adec581206b54"
+    "head_sha": "5bda2a978bb8c551bb6cb658af2fafa9ba5c560c"
   },
   "count": 604,
   "errors": 0,
@@ -153,7 +153,7 @@
     {
       "metadata": "{\"name\": \"alert-notification\", \"description\": \"Alert Notification Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/#/serviceCatalog/alert-notification\"}",
       "path": "v1/developer/alert-notification.json",
-      "sha": "eaf8aa2d35696d42cd66befdf8b300720e099b5b",
+      "sha": "b8ae475ea293e98960900b533d8ae87323b19911",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/alert-notification.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/alert-notification.json"
     },
@@ -370,7 +370,7 @@
     {
       "metadata": "{\"name\": \"autoscaler\", \"description\": \"Application Autoscaler\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/#/serviceCatalog/application-autoscaler\"}",
       "path": "v1/developer/autoscaler.json",
-      "sha": "1a219aca3a6be5dd1ab16eb8f8def94edee34f31",
+      "sha": "87e883f66459b87357dfea4dc805b07bccf47ab4",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/autoscaler.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/autoscaler.json"
     },
@@ -734,7 +734,7 @@
     {
       "metadata": "{\"name\": \"cloudfoundry\", \"description\": \"Cloud Foundry Environment\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/cloud-foundry-runtime\"}",
       "path": "v1/developer/cloudfoundry.json",
-      "sha": "af18072a57d1672c8da1681dd96ebb4ea3bc8b21",
+      "sha": "9a23a8f9a94e7961b83ff65a837e783c0abe1ae4",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/cloudfoundry.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/cloudfoundry.json"
     },
@@ -769,14 +769,14 @@
     {
       "metadata": "{\"name\": \"connectivity-central\", \"description\": \"Connectivity Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/#/serviceCatalog/connectivity-service\"}",
       "path": "v1/developer/connectivity-central.json",
-      "sha": "5b3398b281f201c0e5705b8e8a8a3cc1c477a4fe",
+      "sha": "034f7d9a77e73ee7a123f84b5a986c1e6c78fcc6",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/connectivity-central.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/connectivity-central.json"
     },
     {
       "metadata": "{\"name\": \"connectivity\", \"description\": \"Connectivity Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/#/serviceCatalog/connectivity-service\"}",
       "path": "v1/developer/connectivity.json",
-      "sha": "108343079a8aa0cb52275de72a1de0ffcd61f438",
+      "sha": "2c28b6f5dc9316b568657858a47907a9cc10c97a",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/connectivity.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/connectivity.json"
     },
@@ -1084,7 +1084,7 @@
     {
       "metadata": "{\"name\": \"destination\", \"description\": \"Destination Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/#/serviceCatalog/destination\"}",
       "path": "v1/developer/destination.json",
-      "sha": "fa045e92f82d2c2d07988f3a8556701f0acf66cb",
+      "sha": "895c45ef44da1bed85436d06d4c70303b410f140",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/destination.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/destination.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "dfe5cd92385101901a3280d5d6815cf89aa66db7",
+      "sha": "b59a361b0ef39bae7aee6ab569411c61f0e3a41d",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
