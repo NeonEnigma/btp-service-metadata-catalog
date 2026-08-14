@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-08-14T06:18:49Z",
+  "generated_at_utc": "2026-08-14T08:16:02Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "5bda2a978bb8c551bb6cb658af2fafa9ba5c560c"
+    "head_sha": "baa55bad0f396207000c258958d95770b6d4ed1a"
   },
   "count": 604,
   "errors": 0,
@@ -1112,7 +1112,7 @@
     {
       "metadata": "{\"name\": \"di-api\", \"description\": \"Data Space Integration API Access\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/integration-suite?region=all&tab=service_plan\"}",
       "path": "v1/developer/di-api.json",
-      "sha": "1c321ef628cb74566591209761371915c891804c",
+      "sha": "1b0faa4239988b8166cec0d33e0dd65dcfe5f30f",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/di-api.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/di-api.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "b59a361b0ef39bae7aee6ab569411c61f0e3a41d",
+      "sha": "7f46f1a81e370c86016ae19084532378d9ee547f",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -2029,7 +2029,7 @@
     {
       "metadata": "{\"name\": \"integrationsuite\", \"description\": \"Integration Suite\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/integration-suite\"}",
       "path": "v1/developer/integrationsuite.json",
-      "sha": "7671702664b0c4d47831547ac7741d73d0b6ced5",
+      "sha": "ebc5441bfa9bdbfdb8af4154319ee90b984fd665",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/integrationsuite.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/integrationsuite.json"
     },
@@ -2239,7 +2239,7 @@
     {
       "metadata": "{\"name\": \"kymaruntime\", \"description\": \"Kyma Runtime\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/kyma-runtime\"}",
       "path": "v1/developer/kymaruntime.json",
-      "sha": "04e9f0e897c6110d8801e0d16e87a4339bc9caaa",
+      "sha": "41a594d310214f85d998436517c6af8d98f49f02",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/kymaruntime.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/kymaruntime.json"
     },
@@ -2575,7 +2575,7 @@
     {
       "metadata": "{\"name\": \"mdo-one-mds-master\", \"description\": \"Master Data Integration (Orchestration)\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_MASTER_DATA_INTEGRATION/8ce78b673ef04cc1bcfeb01c93ef7885/0bed505b149b4ec6af24bf503a45708b.html\"}",
       "path": "v1/developer/mdo-one-mds-master.json",
-      "sha": "3f48382b6ff8f0baecc1fbe309839890b4c60904",
+      "sha": "cd6c83be0ac737e8f3b0377c19cf1c4b9e272b6b",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/mdo-one-mds-master.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/mdo-one-mds-master.json"
     },
