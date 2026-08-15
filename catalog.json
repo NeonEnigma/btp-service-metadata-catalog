@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-08-15T05:24:36Z",
+  "generated_at_utc": "2026-08-15T06:37:40Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "baa55bad0f396207000c258958d95770b6d4ed1a"
+    "head_sha": "e59002f81c6d0c029cdd1e1604e60fa9e4bf0f99"
   },
   "count": 604,
   "errors": 0,
