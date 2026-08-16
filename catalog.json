@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-08-16T05:28:16Z",
+  "generated_at_utc": "2026-08-16T06:40:14Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "e59002f81c6d0c029cdd1e1604e60fa9e4bf0f99"
+    "head_sha": "e349d509b0b2c94502ef3b024201946fa2705fc8"
   },
   "count": 604,
   "errors": 0,
@@ -1665,14 +1665,14 @@
     {
       "metadata": "{\"name\": \"feature-flags-dashboard\", \"description\": \"Feature Flags Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/feature-flags-service\"}",
       "path": "v1/developer/feature-flags-dashboard.json",
-      "sha": "acea92de510d033c2b836f2ce9891c736d91feac",
+      "sha": "0b0848d523fa49e77668d374ed01ef6b9be4f777",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/feature-flags-dashboard.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/feature-flags-dashboard.json"
     },
     {
       "metadata": "{\"name\": \"feature-flags\", \"description\": \"Feature Flags Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/feature-flags-service\"}",
       "path": "v1/developer/feature-flags.json",
-      "sha": "2901630ec29e72d876811f8a54ec08247cb71a70",
+      "sha": "8942807f063c29156d6be94cc99419bc36149b8d",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/feature-flags.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/feature-flags.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "7f46f1a81e370c86016ae19084532378d9ee547f",
+      "sha": "78f1aaeed7f11e9f43d09fdc4483f9aaa7d53ea8",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -2888,16 +2888,16 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/one-inbox-service.json"
     },
     {
-      "metadata": "{\"name\": \"one-mds-master\", \"description\": \"SAP Master Data Integration Tenant\", \"deprecated\": false, \"link\": \"https://community.sap.com/search/?ct=blog&q=SAP%20Master%20Data%20Integration\"}",
+      "metadata": "{\"name\": \"one-mds-master\", \"description\": \"Replicate master data between applications via a central master data hub\", \"deprecated\": false, \"link\": \"https://community.sap.com/search/?ct=blog&q=SAP%20Master%20Data%20Integration\"}",
       "path": "v1/developer/one-mds-master.json",
-      "sha": "b14ce427b81249caf2af4d14da957732bba3e449",
+      "sha": "8a1905488ce576c810148909b2a27fa69a90cd10",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/one-mds-master.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/one-mds-master.json"
     },
     {
       "metadata": "{\"name\": \"one-mds\", \"description\": \"Master Data Integration\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/master-data-integration\"}",
       "path": "v1/developer/one-mds.json",
-      "sha": "ceace4b77ed7f0446fba964736cc3fc9fd5c89ea",
+      "sha": "0c8ea71bd57aacd95245289af6bdda390874e053",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/one-mds.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/one-mds.json"
     },
