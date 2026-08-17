@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-08-17T05:34:38Z",
+  "generated_at_utc": "2026-08-17T06:55:54Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "e349d509b0b2c94502ef3b024201946fa2705fc8"
+    "head_sha": "6c5b083f21e151a883d8661f07cd5d7cf0cc452f"
   },
   "count": 604,
   "errors": 0,
@@ -1133,7 +1133,7 @@
     {
       "metadata": "{\"name\": \"digital-manufacturing-services\", \"description\": \"SAP Digital Manufacturing\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/sap-digital-manufacturing\"}",
       "path": "v1/developer/digital-manufacturing-services.json",
-      "sha": "b4fb548f62e20307026700dd50306e29f99ac720",
+      "sha": "c91d9304076ad9bf49cb1d2cdd82280ea3bdb9ca",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/digital-manufacturing-services.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/digital-manufacturing-services.json"
     },
@@ -1301,7 +1301,7 @@
     {
       "metadata": "{\"name\": \"dynamic-forms\", \"description\": \"SAP Dynamic Forms\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/dynamic-forms\"}",
       "path": "v1/developer/dynamic-forms.json",
-      "sha": "3cd5d62fd90a0520435360994dc7292e1dd29d9b",
+      "sha": "b76f8e20f2330388b4437770753c1020d1117878",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/dynamic-forms.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/dynamic-forms.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "78f1aaeed7f11e9f43d09fdc4483f9aaa7d53ea8",
+      "sha": "a2d8fff93c606fce22fb2048369c958614149a3a",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -2575,7 +2575,7 @@
     {
       "metadata": "{\"name\": \"mdo-one-mds-master\", \"description\": \"Master Data Integration (Orchestration)\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_MASTER_DATA_INTEGRATION/8ce78b673ef04cc1bcfeb01c93ef7885/0bed505b149b4ec6af24bf503a45708b.html\"}",
       "path": "v1/developer/mdo-one-mds-master.json",
-      "sha": "cd6c83be0ac737e8f3b0377c19cf1c4b9e272b6b",
+      "sha": "819cc2074852332bbb205b312bc6c3646c884b79",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/mdo-one-mds-master.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/mdo-one-mds-master.json"
     },
@@ -2890,14 +2890,14 @@
     {
       "metadata": "{\"name\": \"one-mds-master\", \"description\": \"Replicate master data between applications via a central master data hub\", \"deprecated\": false, \"link\": \"https://community.sap.com/search/?ct=blog&q=SAP%20Master%20Data%20Integration\"}",
       "path": "v1/developer/one-mds-master.json",
-      "sha": "8a1905488ce576c810148909b2a27fa69a90cd10",
+      "sha": "dd6876604f8ee5ea0277b1174df0274ece1c8f37",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/one-mds-master.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/one-mds-master.json"
     },
     {
       "metadata": "{\"name\": \"one-mds\", \"description\": \"Master Data Integration\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/master-data-integration\"}",
       "path": "v1/developer/one-mds.json",
-      "sha": "0c8ea71bd57aacd95245289af6bdda390874e053",
+      "sha": "fbb8c44418d45f49b40b8a0e2860895e4a45a0c7",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/one-mds.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/one-mds.json"
     },
