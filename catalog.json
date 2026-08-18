@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-18T19:30:47Z",
+  "generated_at_utc": "2026-08-18T20:33:48Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
@@ -7,8 +7,8 @@
     "start_path": "v1/developer",
     "head_sha": "6c5b083f21e151a883d8661f07cd5d7cf0cc452f"
   },
-  "count": 604,
-  "errors": 0,
+  "count": 601,
+  "errors": 3,
   "services": [
     {
       "metadata": "{\"name\": \"3dvisualization\", \"description\": \"SAP 3D Visual Enterprise, Cloud Edition\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/CP_3D_Visualization/Cloud/en-US\"}",
@@ -1635,13 +1635,6 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/execution-dmc-sap-quality.json"
     },
     {
-      "metadata": "{\"name\": \"execution-dmc-sap\", \"description\": \"SAP Digital Manufacturing for execution\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_DIGITAL_MANUFACTURING_CLOUD\"}",
-      "path": "v1/developer/execution-dmc-sap.json",
-      "sha": "f0de2bef52794af128e711d5c45ec6d020f76fef",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/execution-dmc-sap.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/execution-dmc-sap.json"
-    },
-    {
       "metadata": "{\"name\": \"extension-center\", \"description\": \"Allows you to create, manage, configure extensions on SAP Business Technology Platform.\", \"deprecated\": false, \"link\": \"https://help.sap.com/doc/5e8107bf49684962b897217040398007/\"}",
       "path": "v1/developer/extension-center.json",
       "sha": "f5fdb9a2c6f7370e018007843b1ad669e80d0d66",
@@ -2697,13 +2690,6 @@
       "sha": "4401e1ccfc2c2f30b8015a9605b4c2ce68fa2641",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/mobile-services.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/mobile-services.json"
-    },
-    {
-      "metadata": "{\"name\": \"mobile-settings-exchange\", \"description\": \"Mobile Settings Exchange Service\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/BTP/468990a67780424a9e66eb096d4345bb/620b0ae379ad476e9046338d16a7645b.html\"}",
-      "path": "v1/developer/mobile-settings-exchange.json",
-      "sha": "ffe1d85a2b13fa2268c5a0d7cde21b6f952621f8",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/mobile-settings-exchange.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/mobile-settings-exchange.json"
     },
     {
       "metadata": "{\"name\": \"Model-Management-UI-integration\", \"description\": \"Model Manager helps SAP Cash Application customers to view the machine learning model benchmark results and activate the models.\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_CASH_APPLICATION/2005/en-US?task=discover_task\"}",
@@ -3922,13 +3908,6 @@
       "sha": "a5f79c899b44716ad2021b7c968d5573bd5f4fa3",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/service-manager.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/service-manager.json"
-    },
-    {
-      "metadata": "{\"name\": \"service-ticket-intelligence-partner\", \"description\": \"Service Ticket Intelligence Partner\", \"deprecated\": false, \"link\": \"https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/service-ticket-intelligence-partner.json\"}",
-      "path": "v1/developer/service-ticket-intelligence-partner.json",
-      "sha": "32b9859f6f7fe015b1c4494a12df7eab4cb59c10",
-      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/service-ticket-intelligence-partner.json",
-      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/service-ticket-intelligence-partner.json"
     },
     {
       "metadata": "{\"name\": \"service-ticket-intelligence-trial\", \"description\": \"Service Ticket Intelligence Trial\", \"deprecated\": false, \"link\": \"https://help.sap.com/stint\"}",
