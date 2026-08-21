@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-08-21T05:32:51Z",
+  "generated_at_utc": "2026-08-21T06:47:44Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "8e07504939ee124af169bd5c0b458969b808d515"
+    "head_sha": "9eb2994983e8fbdce04260aef64b20de6f38bf33"
   },
   "count": 604,
   "errors": 0,
@@ -258,28 +258,28 @@
     {
       "metadata": "{\"name\": \"application-logs\", \"description\": \"Application Logging Service\", \"deprecated\": false, \"link\": \"https://help.sap.com/doc/2992cdb21d194bab9926f7bb054f8b29/\"}",
       "path": "v1/developer/application-logs.json",
-      "sha": "b187406844419c94f184be5707cf6375dbe77283",
+      "sha": "8e5a6fc3b67903fc1922b4672135fe4ec0aa72e3",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/application-logs.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/application-logs.json"
     },
     {
       "metadata": "{\"name\": \"application-vulnerability-report-service\", \"description\": \"Application Vulnerability Report\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/application-vulnerability-report\"}",
       "path": "v1/developer/application-vulnerability-report-service.json",
-      "sha": "c140e284dca86c228ca0003a77dad56d25da59d4",
+      "sha": "d61be4c00d018e19581cc47d68a551983df49d9f",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/application-vulnerability-report-service.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/application-vulnerability-report-service.json"
     },
     {
       "metadata": "{\"name\": \"application-vulnerability-report\", \"description\": \"Application Vulnerability Report\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/application-vulnerability-report\"}",
       "path": "v1/developer/application-vulnerability-report.json",
-      "sha": "98a4ff09c19d9088f15c98a9ea0d80d41e06297d",
+      "sha": "959725df11ca9868840f9614824ba3f4e3838f44",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/application-vulnerability-report.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/application-vulnerability-report.json"
     },
     {
       "metadata": "{\"name\": \"APPLICATION_RUNTIME\", \"description\": \"Build on open standards with SAP Java, Python, and Node.js buildpacks or bring your own language with community buildpacks for PHP, Ruby, Go. Start, stop, scale and configure distributed cloud applications using standard Cloud Foundry tools, our cockpit and dev-ops capabilities.\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/cloud-foundry-runtime\"}",
       "path": "v1/developer/application_runtime.json",
-      "sha": "0170aa890cb3ce138b1d4643642fd2c6a5793bab",
+      "sha": "3499e9b7bbb5a8bc1f9b1043e01c9e6cf75ab0eb",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/application_runtime.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/application_runtime.json"
     },
@@ -706,7 +706,7 @@
     {
       "metadata": "{\"name\": \"cis\", \"description\": \"Cloud Management Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/cloud-management-service\"}",
       "path": "v1/developer/cis.json",
-      "sha": "9b0efc7b4f0381d225f68b63ececde9fe0a46396",
+      "sha": "95cdc4d27c01ef06e9d187042c5ff3fc3db81ca1",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/cis.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/cis.json"
     },
@@ -734,7 +734,7 @@
     {
       "metadata": "{\"name\": \"cloudfoundry\", \"description\": \"Cloud Foundry Environment\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/cloud-foundry-runtime\"}",
       "path": "v1/developer/cloudfoundry.json",
-      "sha": "9a23a8f9a94e7961b83ff65a837e783c0abe1ae4",
+      "sha": "adf06fb4db262d92967257b17e58ff1dadc6efda",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/cloudfoundry.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/cloudfoundry.json"
     },
@@ -1126,14 +1126,14 @@
     {
       "metadata": "{\"name\": \"digital-manufacturing-services-quality\", \"description\": \"SAP Digital Manufacturing Services with plans Execution, Insights, Supplier and Partner for quality landscapes.\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_DIGITAL_MANUFACTURING_CLOUD\"}",
       "path": "v1/developer/digital-manufacturing-services-quality.json",
-      "sha": "6d21f4db02a3e83c64b103c7183076f942015e58",
+      "sha": "5a67f7abfd2612493599dd1f38db269d5c56b167",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/digital-manufacturing-services-quality.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/digital-manufacturing-services-quality.json"
     },
     {
       "metadata": "{\"name\": \"digital-manufacturing-services\", \"description\": \"SAP Digital Manufacturing\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/sap-digital-manufacturing\"}",
       "path": "v1/developer/digital-manufacturing-services.json",
-      "sha": "c91d9304076ad9bf49cb1d2cdd82280ea3bdb9ca",
+      "sha": "0c3eb542100f65f3978dfe539fc11aa1323f5189",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/digital-manufacturing-services.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/digital-manufacturing-services.json"
     },
@@ -1630,14 +1630,14 @@
     {
       "metadata": "{\"name\": \"execution-dmc-sap-quality\", \"description\": \"SAP Digital Manufacturing for execution, Test\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_DIGITAL_MANUFACTURING_CLOUD\"}",
       "path": "v1/developer/execution-dmc-sap-quality.json",
-      "sha": "5755eaf978c80715ef9c354fb06ec4e1ed015de8",
+      "sha": "2fe9bca07b6ce27f490519b4495945f3151295dd",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/execution-dmc-sap-quality.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/execution-dmc-sap-quality.json"
     },
     {
       "metadata": "{\"name\": \"execution-dmc-sap\", \"description\": \"SAP Digital Manufacturing for execution\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_DIGITAL_MANUFACTURING_CLOUD\"}",
       "path": "v1/developer/execution-dmc-sap.json",
-      "sha": "f0de2bef52794af128e711d5c45ec6d020f76fef",
+      "sha": "4d7ba795cf7a90bb6ddd4861e493fd3a566d6ae4",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/execution-dmc-sap.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/execution-dmc-sap.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "a8840ed0cbeb5358b41116bd33baf28d5ceb295e",
+      "sha": "c8dbe9064a61b507692bbc05b8e3131abd6ef11f",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -1994,7 +1994,7 @@
     {
       "metadata": "{\"name\": \"identity\", \"description\": \"Cloud Identity Services\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/cloud-identity-services\"}",
       "path": "v1/developer/identity.json",
-      "sha": "13020f8773b62e29877c50b87b781c28e5a353ac",
+      "sha": "ecf76849e36f7117d295f0a6b6cc2c56bb3dbf93",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/identity.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/identity.json"
     },
@@ -2232,7 +2232,7 @@
     {
       "metadata": "{\"name\": \"kafka\", \"description\": \"Apache Kafka\", \"deprecated\": false, \"link\": \"https://help.sap.com/doc/fe8f39bf9b0640fe8ae37031a85a8d96/\"}",
       "path": "v1/developer/kafka.json",
-      "sha": "466eef2da58216571f78528785b50527cd5bb28c",
+      "sha": "fbb7d7993f96a6645e1e45a752626d1b9bae4761",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/kafka.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/kafka.json"
     },
@@ -3051,7 +3051,7 @@
     {
       "metadata": "{\"name\": \"postgresql-db\", \"description\": \"PostgreSQL on SAP BTP, hyperscaler option provides a managed relational database service, based on native PostgreSQL offerings from cloud providers AWS, Microsoft Azure, Google Cloud Platform and Alicloud.\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/postgresql-hyperscaler-option\"}",
       "path": "v1/developer/postgresql-db.json",
-      "sha": "81a284b38ae67894ad29a9388e21e272448645ef",
+      "sha": "5738d3de3a3b615996131e8ee046be2dfd03d519",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/postgresql-db.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/postgresql-db.json"
     },
@@ -3345,7 +3345,7 @@
     {
       "metadata": "{\"name\": \"redis-cache\", \"description\": \"Redis, Hyperscaler Option\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/redis-hyperscaler-option\"}",
       "path": "v1/developer/redis-cache.json",
-      "sha": "fddba31c0131b8a39987902df303f22be618bac5",
+      "sha": "9a5e9272b7d1a61db6ccf30422b80e24531e080e",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/redis-cache.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/redis-cache.json"
     },
@@ -3359,14 +3359,14 @@
     {
       "metadata": "{\"name\": \"reo-dmc-sap-quality\", \"description\": \"SAP Digital Manufacturing for resource orchestration, Test\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_DIGITAL_MANUFACTURING_CLOUD\"}",
       "path": "v1/developer/reo-dmc-sap-quality.json",
-      "sha": "90c0b72d0ecabdc0083b6d70995daf35f8a4d064",
+      "sha": "beec8e5b3254fd70fe07cc169de0f4f7f9b7262b",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/reo-dmc-sap-quality.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/reo-dmc-sap-quality.json"
     },
     {
       "metadata": "{\"name\": \"reo-dmc-sap\", \"description\": \"SAP Digital Manufacturing for resource orchestration\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_DIGITAL_MANUFACTURING_CLOUD\"}",
       "path": "v1/developer/reo-dmc-sap.json",
-      "sha": "dafdac67887dfc8b3949bea94ee324c72699d124",
+      "sha": "e057cb4f435e8ba697acaea7c8a17b37f552bd70",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/reo-dmc-sap.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/reo-dmc-sap.json"
     },
@@ -3457,7 +3457,7 @@
     {
       "metadata": "{\"name\": \"saas-registry\", \"description\": \"SaaS Provisioning Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/#/serviceCatalog/saas-provisioning-service?service_plan=application&region=all\"}",
       "path": "v1/developer/saas-registry.json",
-      "sha": "009c58743836c978d8c9e5b8d241f998a1c58bdf",
+      "sha": "8d06ace58d08557b0007911a9917093c0cb1bf33",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/saas-registry.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/saas-registry.json"
     },
@@ -3919,7 +3919,7 @@
     {
       "metadata": "{\"name\": \"service-manager\", \"description\": \"SAP Service Manager service allows you to consume platform services in any connected runtime environment, track service instances creation, and share services and service instances between different environments.\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/#/serviceCatalog/service-manager\"}",
       "path": "v1/developer/service-manager.json",
-      "sha": "a5f79c899b44716ad2021b7c968d5573bd5f4fa3",
+      "sha": "704ffe1212ef4e601b6edea6553b43d1a1b5196e",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/service-manager.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/service-manager.json"
     },
@@ -4031,7 +4031,7 @@
     {
       "metadata": "{\"name\": \"supplier-dmc-sap\", \"description\": \"SAP Digital Manufacturing Network\", \"deprecated\": false, \"link\": \"https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/supplier-dmc-sap.json\"}",
       "path": "v1/developer/supplier-dmc-sap.json",
-      "sha": "74af99da88f034cfc465b3fe4da2b10d2603629b",
+      "sha": "88f3acab87de357b584395173d1cdd45716b58b9",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/supplier-dmc-sap.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/supplier-dmc-sap.json"
     },
@@ -4234,7 +4234,7 @@
     {
       "metadata": "{\"name\": \"xsuaa\", \"description\": \"Authorization and Trust Management Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/authorization-and-trust-management-service\"}",
       "path": "v1/developer/xsuaa.json",
-      "sha": "771b97e23e63b77f3aff3bf82f99afa25e179ff9",
+      "sha": "b7e2034ac247d20204aeac9c68f59a292bf934e0",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/xsuaa.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/xsuaa.json"
     }
