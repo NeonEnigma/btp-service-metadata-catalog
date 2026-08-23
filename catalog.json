@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-08-23T05:29:11Z",
+  "generated_at_utc": "2026-08-23T06:40:27Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "806df7c24304b04ca626d6c0aa2d87ae11a5c898"
+    "head_sha": "3dbd04ebcb3171f49bc34217539a7935f1e80e80"
   },
   "count": 604,
   "errors": 0,
@@ -1126,14 +1126,14 @@
     {
       "metadata": "{\"name\": \"digital-manufacturing-services-quality\", \"description\": \"SAP Digital Manufacturing Services with plans Execution, Insights, Supplier and Partner for quality landscapes.\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_DIGITAL_MANUFACTURING_CLOUD\"}",
       "path": "v1/developer/digital-manufacturing-services-quality.json",
-      "sha": "5a67f7abfd2612493599dd1f38db269d5c56b167",
+      "sha": "6d21f4db02a3e83c64b103c7183076f942015e58",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/digital-manufacturing-services-quality.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/digital-manufacturing-services-quality.json"
     },
     {
       "metadata": "{\"name\": \"digital-manufacturing-services\", \"description\": \"SAP Digital Manufacturing\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/sap-digital-manufacturing\"}",
       "path": "v1/developer/digital-manufacturing-services.json",
-      "sha": "0c3eb542100f65f3978dfe539fc11aa1323f5189",
+      "sha": "c91d9304076ad9bf49cb1d2cdd82280ea3bdb9ca",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/digital-manufacturing-services.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/digital-manufacturing-services.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "c8dbe9064a61b507692bbc05b8e3131abd6ef11f",
+      "sha": "6282642f3894c1211ee64207451792cb2fee7ac3",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
