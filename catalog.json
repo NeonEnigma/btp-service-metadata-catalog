@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-08-26T05:34:36Z",
+  "generated_at_utc": "2026-08-26T06:51:52Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "1b7b83844581e71a251c16c8255e6ce7e71222d5"
+    "head_sha": "54f8603be1ffb8679970edcf08a72b07f9122c12"
   },
   "count": 604,
   "errors": 0,
@@ -1077,7 +1077,7 @@
     {
       "metadata": "{\"name\": \"decentralized-identity-management\", \"description\": \"Decentralized Identity Verification\", \"deprecated\": false, \"link\": \"https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?tag=language:english&search=Supplement%20Business%20Technology%20Platform&sort=latest_desc\"}",
       "path": "v1/developer/decentralized-identity-management.json",
-      "sha": "d1446c2cf3831b8de34825e8d41ea4a3c079fc48",
+      "sha": "4b98491c84f36d9f4c5a486273621d8af0853612",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/decentralized-identity-management.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/decentralized-identity-management.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "8c3bc9a2d5c1891cde9939e1977775f1abf48f6e",
+      "sha": "3c1c8e36d2e2a96bb78ab4dda8bc47b61ac1abd1",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
