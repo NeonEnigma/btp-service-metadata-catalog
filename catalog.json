@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-08-27T04:20:13Z",
+  "generated_at_utc": "2026-08-27T16:09:44Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "54f8603be1ffb8679970edcf08a72b07f9122c12"
+    "head_sha": "5abb5e6b9dab5dcb66e2bb45b976c4ff3a887a91"
   },
   "count": 604,
   "errors": 0,
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "3c1c8e36d2e2a96bb78ab4dda8bc47b61ac1abd1",
+      "sha": "fc876e39c81b9a207ecae0ff2fecbbc10c1a3f77",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -3870,21 +3870,21 @@
     {
       "metadata": "{\"name\": \"sdm-repository\", \"description\": \"Document Management Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/document-management-service-integration-option\"}",
       "path": "v1/developer/sdm-repository.json",
-      "sha": "4398dac5f73b9d03dc4414e9bb75dbdbce45eb13",
+      "sha": "bb9e799c7e08058ef2155a9e01d68edf8ad7335f",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sdm-repository.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sdm-repository.json"
     },
     {
       "metadata": "{\"name\": \"sdm-web\", \"description\": \"Document Management Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/document-management-service-application-option\"}",
       "path": "v1/developer/sdm-web.json",
-      "sha": "483dd7e56699807969cf648589b322ad9c3a144f",
+      "sha": "d06fcf51da48634e46e1bd359eff2f3acee215f8",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sdm-web.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sdm-web.json"
     },
     {
       "metadata": "{\"name\": \"sdm\", \"description\": \"Document Management Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/document-management-service-integration-option\"}",
       "path": "v1/developer/sdm.json",
-      "sha": "4d6b86bdaea9d01bcff88cbf8c241d9f6b434b91",
+      "sha": "01952d8ade1e96dbaa64f410f44fde0e6f0d8cac",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sdm.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sdm.json"
     },
@@ -3905,7 +3905,7 @@
     {
       "metadata": "{\"name\": \"secure-login-service\", \"description\": \"Get client certificates via Secure Login Client (SLC) to log-on with SAP GUI.\", \"deprecated\": false, \"link\": \"https://help.sap.com/sls\"}",
       "path": "v1/developer/secure-login-service.json",
-      "sha": "e05270e0a558368a721097ebe28415d3f68b6042",
+      "sha": "405e1c7d7efca485e1132f1121970f2b156ce477",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/secure-login-service.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/secure-login-service.json"
     },
