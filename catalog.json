@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-08-28T01:18:27Z",
+  "generated_at_utc": "2026-08-28T13:52:33Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "5abb5e6b9dab5dcb66e2bb45b976c4ff3a887a91"
+    "head_sha": "5d2a7a0f9ebc749502a4804f0bd52ffec45db264"
   },
   "count": 604,
   "errors": 0,
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "fc876e39c81b9a207ecae0ff2fecbbc10c1a3f77",
+      "sha": "4250eecf994367b59353f417eb27fa2e587e3348",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -2239,7 +2239,7 @@
     {
       "metadata": "{\"name\": \"kymaruntime\", \"description\": \"Kyma Runtime\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/kyma-runtime\"}",
       "path": "v1/developer/kymaruntime.json",
-      "sha": "41a594d310214f85d998436517c6af8d98f49f02",
+      "sha": "30b03b01bca5b7ea2c39868124a1f9964cf726a0",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/kymaruntime.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/kymaruntime.json"
     },
