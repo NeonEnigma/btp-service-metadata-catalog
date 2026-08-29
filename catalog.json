@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-08-29T05:56:26Z",
+  "generated_at_utc": "2026-08-29T12:26:09Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "5d2a7a0f9ebc749502a4804f0bd52ffec45db264"
+    "head_sha": "01fd76031e1b1578fe8a7a9cee82e18277dad0c2"
   },
   "count": 604,
   "errors": 0,
@@ -685,7 +685,7 @@
     {
       "metadata": "{\"name\": \"cias\", \"description\": \"Cloud Integration Automation\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/cloud-integration-automation\"}",
       "path": "v1/developer/cias.json",
-      "sha": "e9f782baf3b64088972b6fab3bfaced6c9dfc561",
+      "sha": "10bb1ee011ba1eba24a6ca4188da1655e59a1c2b",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/cias.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/cias.json"
     },
@@ -888,7 +888,7 @@
     {
       "metadata": "{\"name\": \"credstore\", \"description\": \"Credential Store\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/credential-store\"}",
       "path": "v1/developer/credstore.json",
-      "sha": "011bb5dcfe9e6cad36d303e9d5a1758f2b3a258e",
+      "sha": "bc814b598bf04a795a2458f6a99778494e15ad79",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/credstore.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/credstore.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "4250eecf994367b59353f417eb27fa2e587e3348",
+      "sha": "e03be593f4743e4858f22c7a78378ff90b8c682a",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
