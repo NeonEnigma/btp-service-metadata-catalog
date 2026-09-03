@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-09-03T03:17:49Z",
+  "generated_at_utc": "2026-09-03T08:36:20Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "67182f8ce54906d87672def3a63e7313ae90341a"
+    "head_sha": "ea42995a163792d2ca74f74962507b853a9df2f4"
   },
   "count": 604,
   "errors": 0,
@@ -370,7 +370,7 @@
     {
       "metadata": "{\"name\": \"autoscaler\", \"description\": \"Application Autoscaler\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/#/serviceCatalog/application-autoscaler\"}",
       "path": "v1/developer/autoscaler.json",
-      "sha": "87e883f66459b87357dfea4dc805b07bccf47ab4",
+      "sha": "bcbf52c25cddee7fe17707260887067ce6c4fa01",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/autoscaler.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/autoscaler.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "d81ae00d6862e86759968192dd4500abd1f54591",
+      "sha": "48e42385b6b431985fffb9f9223bc7611e5c73a5",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -3681,7 +3681,7 @@
     {
       "metadata": "{\"name\": \"sap-rex\", \"description\": \"SAP Retail Execution\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/retail-execution-mobile-app\"}",
       "path": "v1/developer/sap-rex.json",
-      "sha": "b88ce7f46dbabb0226e8309a2048a6bb043d5388",
+      "sha": "53dcd8d17ea60c4f3f6072b1fe0febc41bbe6f97",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sap-rex.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sap-rex.json"
     },
