@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-09-05T03:17:32Z",
+  "generated_at_utc": "2026-09-05T08:07:56Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "e35a902b1a60429eedb9947a0d1f2a8c25651bf3"
+    "head_sha": "bcb90481a850146fb431f791f3e2e67d61c4b8f4"
   },
   "count": 604,
   "errors": 0,
@@ -370,7 +370,7 @@
     {
       "metadata": "{\"name\": \"autoscaler\", \"description\": \"Application Autoscaler\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/#/serviceCatalog/application-autoscaler\"}",
       "path": "v1/developer/autoscaler.json",
-      "sha": "ed5aa1219a5f282842b34a5ef118781dab684cd0",
+      "sha": "467be014202bfc76e41bafd8cc0f74614b698030",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/autoscaler.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/autoscaler.json"
     },
@@ -510,7 +510,7 @@
     {
       "metadata": "{\"name\": \"c4-distributed-order-management-app\", \"description\": \"SAP Order Management Foundation\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_EM\"}",
       "path": "v1/developer/c4-distributed-order-management-app.json",
-      "sha": "4def9dc22191c1fd15aaab2febe0e53c098e77cb",
+      "sha": "9220b0c3a5db1b26ce9f3882e8d16fe9f11975ac",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/c4-distributed-order-management-app.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/c4-distributed-order-management-app.json"
     },
@@ -685,7 +685,7 @@
     {
       "metadata": "{\"name\": \"cias\", \"description\": \"Cloud Integration Automation\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/cloud-integration-automation\"}",
       "path": "v1/developer/cias.json",
-      "sha": "10bb1ee011ba1eba24a6ca4188da1655e59a1c2b",
+      "sha": "04efac39fb8cdd52fbc2b3f45b4e6c7e19edef95",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/cias.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/cias.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "55582da92b9d5c7f9f8af77ddb235af893474695",
+      "sha": "ca887eb713bc93b20a6b7dca63081c84f726c007",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
