@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-09-06T05:34:20Z",
+  "generated_at_utc": "2026-09-06T10:24:04Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "bcb90481a850146fb431f791f3e2e67d61c4b8f4"
+    "head_sha": "3ae820c6b28546fe4c89db619a4f97aeea88d56e"
   },
   "count": 604,
   "errors": 0,
@@ -328,21 +328,21 @@
     {
       "metadata": "{\"name\": \"auditlog-api\", \"description\": \"[DEPRECATED] Audit Log Retrieval\", \"deprecated\": false, \"link\": \"https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/auditlog-api.json\"}",
       "path": "v1/developer/auditlog-api.json",
-      "sha": "9b22db0329b749d36e6ece45d9b8ec28bf5b2f41",
+      "sha": "107098e25d7f9409e3d8232e317fa12a78bee832",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/auditlog-api.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/auditlog-api.json"
     },
     {
       "metadata": "{\"name\": \"auditlog-management\", \"description\": \"Audit Log Management Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/#/serviceCatalog/audit-log-service\"}",
       "path": "v1/developer/auditlog-management.json",
-      "sha": "056539ccf59091721b05082a6dab570e5f45ebaa",
+      "sha": "1c184b312dccfc97bf3d6e5e5071bd65729e6036",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/auditlog-management.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/auditlog-management.json"
     },
     {
       "metadata": "{\"name\": \"auditlog-viewer\", \"description\": \"Audit Log Viewer Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/#/serviceCatalog/audit-log-service\"}",
       "path": "v1/developer/auditlog-viewer.json",
-      "sha": "eb32e4e6cc4e67386d5f9ca9921a7720a35d579e",
+      "sha": "19b37f4ae6c22ecb9bb56c2b697dc2cd640c6aa4",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/auditlog-viewer.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/auditlog-viewer.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "ca887eb713bc93b20a6b7dca63081c84f726c007",
+      "sha": "d0d1c848632eac39eb6e0c2acfa09296906b3081",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
