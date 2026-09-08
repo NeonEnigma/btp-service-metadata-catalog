@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-09-08T05:42:15Z",
+  "generated_at_utc": "2026-09-08T10:44:23Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "6c057ec830ecd84f2b56e9386fef8d8e533afd33"
+    "head_sha": "676d7314f0e82da956ed3525d0cdeaf18d403ad5"
   },
   "count": 604,
   "errors": 0,
@@ -349,7 +349,7 @@
     {
       "metadata": "{\"name\": \"auditlog\", \"description\": \"Allow users to ingest compliance audit data from SAP BTP services and applications and store it for a default retention time of 90 days (with no additional costs applied). The ability to retrieve and download this data within this period is part of Auditlog Management Service. The service serves to support audit activities by prove wrongdoing and identifying malicious activities and provision of forensic evidence that can be used at Court. The scope of the service are secure and configuration change information records, data privacy specific logs, logs motivated by Multiple Regulations. The service is following each SAP Product standards and GDPR Compliance regulations.\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/#/serviceCatalog/audit-log-service\"}",
       "path": "v1/developer/auditlog.json",
-      "sha": "7d80c4939891d017ef92bb187d25a5f65333100f",
+      "sha": "33da78c9a66d843aebea96b5177bbee89d7c498c",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/auditlog.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/auditlog.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "a9619949b1cdabfcc22e5d68ab44d32cc99a9711",
+      "sha": "fe9bbc56265bc12dd2c2d361b80c37863726596c",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
