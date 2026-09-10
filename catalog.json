@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-09-10T05:51:54Z",
+  "generated_at_utc": "2026-09-10T10:47:19Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "ec6a4002a6b594b52089e651823cfed30f0690c1"
+    "head_sha": "85285129907efc0a1d3818a24446395cd5efba36"
   },
   "count": 604,
   "errors": 0,
@@ -1182,7 +1182,7 @@
     {
       "metadata": "{\"name\": \"document-grounding\", \"description\": \"Document Grounding\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/joule/joule-capabilities/set-up-document-grounding-capability\"}",
       "path": "v1/developer/document-grounding.json",
-      "sha": "91bbf1aa927fb86d5a36075dbd5c04b13cdae64c",
+      "sha": "1c28bcd3525d3e0341a122486de64b669b198324",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/document-grounding.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/document-grounding.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "7a77b3279d2e004c2bad4f462f98ef6762e2f4cb",
+      "sha": "935cd541a6892be57fc2b671d3193a4ca5dc2a6d",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -3233,7 +3233,7 @@
     {
       "metadata": "{\"name\": \"procplan\", \"description\": \"SAP Ariba Procurement Planning\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_PROCUREMENT_PLANNING/LATEST/en-US\"}",
       "path": "v1/developer/procplan.json",
-      "sha": "cfb95124409676b0c7e9de276d6cba4f9f6ffb10",
+      "sha": "30ae3764349e0eea22c8fcf7f3ef441f2adee733",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/procplan.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/procplan.json"
     },
