@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-09-11T03:22:21Z",
+  "generated_at_utc": "2026-09-11T08:40:10Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "85285129907efc0a1d3818a24446395cd5efba36"
+    "head_sha": "ddf61a8831ad51c0b13f8750a4a9659b9455e406"
   },
   "count": 604,
   "errors": 0,
@@ -216,7 +216,7 @@
     {
       "metadata": "{\"name\": \"apimanagement-devportal-trial\", \"description\": \"API Management, developer portal\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/BTP/66d066d903c2473f81ec33acfe2ccdb4/e765066197904519a730c3bca40f28b0.html\"}",
       "path": "v1/developer/apimanagement-devportal-trial.json",
-      "sha": "fe96212d4c611a619b24b45387f130c0406064cc",
+      "sha": "0c4c9d5a5aaacff806c0cf81e048e4a2a7001c5f",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/apimanagement-devportal-trial.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/apimanagement-devportal-trial.json"
     },
@@ -1126,14 +1126,14 @@
     {
       "metadata": "{\"name\": \"digital-manufacturing-services-quality\", \"description\": \"SAP Digital Manufacturing Services with plans Execution, Insights, Supplier and Partner for quality landscapes.\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_DIGITAL_MANUFACTURING_CLOUD\"}",
       "path": "v1/developer/digital-manufacturing-services-quality.json",
-      "sha": "6d21f4db02a3e83c64b103c7183076f942015e58",
+      "sha": "ae52b230b328cf1faec56e74779668a5113a61e9",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/digital-manufacturing-services-quality.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/digital-manufacturing-services-quality.json"
     },
     {
       "metadata": "{\"name\": \"digital-manufacturing-services\", \"description\": \"SAP Digital Manufacturing\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/sap-digital-manufacturing\"}",
       "path": "v1/developer/digital-manufacturing-services.json",
-      "sha": "c91d9304076ad9bf49cb1d2cdd82280ea3bdb9ca",
+      "sha": "80fab231e0587794dafd28737d35c919f09346b0",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/digital-manufacturing-services.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/digital-manufacturing-services.json"
     },
@@ -1182,7 +1182,7 @@
     {
       "metadata": "{\"name\": \"document-grounding\", \"description\": \"Document Grounding\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/joule/joule-capabilities/set-up-document-grounding-capability\"}",
       "path": "v1/developer/document-grounding.json",
-      "sha": "1c28bcd3525d3e0341a122486de64b669b198324",
+      "sha": "2d7b58e53f9ba2dab512ecc38e21938c9a2d0ef8",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/document-grounding.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/document-grounding.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "935cd541a6892be57fc2b671d3193a4ca5dc2a6d",
+      "sha": "890b18dff30e2cf178a98ad3098d5b331d6b293d",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -2015,7 +2015,7 @@
     {
       "metadata": "{\"name\": \"integration-suite-advanced-event-mesh\", \"description\": \"Advanced event mesh for SAP Integration Suite is a complete event streaming, event management, and monitoring platform that incorporates best practices, expertise, and technology for event-driven architecture (EDA) on a single platform.\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/advanced-event-mesh\"}",
       "path": "v1/developer/integration-suite-advanced-event-mesh.json",
-      "sha": "6e436cd37b3f4babf6bb871791d3796357ccf96a",
+      "sha": "28a86e8da094c5cd679b24083dc92e3165b13450",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/integration-suite-advanced-event-mesh.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/integration-suite-advanced-event-mesh.json"
     },
