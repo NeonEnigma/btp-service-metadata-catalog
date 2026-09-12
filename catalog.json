@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-09-12T03:26:45Z",
+  "generated_at_utc": "2026-09-12T08:25:52Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "ddf61a8831ad51c0b13f8750a4a9659b9455e406"
+    "head_sha": "b416ded566b463648c7de59dfa54d527a57b7e2c"
   },
   "count": 604,
   "errors": 0,
@@ -958,7 +958,7 @@
     {
       "metadata": "{\"name\": \"custom-domain-manager\", \"description\": \"Custom Domain Service\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/CUSTOM_DOMAINS\"}",
       "path": "v1/developer/custom-domain-manager.json",
-      "sha": "ac2a9f81f33e410e2861d517eff368d3e4a283e5",
+      "sha": "0dd820f766b8090e71b37164d296e80c95f02b4c",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/custom-domain-manager.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/custom-domain-manager.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "890b18dff30e2cf178a98ad3098d5b331d6b293d",
+      "sha": "9ddecbf1a7300c8d4fbdbe8ce24eea51cda26f9d",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -2001,7 +2001,7 @@
     {
       "metadata": "{\"name\": \"INFRA\", \"description\": \"Custom Domain Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/custom-domain\"}",
       "path": "v1/developer/infra.json",
-      "sha": "1a7998e694ac2516ca744bfd111fc53a347fab0a",
+      "sha": "2f0e751148dd28fea5c808e306a9d6442eea93bf",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/infra.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/infra.json"
     },
@@ -2029,7 +2029,7 @@
     {
       "metadata": "{\"name\": \"integrationsuite\", \"description\": \"Integration Suite\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/integration-suite\"}",
       "path": "v1/developer/integrationsuite.json",
-      "sha": "ebc5441bfa9bdbfdb8af4154319ee90b984fd665",
+      "sha": "dae86f96f49ca6479f4aea8c783735ca0f6c3a3c",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/integrationsuite.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/integrationsuite.json"
     },
@@ -3357,16 +3357,16 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/redis.json"
     },
     {
-      "metadata": "{\"name\": \"reo-dmc-sap-quality\", \"description\": \"SAP Digital Manufacturing for resource orchestration, Test\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_DIGITAL_MANUFACTURING_CLOUD\"}",
+      "metadata": "{\"name\": \"reo-dmc-sap-quality\", \"description\": \"SAP Digital Manufacturing for resource orchestration, Test\", \"deprecated\": false, \"link\": \"https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/reo-dmc-sap-quality.json\"}",
       "path": "v1/developer/reo-dmc-sap-quality.json",
-      "sha": "beec8e5b3254fd70fe07cc169de0f4f7f9b7262b",
+      "sha": "cf0b71aa9da75764919509d52a614ee6d2fb877f",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/reo-dmc-sap-quality.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/reo-dmc-sap-quality.json"
     },
     {
-      "metadata": "{\"name\": \"reo-dmc-sap\", \"description\": \"SAP Digital Manufacturing for resource orchestration\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_DIGITAL_MANUFACTURING_CLOUD\"}",
+      "metadata": "{\"name\": \"reo-dmc-sap\", \"description\": \"SAP Digital Manufacturing Cloud for resource orchestration\", \"deprecated\": false, \"link\": \"https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/reo-dmc-sap.json\"}",
       "path": "v1/developer/reo-dmc-sap.json",
-      "sha": "e057cb4f435e8ba697acaea7c8a17b37f552bd70",
+      "sha": "a5a530ef0aa6e3e270eb98e67015058b656ab222",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/reo-dmc-sap.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/reo-dmc-sap.json"
     },
