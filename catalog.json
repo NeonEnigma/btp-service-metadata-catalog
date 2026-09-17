@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-09-17T05:49:47Z",
+  "generated_at_utc": "2026-09-17T11:06:43Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "c6b845a4501cc0d1511156a8919aed3b4bfaa68b"
+    "head_sha": "ee98960c225174baa8f47395a93b1545235bca53"
   },
   "count": 604,
   "errors": 0,
@@ -370,7 +370,7 @@
     {
       "metadata": "{\"name\": \"autoscaler\", \"description\": \"Application Autoscaler\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/#/serviceCatalog/application-autoscaler\"}",
       "path": "v1/developer/autoscaler.json",
-      "sha": "467be014202bfc76e41bafd8cc0f74614b698030",
+      "sha": "e0af020b18c6c8fb447a49fbd98f0bfce37b0d8d",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/autoscaler.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/autoscaler.json"
     },
@@ -655,9 +655,9 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/central-invoice-management-api.json"
     },
     {
-      "metadata": "{\"name\": \"cgtorch-preprod\", \"description\": \"SAP Cell and Gene Therapy Orchestration Preview\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/DRAFT/SAP_CGT_ORCH/SHIP/en-US\"}",
+      "metadata": "{\"name\": \"cgtorch-preprod\", \"description\": \"SAP Advanced Therapy Orchestration Preview\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/DRAFT/SAP_CGT_ORCH/SHIP/en-US\"}",
       "path": "v1/developer/cgtorch-preprod.json",
-      "sha": "22ff7057816ca3578c31923ee2c501aefb3f4560",
+      "sha": "7ea12a47ce6311b8ac6b3563f6af0accc5a294fe",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/cgtorch-preprod.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/cgtorch-preprod.json"
     },
@@ -776,7 +776,7 @@
     {
       "metadata": "{\"name\": \"connectivity\", \"description\": \"Connectivity Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/#/serviceCatalog/connectivity-service\"}",
       "path": "v1/developer/connectivity.json",
-      "sha": "9b87aa7791e3797e4d5e8e2743bd15abfe043f0b",
+      "sha": "27a0e3fe1c922c4385846d3a1ebb9ebc42e4d3ad",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/connectivity.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/connectivity.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "48ba7f8751f2b3d4c55897dcb1dd7065a3d3281d",
+      "sha": "86a0d04d6ed1c21bc6db735b743331270c1b6857",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -1840,7 +1840,7 @@
     {
       "metadata": "{\"name\": \"hana\", \"description\": \"SAP HANA Schemas & HDI Containers\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/btp/sap-business-technology-platform/btp-getting-support\"}",
       "path": "v1/developer/hana.json",
-      "sha": "e28e54b7e0f5531d9176c415bd0428e03dead968",
+      "sha": "a6753d7d2f74a0d4f51e322d3c03a81b455c1d6e",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana.json"
     },
@@ -2218,7 +2218,7 @@
     {
       "metadata": "{\"name\": \"jobscheduler\", \"description\": \"Job Scheduling Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/job-scheduling-service\"}",
       "path": "v1/developer/jobscheduler.json",
-      "sha": "52ba455673f8c07561c60f81cf0e0ee32c6e1e3a",
+      "sha": "d9d4fa604a3f032cb2a69450f5ea808ffa7ee257",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/jobscheduler.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/jobscheduler.json"
     },
@@ -2505,7 +2505,7 @@
     {
       "metadata": "{\"name\": \"malware-scanner\", \"description\": \"Malware Scanning Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/malware-scanning-service\"}",
       "path": "v1/developer/malware-scanner.json",
-      "sha": "2f89fdbcf0a242dfcd1e2f3b14dcabce0f4930ad",
+      "sha": "ca5325bd3885ed7c38c605ef6cb621d3c29f4cc0",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/malware-scanner.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/malware-scanner.json"
     },
@@ -2820,7 +2820,7 @@
     {
       "metadata": "{\"name\": \"objectstore\", \"description\": \"Object Store\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/object-store\"}",
       "path": "v1/developer/objectstore.json",
-      "sha": "b65157101f95e3f488d1810b0a6f30198d404add",
+      "sha": "eeb09d8f7484c8cddf1c1bc5e0dca0de1507acf8",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/objectstore.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/objectstore.json"
     },
@@ -3518,9 +3518,9 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sap-cash-application-production.json"
     },
     {
-      "metadata": "{\"name\": \"sap-cell-gene-therapy-orchestration-api-preprod\", \"description\": \"SAP Cell and Gene Therapy Orchestration Preview\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/DRAFT/SAP_CGT_ORCH/SHIP/en-US\"}",
+      "metadata": "{\"name\": \"sap-cell-gene-therapy-orchestration-api-preprod\", \"description\": \"SAP Advanced Therapy Orchestration Preview\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/DRAFT/SAP_CGT_ORCH/SHIP/en-US\"}",
       "path": "v1/developer/sap-cell-gene-therapy-orchestration-api-preprod.json",
-      "sha": "49e67d349cd72f65a4a661b8483601a748ab7530",
+      "sha": "034c9de93b52a160a638859f9d096aca5543d63c",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sap-cell-gene-therapy-orchestration-api-preprod.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sap-cell-gene-therapy-orchestration-api-preprod.json"
     },
