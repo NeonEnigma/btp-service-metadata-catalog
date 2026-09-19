@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-09-19T03:28:21Z",
+  "generated_at_utc": "2026-09-19T08:37:02Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "4382c6c5081b5e9f56ee7ecf2a82c3a98d2a7578"
+    "head_sha": "ad4a8910e73f37fe43b3f7c762dce28cd4b5231e"
   },
   "count": 604,
   "errors": 0,
@@ -286,7 +286,7 @@
     {
       "metadata": "{\"name\": \"asp-vistex-gtms\", \"description\": \"SAP margin optimization solutions by Vistex\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SALES_SOLUTIONS_BY_VISTEX_CLOUD\"}",
       "path": "v1/developer/asp-vistex-gtms.json",
-      "sha": "ca423bef20dc346f004770c28de81443a788dbd9",
+      "sha": "fe035947e6d286666480727e3f1e5c9a3f5855bc",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/asp-vistex-gtms.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/asp-vistex-gtms.json"
     },
@@ -769,14 +769,14 @@
     {
       "metadata": "{\"name\": \"connectivity-central\", \"description\": \"Connectivity Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/#/serviceCatalog/connectivity-service\"}",
       "path": "v1/developer/connectivity-central.json",
-      "sha": "034f7d9a77e73ee7a123f84b5a986c1e6c78fcc6",
+      "sha": "bf2933ec300e5b4c2bf45f19f4bb53bc17fd6750",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/connectivity-central.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/connectivity-central.json"
     },
     {
       "metadata": "{\"name\": \"connectivity\", \"description\": \"Connectivity Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/#/serviceCatalog/connectivity-service\"}",
       "path": "v1/developer/connectivity.json",
-      "sha": "f942edbbcb7651099d8f87668a10d957fa07002e",
+      "sha": "9ed514a07e31c0d3f3b29cab8b2cb45ad6833b36",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/connectivity.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/connectivity.json"
     },
@@ -1084,7 +1084,7 @@
     {
       "metadata": "{\"name\": \"destination\", \"description\": \"Destination Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/#/serviceCatalog/destination\"}",
       "path": "v1/developer/destination.json",
-      "sha": "895c45ef44da1bed85436d06d4c70303b410f140",
+      "sha": "83887a5e71123ffc8983362bb506b4e1d9763ae3",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/destination.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/destination.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "d3c1f2b37ef2d32b7e604b0b99f7fe049723ca38",
+      "sha": "c1209a13555e3c16c84cc88f4220a37cd73d65ea",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -3184,7 +3184,7 @@
     {
       "metadata": "{\"name\": \"privatelink\", \"description\": \"Private Link Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/private-link-service\"}",
       "path": "v1/developer/privatelink.json",
-      "sha": "80d7eab1c64d92863011e3967a3bc22e78ad370f",
+      "sha": "fc764f700d85dc8784804019137245428ef2c414",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/privatelink.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/privatelink.json"
     },
