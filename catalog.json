@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-09-20T05:47:44Z",
+  "generated_at_utc": "2026-09-20T10:46:13Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "ad4a8910e73f37fe43b3f7c762dce28cd4b5231e"
+    "head_sha": "b5430486c49c36805ce40f44c3c5f70c958e3c01"
   },
   "count": 604,
   "errors": 0,
@@ -1665,14 +1665,14 @@
     {
       "metadata": "{\"name\": \"feature-flags-dashboard\", \"description\": \"Feature Flags Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/feature-flags-service\"}",
       "path": "v1/developer/feature-flags-dashboard.json",
-      "sha": "0b0848d523fa49e77668d374ed01ef6b9be4f777",
+      "sha": "e0d0e52473b8a077d698e773ab521958ef8f6a05",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/feature-flags-dashboard.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/feature-flags-dashboard.json"
     },
     {
       "metadata": "{\"name\": \"feature-flags\", \"description\": \"Feature Flags Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/feature-flags-service\"}",
       "path": "v1/developer/feature-flags.json",
-      "sha": "8942807f063c29156d6be94cc99419bc36149b8d",
+      "sha": "f6bbb7ae876d9ce23e0478fa248eafad179a05ea",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/feature-flags.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/feature-flags.json"
     },
@@ -1826,7 +1826,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "c1209a13555e3c16c84cc88f4220a37cd73d65ea",
+      "sha": "3a7724f9505c35595bd7e7ae14f4fe4acd85a967",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -1868,7 +1868,7 @@
     {
       "metadata": "{\"name\": \"html5-apps-repo\", \"description\": \"HTML5 Application Repository Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/html5-application-repository-service\"}",
       "path": "v1/developer/html5-apps-repo.json",
-      "sha": "a0d6bdc6cee4f7cc36f3e0489bcdee752bac348b",
+      "sha": "7cdb18c48954615c947ba8596218ee9eba263aaa",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/html5-apps-repo.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/html5-apps-repo.json"
     },
@@ -3184,7 +3184,7 @@
     {
       "metadata": "{\"name\": \"privatelink\", \"description\": \"Private Link Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/private-link-service\"}",
       "path": "v1/developer/privatelink.json",
-      "sha": "fc764f700d85dc8784804019137245428ef2c414",
+      "sha": "6954bf2666bfe7b8db0c2eb02d4efca49f2a8312",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/privatelink.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/privatelink.json"
     },
