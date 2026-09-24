@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": "2026-09-24T01:11:38Z",
+  "generated_at_utc": "2026-09-24T07:18:33Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "fbd5ea096ce1225c37473236f461be639d14b775"
+    "head_sha": "d516cdf23c3b6b4af13efa59c9baf604b2133ea3"
   },
-  "count": 604,
+  "count": 605,
   "errors": 0,
   "services": [
     {
@@ -655,30 +655,30 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/central-invoice-management-api.json"
     },
     {
-      "metadata": "{\"name\": \"cgtorch-preprod\", \"description\": \"SAP Advanced Therapy Orchestration Preview\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/DRAFT/SAP_CGT_ORCH/SHIP/en-US\"}",
+      "metadata": "{\"name\": \"cgtorch-preprod\", \"description\": \"SAP Advanced Therapy Orchestration Preview\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_CGT_ORCH\"}",
       "path": "v1/developer/cgtorch-preprod.json",
-      "sha": "7ea12a47ce6311b8ac6b3563f6af0accc5a294fe",
+      "sha": "6f7dbda46f30498e39c46233d501ddee79893adf",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/cgtorch-preprod.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/cgtorch-preprod.json"
     },
     {
-      "metadata": "{\"name\": \"cgtorch-preprodext\", \"description\": \"SAP Cell and Gene Therapy Orchestration Preview Extension\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/DRAFT/SAP_CGT_ORCH/SHIP/en-US\"}",
+      "metadata": "{\"name\": \"cgtorch-preprodext\", \"description\": \"SAP Advanced Therapy Orchestration Preview Extension\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_CGT_ORCH\"}",
       "path": "v1/developer/cgtorch-preprodext.json",
-      "sha": "80747064b6a2f766660d9bc9d11ad24f72b09c63",
+      "sha": "d4dfaa322740463c3aada963e1b4bfaa75122a02",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/cgtorch-preprodext.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/cgtorch-preprodext.json"
     },
     {
-      "metadata": "{\"name\": \"cgtorch-prerelval\", \"description\": \"SAP Cell and Gene Therapy Orchestration Preview Validation\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/DRAFT/SAP_CGT_ORCH/SHIP/en-US\"}",
+      "metadata": "{\"name\": \"cgtorch-prerelval\", \"description\": \"SAP Advanced Therapy Orchestration Preview Validation\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_CGT_ORCH\"}",
       "path": "v1/developer/cgtorch-prerelval.json",
-      "sha": "46fcee160e1bc37dd2dd9786128ff4c586a22472",
+      "sha": "a8d736e2c83d42dbd70bee250f1f778c3d090984",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/cgtorch-prerelval.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/cgtorch-prerelval.json"
     },
     {
-      "metadata": "{\"name\": \"cgtorch\", \"description\": \"SAP Cell and Gene Therapy Orchestration\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_CGT_ORCH\"}",
+      "metadata": "{\"name\": \"cgtorch\", \"description\": \"SAP Advanced Therapy Orchestration\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_CGT_ORCH\"}",
       "path": "v1/developer/cgtorch.json",
-      "sha": "4ad4fd20e8482d9e9ab0be2b6cf0fe0fc61dedc8",
+      "sha": "a24ca3c8de2d865b70a796a2266f448916e572e2",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/cgtorch.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/cgtorch.json"
     },
@@ -1049,14 +1049,14 @@
     {
       "metadata": "{\"name\": \"data-privacy-integration-application\", \"description\": \"Data Privacy Integration\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/data-privacy-integration\"}",
       "path": "v1/developer/data-privacy-integration-application.json",
-      "sha": "cfcadc5618dc8e06d66d6b249d9ef26918ba6977",
+      "sha": "8f761eb2134511d53c51ee4646d9e10536311174",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/data-privacy-integration-application.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/data-privacy-integration-application.json"
     },
     {
       "metadata": "{\"name\": \"data-privacy-integration-service\", \"description\": \"Data Privacy Integration\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/data-privacy-integration\"}",
       "path": "v1/developer/data-privacy-integration-service.json",
-      "sha": "e617aedda1c946f98bf30c146bb3298d450656da",
+      "sha": "81c8f676b985db104ca4dec6623c5950b2430356",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/data-privacy-integration-service.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/data-privacy-integration-service.json"
     },
@@ -1080,6 +1080,13 @@
       "sha": "4b98491c84f36d9f4c5a486273621d8af0853612",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/decentralized-identity-management.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/decentralized-identity-management.json"
+    },
+    {
+      "metadata": "{\"name\": \"der-customer-test\", \"description\": \"SAP Distributed Energy Resources - Test\", \"deprecated\": false, \"link\": \"https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/der-customer-test.json\"}",
+      "path": "v1/developer/der-customer-test.json",
+      "sha": "6fe852da064984e07ef4b343907acd6910be9bf9",
+      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/der-customer-test.json",
+      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/der-customer-test.json"
     },
     {
       "metadata": "{\"name\": \"destination\", \"description\": \"Destination Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/#/serviceCatalog/destination\"}",
@@ -1826,7 +1833,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "0f3911437f27c59a2d0ee9a823cc67c03b48d618",
+      "sha": "84e7d3d8c5e87c687161ccae94b2385fffa2c910",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -1882,7 +1889,7 @@
     {
       "metadata": "{\"name\": \"iag\", \"description\": \"SAP Cloud Identity Access Governance\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_CLOUD_IDENTITY_ACCESS_GOVERNANCE\"}",
       "path": "v1/developer/iag.json",
-      "sha": "ae3741c09fca4df88b6c9017d46382b92ccd9b87",
+      "sha": "0564c3786ef2cdd0997e57c90a5b6d2b4f53ac36",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/iag.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/iag.json"
     },
@@ -1896,7 +1903,7 @@
     {
       "metadata": "{\"name\": \"iagintg\", \"description\": \"SAP Cloud Identity Access Governance, integration edition\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/SAP_CLOUD_IDENTITY_ACCESS_GOVERNANCE\"}",
       "path": "v1/developer/iagintg.json",
-      "sha": "0be0e5ffae7948036c1e94dbd22252014e85e87c",
+      "sha": "f7bcd14539a5916ba0386f826b88f3ee505d62ce",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/iagintg.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/iagintg.json"
     },
@@ -3518,30 +3525,30 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sap-cash-application-production.json"
     },
     {
-      "metadata": "{\"name\": \"sap-cell-gene-therapy-orchestration-api-preprod\", \"description\": \"SAP Advanced Therapy Orchestration Preview\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/DRAFT/SAP_CGT_ORCH/SHIP/en-US\"}",
+      "metadata": "{\"name\": \"sap-cell-gene-therapy-orchestration-api-preprod\", \"description\": \"SAP Advanced Therapy Orchestration Preview\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_CGT_ORCH\"}",
       "path": "v1/developer/sap-cell-gene-therapy-orchestration-api-preprod.json",
-      "sha": "034c9de93b52a160a638859f9d096aca5543d63c",
+      "sha": "a38ee6a6c7185a78cd922934d6a35e63c17a92a4",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sap-cell-gene-therapy-orchestration-api-preprod.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sap-cell-gene-therapy-orchestration-api-preprod.json"
     },
     {
-      "metadata": "{\"name\": \"sap-cell-gene-therapy-orchestration-api-preprodext\", \"description\": \"SAP Cell and Gene Therapy Orchestration Preview Extension\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/DRAFT/SAP_CGT_ORCH/SHIP/en-US\"}",
+      "metadata": "{\"name\": \"sap-cell-gene-therapy-orchestration-api-preprodext\", \"description\": \"SAP Advanced Therapy Orchestration Preview Extension\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_CGT_ORCH\"}",
       "path": "v1/developer/sap-cell-gene-therapy-orchestration-api-preprodext.json",
-      "sha": "0cde49346f1134c4099dfb4f7a70cea47051fb6b",
+      "sha": "2afb08ff99c1fb9ccba609c90e647157d08f8292",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sap-cell-gene-therapy-orchestration-api-preprodext.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sap-cell-gene-therapy-orchestration-api-preprodext.json"
     },
     {
-      "metadata": "{\"name\": \"sap-cell-gene-therapy-orchestration-api-prerelval\", \"description\": \"SAP Cell and Gene Therapy Orchestration Preview Validation\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/DRAFT/SAP_CGT_ORCH/SHIP/en-US\"}",
+      "metadata": "{\"name\": \"sap-cell-gene-therapy-orchestration-api-prerelval\", \"description\": \"SAP Advanced Therapy Orchestration Preview Validation\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_CGT_ORCH\"}",
       "path": "v1/developer/sap-cell-gene-therapy-orchestration-api-prerelval.json",
-      "sha": "532c6ffbcb7f7b275a29ec948fcf0452cb93c10d",
+      "sha": "ff0b1b108205fa109c88b332df5312f3beffbeb8",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sap-cell-gene-therapy-orchestration-api-prerelval.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sap-cell-gene-therapy-orchestration-api-prerelval.json"
     },
     {
-      "metadata": "{\"name\": \"sap-cell-gene-therapy-orchestration-api-service\", \"description\": \"SAP Cell and Gene Therapy Orchestration\", \"deprecated\": false, \"link\": \"https://help.sap.com/cgto\"}",
+      "metadata": "{\"name\": \"sap-cell-gene-therapy-orchestration-api-service\", \"description\": \"SAP Advanced Therapy Orchestration\", \"deprecated\": false, \"link\": \"https://help.sap.com/cgto\"}",
       "path": "v1/developer/sap-cell-gene-therapy-orchestration-api-service.json",
-      "sha": "f93d5f52b18519421a2875a1bee307bf9cd7eaae",
+      "sha": "272b1f466d741aac35fe73474882fed80a1b02eb",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sap-cell-gene-therapy-orchestration-api-service.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sap-cell-gene-therapy-orchestration-api-service.json"
     },
