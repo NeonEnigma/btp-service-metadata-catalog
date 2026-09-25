@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-09-25T01:10:41Z",
+  "generated_at_utc": "2026-09-25T07:12:42Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "d516cdf23c3b6b4af13efa59c9baf604b2133ea3"
+    "head_sha": "eb96fe5fd77f91548aaa8beea49b6c13e8b93f48"
   },
   "count": 605,
   "errors": 0,
@@ -713,7 +713,7 @@
     {
       "metadata": "{\"name\": \"cloud-logging\", \"description\": \"Cloud Logging\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/cloud-logging\"}",
       "path": "v1/developer/cloud-logging.json",
-      "sha": "9b81523e8ec96ab98df411a08a4cb661e55115f8",
+      "sha": "982e8bde61530f3de404cb2ce319272d180218bd",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/cloud-logging.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/cloud-logging.json"
     },
@@ -1833,7 +1833,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "84e7d3d8c5e87c687161ccae94b2385fffa2c910",
+      "sha": "ebd5b9f28521e2c092241a835920ad020a29fe20",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -3191,7 +3191,7 @@
     {
       "metadata": "{\"name\": \"privatelink\", \"description\": \"Private Link Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/private-link-service\"}",
       "path": "v1/developer/privatelink.json",
-      "sha": "6954bf2666bfe7b8db0c2eb02d4efca49f2a8312",
+      "sha": "c0fc51187aafbb44bfbf1f81ee27b4b470a5bfa1",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/privatelink.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/privatelink.json"
     },
