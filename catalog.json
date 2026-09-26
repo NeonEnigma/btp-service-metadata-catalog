@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": "2026-09-26T05:54:44Z",
+  "generated_at_utc": "2026-09-26T10:55:58Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "eb96fe5fd77f91548aaa8beea49b6c13e8b93f48"
+    "head_sha": "c38bd28f65680e0c96bde719a9d4478acf683670"
   },
-  "count": 605,
+  "count": 606,
   "errors": 0,
   "services": [
     {
@@ -1082,9 +1082,16 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/decentralized-identity-management.json"
     },
     {
+      "metadata": "{\"name\": \"der-ctest-api\", \"description\": \"SAP Distributed Energy Resources Test API\", \"deprecated\": false, \"link\": \"https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/der-ctest-api.json\"}",
+      "path": "v1/developer/der-ctest-api.json",
+      "sha": "a94a267552baafb80db96bf09090037c73e13b30",
+      "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/der-ctest-api.json",
+      "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/der-ctest-api.json"
+    },
+    {
       "metadata": "{\"name\": \"der-customer-test\", \"description\": \"SAP Distributed Energy Resources - Test\", \"deprecated\": false, \"link\": \"https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/der-customer-test.json\"}",
       "path": "v1/developer/der-customer-test.json",
-      "sha": "6fe852da064984e07ef4b343907acd6910be9bf9",
+      "sha": "5ae41dbd983bfd0aa9c214870b35dfcb0f79ee47",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/der-customer-test.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/der-customer-test.json"
     },
@@ -1833,7 +1840,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "ebd5b9f28521e2c092241a835920ad020a29fe20",
+      "sha": "6d039860e56d50ee90bf062b9f1f98d3f2ffeb47",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
