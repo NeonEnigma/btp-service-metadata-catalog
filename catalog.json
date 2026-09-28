@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-09-28T04:02:59Z",
+  "generated_at_utc": "2026-09-28T11:28:57Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "42b7f444f6578b727121ed83c527622a204c1810"
+    "head_sha": "1b6776d48ab7662fe13e8ce49699cccfbf199bf0"
   },
   "count": 606,
   "errors": 0,
@@ -34,7 +34,7 @@
     {
       "metadata": "{\"name\": \"abap\", \"description\": \"ABAP environment\", \"deprecated\": true, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/abap-environment\"}",
       "path": "v1/developer/abap.json",
-      "sha": "fef30880931155cf8ac0c748b1c4a4c9f6464b21",
+      "sha": "411d801ce37f0de158022db1755f62b96493c146",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/abap.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/abap.json"
     },
