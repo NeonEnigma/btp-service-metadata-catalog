@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-10-02T01:20:18Z",
+  "generated_at_utc": "2026-10-02T08:00:31Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "c851456054a5b524f944cf7b8d971b0d84479d75"
+    "head_sha": "d9a42810b8674e0a3c0cf4b82ee79f5c31ab9d54"
   },
   "count": 606,
   "errors": 0,
@@ -1371,14 +1371,14 @@
     {
       "metadata": "{\"name\": \"enterprise-messaging-hub\", \"description\": \"Event Mesh\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_ENTERPRISE_MESSAGING\"}",
       "path": "v1/developer/enterprise-messaging-hub.json",
-      "sha": "2d225d5912e1c1ce751c143331a976f4ff113912",
+      "sha": "3e854aad80079cf65710d32378bdf542b36a9b83",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/enterprise-messaging-hub.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/enterprise-messaging-hub.json"
     },
     {
       "metadata": "{\"name\": \"enterprise-messaging\", \"description\": \"Event Mesh\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/event-mesh\"}",
       "path": "v1/developer/enterprise-messaging.json",
-      "sha": "440685ccd3cad612ae7dd252b47740141b55180d",
+      "sha": "9072531b19eaeffeac3a03e75fdef13aaad44d5c",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/enterprise-messaging.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/enterprise-messaging.json"
     },
@@ -1616,7 +1616,7 @@
     {
       "metadata": "{\"name\": \"event-mesh-message-client\", \"description\": \"Provides access to message client of Event Mesh capability of Integration Suite. You need this service instance to create a message client that will let you publish and consume events.\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/integration-suite?region=all&tab=service_plan\"}",
       "path": "v1/developer/event-mesh-message-client.json",
-      "sha": "561775a0dafd05d57e06c3204cb30f20c5ecb1fa",
+      "sha": "1af1f877d9f120131b0454d5625d1f62f471c7b9",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/event-mesh-message-client.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/event-mesh-message-client.json"
     },
@@ -1840,7 +1840,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "2ff9e17ad47ab8ca1f3bf1b7a1721a3d99e721b8",
+      "sha": "04e24765389c498865fc586a1f337474c593e76e",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -3065,7 +3065,7 @@
     {
       "metadata": "{\"name\": \"postgresql-db\", \"description\": \"PostgreSQL on SAP BTP, hyperscaler option provides a managed relational database service, based on native PostgreSQL offerings from cloud providers AWS, Microsoft Azure, Google Cloud Platform and Alicloud.\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/postgresql-hyperscaler-option\"}",
       "path": "v1/developer/postgresql-db.json",
-      "sha": "f7bc410eb0d39dc76ab233eba5bfca5b5dfb1cd9",
+      "sha": "ae0614f7ea16624100d47e23de179435a159ef16",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/postgresql-db.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/postgresql-db.json"
     },
