@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-10-03T04:06:19Z",
+  "generated_at_utc": "2026-10-03T10:14:39Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "d9a42810b8674e0a3c0cf4b82ee79f5c31ab9d54"
+    "head_sha": "e448d9c65549555e74418e4273d2b6baa099924e"
   },
   "count": 606,
   "errors": 0,
@@ -790,14 +790,14 @@
     {
       "metadata": "{\"name\": \"content-agent-ui\", \"description\": \"Content Agent Service\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/BTP/ae1a4f2d150d468d9ff56e13f9898e07/9d9f235a96a947f5986021bbcebcef8c.html\"}",
       "path": "v1/developer/content-agent-ui.json",
-      "sha": "a0fc1062f21de8ea48f8790147de7b63d109efde",
+      "sha": "86c0d506d56e4fbf3f11d08936de1f5e87c37d6f",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/content-agent-ui.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/content-agent-ui.json"
     },
     {
       "metadata": "{\"name\": \"content-agent\", \"description\": \"Content Agent Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/content-agent\"}",
       "path": "v1/developer/content-agent.json",
-      "sha": "d2ef960bb2eff1770be6d0393f363e37e87d69e8",
+      "sha": "b430a32ab97a2ed54d3901ac1e41211a21938693",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/content-agent.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/content-agent.json"
     },
@@ -888,7 +888,7 @@
     {
       "metadata": "{\"name\": \"credstore\", \"description\": \"Credential Store\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/credential-store\"}",
       "path": "v1/developer/credstore.json",
-      "sha": "bc814b598bf04a795a2458f6a99778494e15ad79",
+      "sha": "6baa67fbccd5497c389097d2df8e759862d5b3e1",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/credstore.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/credstore.json"
     },
@@ -1840,7 +1840,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "04e24765389c498865fc586a1f337474c593e76e",
+      "sha": "e04e7714ba4ad29118b09d96b9be2978947d5958",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -3065,7 +3065,7 @@
     {
       "metadata": "{\"name\": \"postgresql-db\", \"description\": \"PostgreSQL on SAP BTP, hyperscaler option provides a managed relational database service, based on native PostgreSQL offerings from cloud providers AWS, Microsoft Azure, Google Cloud Platform and Alicloud.\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/postgresql-hyperscaler-option\"}",
       "path": "v1/developer/postgresql-db.json",
-      "sha": "ae0614f7ea16624100d47e23de179435a159ef16",
+      "sha": "2e3d4ecf6f1075844f3ba37f16b175bc92d5a4dc",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/postgresql-db.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/postgresql-db.json"
     },
