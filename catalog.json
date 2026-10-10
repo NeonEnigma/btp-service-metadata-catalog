@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-10-10T04:40:18Z",
+  "generated_at_utc": "2026-10-10T10:59:27Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "51542345849305746b3b44e5e5d6fbc93545c7ca"
+    "head_sha": "2ee0a6b8fde190ebf69377b64c8fd09aca28572e"
   },
   "count": 606,
   "errors": 0,
@@ -223,7 +223,7 @@
     {
       "metadata": "{\"name\": \"apimanagement-devportal\", \"description\": \"API Management, developer portal\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/BTP/66d066d903c2473f81ec33acfe2ccdb4/e765066197904519a730c3bca40f28b0.html\"}",
       "path": "v1/developer/apimanagement-devportal.json",
-      "sha": "e007e0458570f74fab67473f75e4b04eed5e0ab2",
+      "sha": "d103356aa93205386195a47c9ef8b3cc76920a8d",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/apimanagement-devportal.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/apimanagement-devportal.json"
     },
@@ -713,7 +713,7 @@
     {
       "metadata": "{\"name\": \"cloud-logging\", \"description\": \"Cloud Logging\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/cloud-logging\"}",
       "path": "v1/developer/cloud-logging.json",
-      "sha": "982e8bde61530f3de404cb2ce319272d180218bd",
+      "sha": "a6b9d69235ce75e44e9699924dfe7ac7637e0917",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/cloud-logging.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/cloud-logging.json"
     },
@@ -888,7 +888,7 @@
     {
       "metadata": "{\"name\": \"credstore\", \"description\": \"Credential Store\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/credential-store\"}",
       "path": "v1/developer/credstore.json",
-      "sha": "6baa67fbccd5497c389097d2df8e759862d5b3e1",
+      "sha": "142245e76a9a56dd9de34e3a41463f519001f9b1",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/credstore.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/credstore.json"
     },
@@ -1840,7 +1840,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "b94d337ebed099a3d9078811dc885fff4d6a220c",
+      "sha": "3760826094e86e09b8ca0afb38bcc5651f2ba86b",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
