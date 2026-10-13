@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-10-13T02:27:11Z",
+  "generated_at_utc": "2026-10-13T10:10:43Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "d211fff898354ea4733e5c6d52593cbdb1ebbd17"
+    "head_sha": "306266d7c78cc5ffe69686d6d07209a37a443138"
   },
   "count": 606,
   "errors": 0,
@@ -153,7 +153,7 @@
     {
       "metadata": "{\"name\": \"alert-notification\", \"description\": \"Alert Notification Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/#/serviceCatalog/alert-notification\"}",
       "path": "v1/developer/alert-notification.json",
-      "sha": "a62ea228e57984bb764b44a9f5de7fa0ab7f6b7a",
+      "sha": "2456261060acd1ff3cd3f1258ee0f5a99582cd4d",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/alert-notification.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/alert-notification.json"
     },
@@ -1840,7 +1840,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "16b7a9d40257ba709c6da418ed84631d94044746",
+      "sha": "51a17d91c515ed96be962614e14a80c4e60a8016",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
