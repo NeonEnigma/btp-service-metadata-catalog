@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-10-14T01:38:22Z",
+  "generated_at_utc": "2026-10-14T07:11:04Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": null
+    "head_sha": "05a8baeef67e03e1f92697b7ca9b3d9ac73bb802"
   },
   "count": 606,
   "errors": 0,
@@ -1840,7 +1840,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "51a17d91c515ed96be962614e14a80c4e60a8016",
+      "sha": "d7a45457eb2bdf41351dd8daeabc39128ea4df50",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -2246,7 +2246,7 @@
     {
       "metadata": "{\"name\": \"kafka\", \"description\": \"Apache Kafka\", \"deprecated\": false, \"link\": \"https://help.sap.com/doc/fe8f39bf9b0640fe8ae37031a85a8d96/\"}",
       "path": "v1/developer/kafka.json",
-      "sha": "fbb7d7993f96a6645e1e45a752626d1b9bae4761",
+      "sha": "c161bd39ae1f6b7ab6d9a92976cd1d26affd6447",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/kafka.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/kafka.json"
     },
@@ -3590,7 +3590,7 @@
     {
       "metadata": "{\"name\": \"sap-graph\", \"description\": \"API Composition\", \"deprecated\": false, \"link\": \"https://api.sap.com/graph\"}",
       "path": "v1/developer/sap-graph.json",
-      "sha": "bfbfebad163b70f3898e1c9802f50a6e4620fbed",
+      "sha": "3eb57c2136c83bd6b5032ed256f69ffa259e8dc7",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sap-graph.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sap-graph.json"
     },
