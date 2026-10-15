@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-10-15T01:15:17Z",
+  "generated_at_utc": "2026-10-15T07:03:20Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "05a8baeef67e03e1f92697b7ca9b3d9ac73bb802"
+    "head_sha": "1e5763c481066c352ead153f662407cac604f296"
   },
   "count": 606,
   "errors": 0,
@@ -993,7 +993,7 @@
     {
       "metadata": "{\"name\": \"das-application\", \"description\": \"Joule\", \"deprecated\": false, \"link\": \"https://help.sap.com/joule\"}",
       "path": "v1/developer/das-application.json",
-      "sha": "ee57092edec75e825405e3cd958392a11d675e0d",
+      "sha": "8abab1ba549a46eb712c546c64341aea208f1573",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/das-application.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/das-application.json"
     },
@@ -1840,7 +1840,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "d7a45457eb2bdf41351dd8daeabc39128ea4df50",
+      "sha": "293f16d3fd79d1ba81ae8936b2c02dfcb3fd58eb",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
