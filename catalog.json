@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-10-16T05:33:29Z",
+  "generated_at_utc": "2026-10-16T10:50:44Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "1e5763c481066c352ead153f662407cac604f296"
+    "head_sha": "f4768e7156b3c39ed5c177e654a473952c014ebc"
   },
   "count": 606,
   "errors": 0,
@@ -251,7 +251,7 @@
     {
       "metadata": "{\"name\": \"application-frontend\", \"description\": \"Application Frontend Service\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/application-frontend-service/application-frontend-service\"}",
       "path": "v1/developer/application-frontend.json",
-      "sha": "c9f8dfae73fb72ceab22725636ca043802efcfce",
+      "sha": "64353f331f3fc0d00202fc827653ca0ce289009a",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/application-frontend.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/application-frontend.json"
     },
@@ -1210,7 +1210,7 @@
     {
       "metadata": "{\"name\": \"document-information-extraction-application\", \"description\": \"SAP Document AI\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-document-ai\"}",
       "path": "v1/developer/document-information-extraction-application.json",
-      "sha": "c75c3b9ba07ab3086bc4da97a467a7a7f06f2017",
+      "sha": "85875020d58440ea20d68675cf9f1a93e21a030a",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/document-information-extraction-application.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/document-information-extraction-application.json"
     },
@@ -1840,7 +1840,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "293f16d3fd79d1ba81ae8936b2c02dfcb3fd58eb",
+      "sha": "aa93b095f8861642239fb9224d19f5c050bea6c9",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -2246,7 +2246,7 @@
     {
       "metadata": "{\"name\": \"kafka\", \"description\": \"Apache Kafka\", \"deprecated\": false, \"link\": \"https://help.sap.com/doc/fe8f39bf9b0640fe8ae37031a85a8d96/\"}",
       "path": "v1/developer/kafka.json",
-      "sha": "c161bd39ae1f6b7ab6d9a92976cd1d26affd6447",
+      "sha": "dbad8a3cdd6f9d065dc8e22d9f0c060f14ca6a93",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/kafka.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/kafka.json"
     },
@@ -3583,7 +3583,7 @@
     {
       "metadata": "{\"name\": \"sap-document-information-extraction\", \"description\": \"SAP Document AI\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-document-ai\"}",
       "path": "v1/developer/sap-document-information-extraction.json",
-      "sha": "96d6e0003056855f972a247e1d765477e4a753d1",
+      "sha": "1f31f9d5e37cd209935b785bf258f2fb2ece6ec9",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sap-document-information-extraction.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sap-document-information-extraction.json"
     },
@@ -3625,7 +3625,7 @@
     {
       "metadata": "{\"name\": \"sap-identity-services-onboarding\", \"description\": \"Cloud Identity Services\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/identity-provisioning\"}",
       "path": "v1/developer/sap-identity-services-onboarding.json",
-      "sha": "9e952f450f6d739cddd2df94031165b4230b38f9",
+      "sha": "12272705bbb46260bcaf9b4b961f3356413afd5b",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sap-identity-services-onboarding.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sap-identity-services-onboarding.json"
     },
