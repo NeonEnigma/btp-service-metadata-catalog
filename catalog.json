@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-10-17T01:07:27Z",
+  "generated_at_utc": "2026-10-17T06:39:05Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "f4768e7156b3c39ed5c177e654a473952c014ebc"
+    "head_sha": "3e4bc6a3f5fe0ae264988677306b459259ec9e3f"
   },
   "count": 606,
   "errors": 0,
@@ -1084,14 +1084,14 @@
     {
       "metadata": "{\"name\": \"der-ctest-api\", \"description\": \"SAP Distributed Energy Resources Test API\", \"deprecated\": false, \"link\": \"https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/der-ctest-api.json\"}",
       "path": "v1/developer/der-ctest-api.json",
-      "sha": "a94a267552baafb80db96bf09090037c73e13b30",
+      "sha": "b3e5337f64d7e472ae52ddc209c4422a5c0f566e",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/der-ctest-api.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/der-ctest-api.json"
     },
     {
       "metadata": "{\"name\": \"der-customer-test\", \"description\": \"SAP Distributed Energy Resources - Test\", \"deprecated\": false, \"link\": \"https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/der-customer-test.json\"}",
       "path": "v1/developer/der-customer-test.json",
-      "sha": "5ae41dbd983bfd0aa9c214870b35dfcb0f79ee47",
+      "sha": "25cdc279426a5bdd466027839c83b59e69eac21b",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/der-customer-test.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/der-customer-test.json"
     },
@@ -1840,7 +1840,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "aa93b095f8861642239fb9224d19f5c050bea6c9",
+      "sha": "cf0c2564e3fe0713eca0f8e34b3dd3b6819a3ff7",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -3198,7 +3198,7 @@
     {
       "metadata": "{\"name\": \"privatelink\", \"description\": \"Private Link Service\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/private-link-service\"}",
       "path": "v1/developer/privatelink.json",
-      "sha": "5ddb601e987404a8ed050c90cc1dc4e19098660e",
+      "sha": "ddb75086ae884338071bebaaa62702bf1a4d5789",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/privatelink.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/privatelink.json"
     },
