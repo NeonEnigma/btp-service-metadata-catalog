@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-10-18T03:21:45Z",
+  "generated_at_utc": "2026-10-18T08:37:16Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "3e4bc6a3f5fe0ae264988677306b459259ec9e3f"
+    "head_sha": "08d387d8b748521178282eafe70fbb07ad407a4a"
   },
   "count": 606,
   "errors": 0,
@@ -1840,7 +1840,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "cf0c2564e3fe0713eca0f8e34b3dd3b6819a3ff7",
+      "sha": "86852f71b75616f1996db05c05d27dcede5a3699",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -3919,7 +3919,7 @@
     {
       "metadata": "{\"name\": \"secure-login-service\", \"description\": \"Get client certificates via Secure Login Client (SLC) to log-on with SAP GUI.\", \"deprecated\": false, \"link\": \"https://help.sap.com/sls\"}",
       "path": "v1/developer/secure-login-service.json",
-      "sha": "405e1c7d7efca485e1132f1121970f2b156ce477",
+      "sha": "072ed86c0c70368073ecdd89d7d4dba3f7a90e4f",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/secure-login-service.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/secure-login-service.json"
     },
