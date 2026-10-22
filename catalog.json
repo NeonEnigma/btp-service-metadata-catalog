@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-10-22T01:17:55Z",
+  "generated_at_utc": "2026-10-22T07:12:24Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "618750396cce6d5a419a201ca0d63eb924e939df"
+    "head_sha": "f28105c370555da0bbbae9b66529299cd45c8f10"
   },
   "count": 606,
   "errors": 0,
@@ -1840,7 +1840,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "8470aeeb51ff259bbc8475d93aeafff9b352dc68",
+      "sha": "356563650029c1f2a1d840c0ea6e7d3292188fd1",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -3681,7 +3681,7 @@
     {
       "metadata": "{\"name\": \"sap-papm-tax-dtm\", \"description\": \"SAP Direct Tax Management\", \"deprecated\": false, \"link\": \"https://help.sap.com/docs/SAP_DIRECT_TAX_MANAGEMENT\"}",
       "path": "v1/developer/sap-papm-tax-dtm.json",
-      "sha": "eee94da5f9cc2988c4bdca104c33f4ef4a2ab961",
+      "sha": "42989e01342e64d608f33832aac83c16f84a979f",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/sap-papm-tax-dtm.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/sap-papm-tax-dtm.json"
     },
@@ -4066,7 +4066,7 @@
     {
       "metadata": "{\"name\": \"theming\", \"description\": \"The UI theme designer lets you apply your corporate branding to applications built with SAP UI technologies. You can make changes to theme templates supplied by SAP to create custom themes that use your own color scheme, background images, and company logo. You can apply a custom theme to various SAP UI clients and technologies. Additionally, you can include your own custom CSS files without having to modify any of your applications.\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/index.html#/serviceCatalog/ui-theme-designer/?tab=&commercialModel=cpea\"}",
       "path": "v1/developer/theming.json",
-      "sha": "93c9a7d9e171418934f18b529f679621a0632745",
+      "sha": "59fcff4c2cbd98026b3a44a6ac4dcbf939f5619c",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/theming.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/theming.json"
     },
