@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-10-28T04:22:37Z",
+  "generated_at_utc": "2026-10-28T11:01:24Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "8168dd89a1ccba51e58fc3073783673984c385ad"
+    "head_sha": "99892fdf8ba4d0e61c553c22648a03b21f7130fc"
   },
   "count": 606,
   "errors": 0,
@@ -713,7 +713,7 @@
     {
       "metadata": "{\"name\": \"cloud-logging\", \"description\": \"Cloud Logging\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/cloud-logging\"}",
       "path": "v1/developer/cloud-logging.json",
-      "sha": "a6b9d69235ce75e44e9699924dfe7ac7637e0917",
+      "sha": "2fbd76d4846a9a0869528220649deb6001d4e505",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/cloud-logging.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/cloud-logging.json"
     },
@@ -1082,16 +1082,16 @@
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/decentralized-identity-management.json"
     },
     {
-      "metadata": "{\"name\": \"der-ctest-api\", \"description\": \"SAP Distributed Energy Resources Test API\", \"deprecated\": false, \"link\": \"https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/der-ctest-api.json\"}",
+      "metadata": "{\"name\": \"der-ctest-api\", \"description\": \"SAP Distributed Energy Resources Test\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/Cloud_for_Utilities_Foundation/Cloud\"}",
       "path": "v1/developer/der-ctest-api.json",
-      "sha": "b3e5337f64d7e472ae52ddc209c4422a5c0f566e",
+      "sha": "b4231c10da2fce231133d6a1cd1b033075c56533",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/der-ctest-api.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/der-ctest-api.json"
     },
     {
-      "metadata": "{\"name\": \"der-customer-test\", \"description\": \"SAP Distributed Energy Resources - Test\", \"deprecated\": false, \"link\": \"https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/der-customer-test.json\"}",
+      "metadata": "{\"name\": \"der-customer-test\", \"description\": \"SAP Distributed Energy Resources Test\", \"deprecated\": false, \"link\": \"https://help.sap.com/viewer/product/Cloud_for_Utilities_Foundation/Cloud\"}",
       "path": "v1/developer/der-customer-test.json",
-      "sha": "25cdc279426a5bdd466027839c83b59e69eac21b",
+      "sha": "8a9d805bf235d1be70e4d3759f5544bbd6a34f9f",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/der-customer-test.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/der-customer-test.json"
     },
@@ -1126,7 +1126,7 @@
     {
       "metadata": "{\"name\": \"di-api\", \"description\": \"Data Space Integration API Access\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/integration-suite?region=all&tab=service_plan\"}",
       "path": "v1/developer/di-api.json",
-      "sha": "1b0faa4239988b8166cec0d33e0dd65dcfe5f30f",
+      "sha": "6079206865c2e3388ca4c19ed8deba1dda2d2fec",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/di-api.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/di-api.json"
     },
@@ -1840,7 +1840,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "62acf178e63ef02c0bbb9f0c2d478931362412e6",
+      "sha": "9e1f693786b92691d14ad3bbce27c8e4cc4a14ef",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -3065,7 +3065,7 @@
     {
       "metadata": "{\"name\": \"postgresql-db\", \"description\": \"PostgreSQL on SAP BTP, hyperscaler option provides a managed relational database service, based on native PostgreSQL offerings from cloud providers AWS, Microsoft Azure, Google Cloud Platform and Alicloud.\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/postgresql-hyperscaler-option\"}",
       "path": "v1/developer/postgresql-db.json",
-      "sha": "ce2fdbb9941dc0a9398775025b7a1b7542fd7189",
+      "sha": "2bfa3641381bb966926904a9aed88881de760543",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/postgresql-db.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/postgresql-db.json"
     },
