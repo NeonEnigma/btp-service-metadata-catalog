@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-10-29T02:10:06Z",
+  "generated_at_utc": "2026-10-29T09:28:58Z",
   "source": {
     "owner": "SAP-samples",
     "repo": "btp-service-metadata",
     "branch": "main",
     "start_path": "v1/developer",
-    "head_sha": "99892fdf8ba4d0e61c553c22648a03b21f7130fc"
+    "head_sha": "f7acf14ba21e0ef9ef2dd6c92ee71f79c6201ecf"
   },
   "count": 606,
   "errors": 0,
@@ -1840,7 +1840,7 @@
     {
       "metadata": "{\"name\": \"hana-cloud\", \"description\": \"SAP HANA Cloud\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud\"}",
       "path": "v1/developer/hana-cloud.json",
-      "sha": "9e1f693786b92691d14ad3bbce27c8e4cc4a14ef",
+      "sha": "f9e5720e233e40001660f07479a687f97ecc9080",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/hana-cloud.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/hana-cloud.json"
     },
@@ -3065,7 +3065,7 @@
     {
       "metadata": "{\"name\": \"postgresql-db\", \"description\": \"PostgreSQL on SAP BTP, hyperscaler option provides a managed relational database service, based on native PostgreSQL offerings from cloud providers AWS, Microsoft Azure, Google Cloud Platform and Alicloud.\", \"deprecated\": false, \"link\": \"https://discovery-center.cloud.sap/serviceCatalog/postgresql-hyperscaler-option\"}",
       "path": "v1/developer/postgresql-db.json",
-      "sha": "2bfa3641381bb966926904a9aed88881de760543",
+      "sha": "a752ade9bcf0ba139d9a0eec958cd9fa48bb293b",
       "raw_url": "https://raw.githubusercontent.com/SAP-samples/btp-service-metadata/main/v1/developer/postgresql-db.json",
       "html_url": "https://github.com/SAP-samples/btp-service-metadata/blob/main/v1/developer/postgresql-db.json"
     },
